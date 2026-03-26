@@ -17,10 +17,10 @@
       "vocabulary.json"
     ],
     "b1": [
-      "b1/vocabulary.json"
+      "vocabulary.json"
     ],
     "c1": [
-      "c1/vocabulary.json"
+      "vocabulary.json"
     ],
     "verbs": [
       "irregular.json"
@@ -34,16 +34,40 @@
     "5000": "https://raw.githubusercontent.com/ittuann/The-Oxford-5000-Word-Lists/main/The%20Oxford%205000.txt"
   },
   "books": [
-    {"title":"Pride and Prejudice","author":"Jane Austen","year":1813,"level":"B1","color":"#e8b86d","url":"https://www.gutenberg.org/files/1342/1342-0.txt","desc":"Love, class and marriage in Regency England."},
-    {"title":"Alice in Wonderland","author":"Lewis Carroll","year":1865,"level":"A2","color":"#3ddc84","url":"https://www.gutenberg.org/files/11/11-0.txt","desc":"A fantastic journey through impossible logic."},
-    {"title":"Sherlock Holmes","author":"Arthur Conan Doyle","year":1892,"level":"B2","color":"#ff9a3c","url":"https://www.gutenberg.org/files/1661/1661-0.txt","desc":"Twelve adventures with the world's greatest detective."}
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year": 1813,
+      "level": "B1",
+      "color": "#e8b86d",
+      "url": "https://www.gutenberg.org/files/1342/1342-0.txt",
+      "desc": "Love, class and marriage in Regency England."
+    },
+    {
+      "title": "Alice in Wonderland",
+      "author": "Lewis Carroll",
+      "year": 1865,
+      "level": "A2",
+      "color": "#3ddc84",
+      "url": "https://www.gutenberg.org/files/11/11-0.txt",
+      "desc": "A fantastic journey through impossible logic."
+    },
+    {
+      "title": "Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "year": 1892,
+      "level": "B2",
+      "color": "#ff9a3c",
+      "url": "https://www.gutenberg.org/files/1661/1661-0.txt",
+      "desc": "Twelve adventures with the world's greatest detective."
+    }
   ],
   "level_thresholds": {
-    "A1": {"min": 0, "max": 100, "next": "A2", "words_to_master": 30},
-    "A2": {"min": 100, "max": 250, "next": "B1", "words_to_master": 60},
-    "B1": {"min": 250, "max": 500, "next": "B2", "words_to_master": 100},
-    "B2": {"min": 500, "max": 800, "next": "C1", "words_to_master": 150},
-    "C1": {"min": 800, "max": 1200, "next": "C2", "words_to_master": 200},
-    "C2": {"min": 1200, "max": 2000, "next": "Master", "words_to_master": 300}
+    "A1": { "min": 0, "max": 100, "next": "A2", "words_to_master": 30 },
+    "A2": { "min": 100, "max": 250, "next": "B1", "words_to_master": 60 },
+    "B1": { "min": 250, "max": 500, "next": "B2", "words_to_master": 100 },
+    "B2": { "min": 500, "max": 800, "next": "C1", "words_to_master": 150 },
+    "C1": { "min": 800, "max": 1200, "next": "C2", "words_to_master": 200 },
+    "C2": { "min": 1200, "max": 2000, "next": "Master", "words_to_master": 300 }
   }
 }
