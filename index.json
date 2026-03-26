@@ -5,28 +5,22 @@
   "base_url": "https://raw.githubusercontent.com/RicardoM792/Lexis-data/main/",
   "files": {
     "a1": [
-      "a1/colors.json",
-      "a1/numbers.json",
-      "a1/pronouns.json",
-      "a1/adjectives.json",
-      "a1/nouns.json",
-      "a1/seasons-weather.json",
-      "a1/time.json"
+      "colors.json",
+      "numbers.json",
+      "pronouns.json",
+      "seasons-weather.json",
+      "time.json"
     ],
     "a2": [
-      "a2/vocabulary.json"
+      "vocabulary.json"
     ],
-    "b1": [
-      "b1/vocabulary.json"
-    ],
-    "c1": [
-      "c1/vocabulary.json"
-    ],
+    "b1": [],
+    "c1": [],
     "verbs": [
-      "verbs/irregular.json"
+      "irregular.json"
     ],
     "grammar": [
-      "grammar/rules.json"
+      "rules.json"
     ]
   },
   "oxford": {
@@ -36,34 +30,7 @@
   "books": [
     {"title":"Pride and Prejudice","author":"Jane Austen","year":1813,"level":"B1","color":"#e8b86d","url":"https://www.gutenberg.org/files/1342/1342-0.txt","desc":"Love, class and marriage in Regency England."},
     {"title":"Alice in Wonderland","author":"Lewis Carroll","year":1865,"level":"A2","color":"#3ddc84","url":"https://www.gutenberg.org/files/11/11-0.txt","desc":"A fantastic journey through impossible logic."},
-    {"title":"Sherlock Holmes","author":"Arthur Conan Doyle","year":1892,"level":"B2","color":"#ff9a3c","url":"https://www.gutenberg.org/files/1661/1661-0.txt","desc":"Twelve adventures with the world's greatest detective."},
-    {"title":"The Great Gatsby","author":"F. Scott Fitzgerald","year":1925,"level":"B2","color":"#ff5a1f","url":"https://www.gutenberg.org/files/64317/64317-0.txt","desc":"The Jazz Age, excess and the impossible American dream."},
-    {"title":"Frankenstein","author":"Mary Shelley","year":1818,"level":"B2","color":"#9b59b6","url":"https://www.gutenberg.org/files/84/84-0.txt","desc":"The original science fiction novel on creation and responsibility."},
-    {"title":"Dracula","author":"Bram Stoker","year":1897,"level":"B2","color":"#922b21","url":"https://www.gutenberg.org/files/345/345-0.txt","desc":"The most famous vampire in literature."},
-    {"title":"The Picture of Dorian Gray","author":"Oscar Wilde","year":1890,"level":"C1","color":"#e74c3c","url":"https://www.gutenberg.org/files/174/174-0.txt","desc":"Eternal beauty at the cost of the soul."},
-    {"title":"Jane Eyre","author":"Charlotte Brontë","year":1847,"level":"B2","color":"#8e44ad","url":"https://www.gutenberg.org/files/1260/1260-0.txt","desc":"A brave governess finds love and fights for independence."},
-    {"title":"Great Expectations","author":"Charles Dickens","year":1861,"level":"B2","color":"#27ae60","url":"https://www.gutenberg.org/files/1400/1400-0.txt","desc":"Pip's journey from poverty to self-knowledge."},
-    {"title":"Oliver Twist","author":"Charles Dickens","year":1838,"level":"B1","color":"#16a085","url":"https://www.gutenberg.org/files/730/730-0.txt","desc":"An orphan escapes poverty in Victorian London."},
-    {"title":"The War of the Worlds","author":"H.G. Wells","year":1898,"level":"B1","color":"#1abc9c","url":"https://www.gutenberg.org/files/36/36-0.txt","desc":"The Martian invasion that revolutionised science fiction."},
-    {"title":"The Time Machine","author":"H.G. Wells","year":1895,"level":"B1","color":"#2980b9","url":"https://www.gutenberg.org/files/35/35-0.txt","desc":"The first time travel in modern literature."},
-    {"title":"Treasure Island","author":"Robert Louis Stevenson","year":1883,"level":"A2","color":"#f1c40f","url":"https://www.gutenberg.org/files/120/120-0.txt","desc":"Pirates, treasure maps and high-seas adventure."},
-    {"title":"Wuthering Heights","author":"Emily Brontë","year":1847,"level":"C1","color":"#2c3e50","url":"https://www.gutenberg.org/files/768/768-0.txt","desc":"A wild and destructive love on the English moors."},
-    {"title":"A Tale of Two Cities","author":"Charles Dickens","year":1859,"level":"C1","color":"#c0392b","url":"https://www.gutenberg.org/files/98/98-0.txt","desc":"London and Paris during the French Revolution."},
-    {"title":"Adventures of Tom Sawyer","author":"Mark Twain","year":1876,"level":"A2","color":"#e67e22","url":"https://www.gutenberg.org/files/74/74-0.txt","desc":"The mischief of a naughty boy by the Mississippi."},
-    {"title":"Huckleberry Finn","author":"Mark Twain","year":1884,"level":"B1","color":"#d35400","url":"https://www.gutenberg.org/files/76/76-0.txt","desc":"A river journey through pre-civil war America."},
-    {"title":"The Jungle Book","author":"Rudyard Kipling","year":1894,"level":"A2","color":"#4caf50","url":"https://www.gutenberg.org/files/236/236-0.txt","desc":"Mowgli and his animal friends in the Indian jungle."},
-    {"title":"Around the World in 80 Days","author":"Jules Verne","year":1872,"level":"B1","color":"#03a9f4","url":"https://www.gutenberg.org/files/103/103-0.txt","desc":"A bet takes Phileas Fogg around the globe."},
-    {"title":"The Count of Monte Cristo","author":"Alexandre Dumas","year":1844,"level":"C1","color":"#bf360c","url":"https://www.gutenberg.org/files/1184/1184-0.txt","desc":"Betrayal, prison, and a meticulous revenge."},
-    {"title":"Hamlet","author":"William Shakespeare","year":1603,"level":"C2","color":"#455a64","url":"https://www.gutenberg.org/files/1524/1524-0.txt","desc":"Revenge, madness and the existential question."},
-    {"title":"Romeo and Juliet","author":"William Shakespeare","year":1597,"level":"B2","color":"#e91e63","url":"https://www.gutenberg.org/files/1112/1112-0.txt","desc":"The most tragic romance in literary history."},
-    {"title":"A Midsummer Night's Dream","author":"William Shakespeare","year":1600,"level":"B2","color":"#26a69a","url":"https://www.gutenberg.org/files/1514/1514-0.txt","desc":"Magic, love and confusion in the enchanted forest."},
-    {"title":"Emma","author":"Jane Austen","year":1815,"level":"B2","color":"#c49a4a","url":"https://www.gutenberg.org/files/158/158-0.txt","desc":"A young meddler learns love cannot be planned."},
-    {"title":"Sense and Sensibility","author":"Jane Austen","year":1811,"level":"B1","color":"#d4a853","url":"https://www.gutenberg.org/files/161/161-0.txt","desc":"Two sisters with opposite characters seek true love."},
-    {"title":"The Importance of Being Earnest","author":"Oscar Wilde","year":1895,"level":"B2","color":"#f39c12","url":"https://www.gutenberg.org/files/844/844-0.txt","desc":"A comedy of mistaken identities and marriage."},
-    {"title":"The Strange Case of Dr Jekyll and Mr Hyde","author":"R.L. Stevenson","year":1886,"level":"B2","color":"#6c3483","url":"https://www.gutenberg.org/files/43/43-0.txt","desc":"Good and evil coexist in one man."},
-    {"title":"Moby Dick","author":"Herman Melville","year":1851,"level":"C1","color":"#5eaeff","url":"https://www.gutenberg.org/files/2701/2701-0.txt","desc":"The obsessive pursuit of the white whale."},
-    {"title":"Don Quixote","author":"Miguel de Cervantes","year":1605,"level":"C2","color":"#795548","url":"https://www.gutenberg.org/files/996/996-0.txt","desc":"The knight errant who mistakes windmills for giants."},
-    {"title":"The Invisible Man","author":"H.G. Wells","year":1897,"level":"B1","color":"#7f8c8d","url":"https://www.gutenberg.org/files/5230/5230-0.txt","desc":"A scientist turns invisible and loses his humanity."}
+    {"title":"Sherlock Holmes","author":"Arthur Conan Doyle","year":1892,"level":"B2","color":"#ff9a3c","url":"https://www.gutenberg.org/files/1661/1661-0.txt","desc":"Twelve adventures with the world's greatest detective."}
   ],
   "level_thresholds": {
     "A1": {"min": 0, "max": 100, "next": "A2", "words_to_master": 30},
