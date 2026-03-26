@@ -1,0 +1,167 @@
+[
+  {
+    "word": "accommodation",
+    "es": "alojamiento",
+    "ipa": "/əˌkɒməˈdeɪʃən/",
+    "type": "noun",
+    "topic": "travel",
+    "level": "B1",
+    "meaning": "a place to stay",
+    "example": "We need to find accommodation for the night.",
+    "example_es": "Necesitamos encontrar alojamiento para la noche."
+  },
+  {
+    "word": "achieve",
+    "es": "lograr",
+    "ipa": "/əˈtʃiːv/",
+    "type": "verb",
+    "topic": "success",
+    "level": "B1",
+    "meaning": "to successfully complete something",
+    "example": "You can achieve anything with hard work.",
+    "example_es": "Puedes lograr cualquier cosa con trabajo duro."
+  },
+  {
+    "word": "advantage",
+    "es": "ventaja",
+    "ipa": "/ədˈvɑːntɪdʒ/",
+    "type": "noun",
+    "topic": "benefit",
+    "level": "B1",
+    "meaning": "a benefit",
+    "example": "Being bilingual is a great advantage.",
+    "example_es": "Ser bilingüe es una gran ventaja."
+  },
+  {
+    "word": "behavior",
+    "es": "comportamiento",
+    "ipa": "/bɪˈheɪvjər/",
+    "type": "noun",
+    "topic": "actions",
+    "level": "B1",
+    "meaning": "the way someone acts",
+    "example": "His behavior was unacceptable.",
+    "example_es": "Su comportamiento fue inaceptable."
+  },
+  {
+    "word": "community",
+    "es": "comunidad",
+    "ipa": "/kəˈmjuːnəti/",
+    "type": "noun",
+    "topic": "society",
+    "level": "B1",
+    "meaning": "a group of people",
+    "example": "Our community is very friendly.",
+    "example_es": "Nuestra comunidad es muy amigable."
+  },
+  {
+    "word": "consequence",
+    "es": "consecuencia",
+    "ipa": "/ˈkɒnsɪkwəns/",
+    "type": "noun",
+    "topic": "result",
+    "level": "B1",
+    "meaning": "a result of an action",
+    "example": "Every action has a consequence.",
+    "example_es": "Cada acción tiene una consecuencia."
+  },
+  {
+    "word": "culture",
+    "es": "cultura",
+    "ipa": "/ˈkʌltʃər/",
+    "type": "noun",
+    "topic": "society",
+    "level": "B1",
+    "meaning": "customs and beliefs",
+    "example": "I love learning about different cultures.",
+    "example_es": "Me encanta aprender sobre diferentes culturas."
+  },
+  {
+    "word": "develop",
+    "es": "desarrollar",
+    "ipa": "/dɪˈveləp/",
+    "type": "verb",
+    "topic": "growth",
+    "level": "B1",
+    "meaning": "to grow or improve",
+    "example": "We need to develop new skills.",
+    "example_es": "Necesitamos desarrollar nuevas habilidades."
+  },
+  {
+    "word": "environment",
+    "es": "medio ambiente",
+    "ipa": "/ɪnˈvaɪrənmənt/",
+    "type": "noun",
+    "topic": "nature",
+    "level": "B1",
+    "meaning": "the natural world",
+    "example": "We must protect the environment.",
+    "example_es": "Debemos proteger el medio ambiente."
+  },
+  {
+    "word": "experience",
+    "es": "experiencia",
+    "ipa": "/ɪkˈspɪəriəns/",
+    "type": "noun",
+    "topic": "knowledge",
+    "level": "B1",
+    "meaning": "knowledge from doing something",
+    "example": "Traveling gives you valuable experience.",
+    "example_es": "Viajar te da una experiencia valiosa."
+  },
+  {
+    "word": "government",
+    "es": "gobierno",
+    "ipa": "/ˈɡʌvənmənt/",
+    "type": "noun",
+    "topic": "politics",
+    "level": "B1",
+    "meaning": "the ruling body",
+    "example": "The government announced new laws.",
+    "example_es": "El gobierno anunció nuevas leyes."
+  },
+  {
+    "word": "improve",
+    "es": "mejorar",
+    "ipa": "/ɪmˈpruːv/",
+    "type": "verb",
+    "topic": "progress",
+    "level": "B1",
+    "meaning": "to make better",
+    "example": "I want to improve my English.",
+    "example_es": "Quiero mejorar mi inglés."
+  },
+  {
+    "word": "opportunity",
+    "es": "oportunidad",
+    "ipa": "/ˌɒpəˈtjuːnəti/",
+    "type": "noun",
+    "topic": "chance",
+    "level": "B1",
+    "meaning": "a good chance",
+    "example": "This is a great opportunity.",
+    "example_es": "Esta es una gran oportunidad."
+  },
+  {
+    "word": "success",
+    "es": "éxito",
+    "ipa": "/səkˈses/",
+    "type": "noun",
+    "topic": "achievement",
+    "level": "B1",
+    "meaning": "achieving a goal",
+    "example": "Hard work leads to success.",
+    "example_es": "El trabajo duro lleva al éxito."
+  },
+  {
+    "word": "valuable",
+    "es": "valioso",
+    "ipa": "/ˈvæljuəbl/",
+    "type": "adjective",
+    "topic": "worth",
+    "level": "B1",
+    "meaning": "worth a lot",
+    "example": "This advice is very valuable.",
+    "example_es": "Este consejo es muy valioso."
+  }
+]
