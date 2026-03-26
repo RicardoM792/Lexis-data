@@ -8,14 +8,20 @@
       "colors.json",
       "numbers.json",
       "pronouns.json",
+      "adjectives.json",
+      "nouns.json",
       "seasons-weather.json",
       "time.json"
     ],
     "a2": [
       "vocabulary.json"
     ],
-    "b1": [],
-    "c1": [],
+    "b1": [
+      "b1/vocabulary.json"
+    ],
+    "c1": [
+      "c1/vocabulary.json"
+    ],
     "verbs": [
       "irregular.json"
     ],
