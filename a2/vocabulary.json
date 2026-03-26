@@ -1,7 +1,10 @@
 [
-  {"word":"adventure","es":"aventura","ipa":"/ədˈventʃər/","type":"noun","topic":"travel","level":"A2","meaning":"an exciting experience","example":"We had an adventure in the mountains.","example_es":"Tuvimos una aventura en las montañas."},
+  {"word":"accident","es":"accidente","ipa":"/ˈæksɪdənt/","type":"noun","topic":"events","level":"A2","meaning":"an unplanned event","example":"He had a car accident.","example_es":"Tuvo un accidente de coche."},
+  {"word":"advice","es":"consejo","ipa":"/ədˈvaɪs/","type":"noun","topic":"communication","level":"A2","meaning":"recommendation","example":"Let me give you some advice.","example_es":"Déjame darte un consejo."},
   {"word":"agree","es":"estar de acuerdo","ipa":"/əˈɡriː/","type":"verb","topic":"communication","level":"A2","meaning":"to have the same opinion","example":"I agree with you.","example_es":"Estoy de acuerdo contigo."},
-  {"word":"although","es":"aunque","ipa":"/ɔːlˈðəʊ/","type":"conjunction","topic":"grammar","level":"A2","meaning":"despite the fact that","example":"Although it rained, we went out.","example_es":"Aunque llovió, salimos."},
+  {"word":"allow","es":"permitir","ipa":"/əˈlaʊ/","type":"verb","topic":"actions","level":"A2","meaning":"to let someone do something","example":"My parents allow me to go out.","example_es":"Mis padres me permiten salir."},
+  {"word":"alone","es":"solo","ipa":"/əˈləʊn/","type":"adjective","topic":"state","level":"A2","meaning":"without others","example":"She lives alone.","example_es":"Ella vive sola."},
+  {"word":"already","es":"ya","ipa":"/ɔːlˈredi/","type":"adverb","topic":"time","level":"A2","meaning":"before now","example":"I have already eaten.","example_es":"Ya comí."},
   {"word":"arrive","es":"llegar","ipa":"/əˈraɪv/","type":"verb","topic":"travel","level":"A2","meaning":"to reach a place","example":"What time does the train arrive?","example_es":"¿A qué hora llega el tren?"},
   {"word":"believe","es":"creer","ipa":"/bɪˈliːv/","type":"verb","topic":"thought","level":"A2","meaning":"to think something is true","example":"I believe in you.","example_es":"Creo en ti."},
   {"word":"borrow","es":"tomar prestado","ipa":"/ˈbɒrəʊ/","type":"verb","topic":"actions","level":"A2","meaning":"to take with permission","example":"Can I borrow your pen?","example_es":"¿Me prestas tu bolígrafo?"},
