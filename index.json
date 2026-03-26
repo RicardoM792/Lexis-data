@@ -1,73 +1,107 @@
 {
-  "version": "2.0.0",
-  "name": "LEXIS Data Repository",
-  "description": "Complete English learning data A1→C2 with Spanish translations",
+  "version": "3.0.0",
+  "name": "LEXIS PRO Data Repository",
+  "description": "Complete English learning ecosystem A1→C2 with Spanish translations, IPA, examples, and CEFR alignment",
   "base_url": "https://raw.githubusercontent.com/RicardoM792/Lexis-data/main/",
+  "metadata": {
+    "total_words": 3500,
+    "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
+    "categories": ["adjectives", "nouns", "verbs", "adverbs", "phrasal_verbs", "idioms", "collocations"],
+    "last_updated": "2026-03-27",
+    "license": "CC BY-SA 4.0"
+  },
   "files": {
-    "a1": [
-      "colors.json",
-      "numbers.json",
-      "pronouns.json",
-      "adjectives.json",
-      "nouns.json",
-      "seasons-weather.json",
-      "time.json"
-    ],
-    "a2": [
-      "vocabulary.json"
-    ],
-    "b1": [
-      "vocabulary.json"
-    ],
-    "c1": [
-      "vocabulary.json"
-    ],
-    "verbs": [
-      "irregular.json"
-    ],
-    "grammar": [
-      "rules.json"
-    ]
+    "by_level": {
+      "A1": [
+        "levels/a1-core.json",
+        "categories/adjectives-a1-c2.json?level=A1",
+        "categories/nouns-a1-c2.json?level=A1",
+        "categories/verbs-a1-c2.json?level=A1",
+        "grammar/rules-a1.json",
+        "verbs/irregular-a1-b1.json?level=A1"
+      ],
+      "A2": [
+        "levels/a2-essential.json",
+        "categories/adjectives-a1-c2.json?level=A2",
+        "categories/nouns-a1-c2.json?level=A2",
+        "categories/verbs-a1-c2.json?level=A2",
+        "grammar/rules-a2.json",
+        "verbs/irregular-a1-b1.json?level=A2"
+      ],
+      "B1": [
+        "levels/b1-intermediate.json",
+        "categories/phrasal-verbs-b1-c2.json?level=B1",
+        "categories/collocations-b1-c2.json?level=B1",
+        "grammar/rules-b1.json",
+        "skills/speaking-fillers.json?level=B1"
+      ],
+      "B2": [
+        "levels/b2-upper.json",
+        "categories/phrasal-verbs-b1-c2.json?level=B2",
+        "categories/idioms-b2-c2.json?level=B2",
+        "categories/collocations-b1-c2.json?level=B2",
+        "grammar/rules-b2.json",
+        "skills/writing-connectors.json?level=B2"
+      ],
+      "C1": [
+        "levels/c1-advanced.json",
+        "categories/idioms-b2-c2.json?level=C1",
+        "extras/false-friends.json?level=C1",
+        "grammar/rules-c1.json",
+        "extras/word-formation.json?level=C1"
+      ],
+      "C2": [
+        "levels/c2-mastery.json",
+        "categories/idioms-b2-c2.json?level=C2",
+        "extras/pronunciation-minimal-pairs.json?level=C2",
+        "grammar/rules-c2.json",
+        "extras/exam-prep-ielts-toefl.json?level=C2"
+      ]
+    },
+    "by_topic": {
+      "family": ["topics/family-relationships.json"],
+      "work": ["topics/work-career.json"],
+      "travel": ["topics/travel-transport.json"],
+      "food": ["topics/food-cooking.json"],
+      "health": ["topics/health-body.json"],
+      "tech": ["topics/technology-digital.json"],
+      "environment": ["topics/environment-nature.json"],
+      "emotions": ["topics/emotions-psychology.json"],
+      "business": ["topics/business-finance.json"],
+      "academic": ["topics/academic-writing.json"]
+    },
+    "by_skill": {
+      "listening": ["skills/listening-expressions.json"],
+      "speaking": ["skills/speaking-fillers.json"],
+      "writing": ["skills/writing-connectors.json"],
+      "reading": ["skills/reading-strategies.json"]
+    }
   },
   "oxford": {
     "3000": "https://raw.githubusercontent.com/ittuann/The-Oxford-5000-Word-Lists/main/The%20Oxford%203000.txt",
     "5000": "https://raw.githubusercontent.com/ittuann/The-Oxford-5000-Word-Lists/main/The%20Oxford%205000.txt"
   },
   "books": [
-    {
-      "title": "Pride and Prejudice",
-      "author": "Jane Austen",
-      "year": 1813,
-      "level": "B1",
-      "color": "#e8b86d",
-      "url": "https://www.gutenberg.org/files/1342/1342-0.txt",
-      "desc": "Love, class and marriage in Regency England."
-    },
-    {
-      "title": "Alice in Wonderland",
-      "author": "Lewis Carroll",
-      "year": 1865,
-      "level": "A2",
-      "color": "#3ddc84",
-      "url": "https://www.gutenberg.org/files/11/11-0.txt",
-      "desc": "A fantastic journey through impossible logic."
-    },
-    {
-      "title": "Sherlock Holmes",
-      "author": "Arthur Conan Doyle",
-      "year": 1892,
-      "level": "B2",
-      "color": "#ff9a3c",
-      "url": "https://www.gutenberg.org/files/1661/1661-0.txt",
-      "desc": "Twelve adventures with the world's greatest detective."
-    }
+    {"title":"Alice in Wonderland","author":"Lewis Carroll","year":1865,"level":"A2","url":"https://www.gutenberg.org/files/11/11-0.txt","desc":"Fantasy adventure with simple language"},
+    {"title":"The Little Prince","author":"Antoine de Saint-Exupéry","year":1943,"level":"A2-B1","url":"https://www.gutenberg.org/files/15160/15160-0.txt","desc":"Philosophical tale with clear prose"},
+    {"title":"Pride and Prejudice","author":"Jane Austen","year":1813,"level":"B1-B2","url":"https://www.gutenberg.org/files/1342/1342-0.txt","desc":"Classic romance and social commentary"},
+    {"title":"Sherlock Holmes: Adventures","author":"Arthur Conan Doyle","year":1892,"level":"B2","url":"https://www.gutenberg.org/files/1661/1661-0.txt","desc":"Detective stories with rich vocabulary"},
+    {"title":"1984","author":"George Orwell","year":1949,"level":"C1","url":"https://www.gutenberg.org/files/5470/5470-0.txt","desc":"Dystopian novel with political vocabulary"},
+    {"title":"The Great Gatsby","author":"F. Scott Fitzgerald","year":1925,"level":"C1-C2","url":"https://www.gutenberg.org/files/64317/64317-0.txt","desc":"Literary masterpiece with sophisticated prose"}
   ],
   "level_thresholds": {
-    "A1": { "min": 0, "max": 100, "next": "A2", "words_to_master": 30 },
-    "A2": { "min": 100, "max": 250, "next": "B1", "words_to_master": 60 },
-    "B1": { "min": 250, "max": 500, "next": "B2", "words_to_master": 100 },
-    "B2": { "min": 500, "max": 800, "next": "C1", "words_to_master": 150 },
-    "C1": { "min": 800, "max": 1200, "next": "C2", "words_to_master": 200 },
-    "C2": { "min": 1200, "max": 2000, "next": "Master", "words_to_master": 300 }
+    "A1": {"min":0,"max":100,"next":"A2","words_to_master":30,"description":"Breakthrough - Basic phrases and expressions"},
+    "A2": {"min":100,"max":250,"next":"B1","words_to_master":60,"description":"Waystage - Simple tasks and routine exchanges"},
+    "B1": {"min":250,"max":500,"next":"B2","words_to_master":100,"description":"Threshold - Handle most travel situations, describe experiences"},
+    "B2": {"min":500,"max":800,"next":"C1","words_to_master":150,"description":"Vantage - Interact with fluency, understand complex texts"},
+    "C1": {"min":800,"max":1200,"next":"C2","words_to_master":200,"description":"Effective Operational Proficiency - Express ideas fluently and precisely"},
+    "C2": {"min":1200,"max":2000,"next":"Master","words_to_master":300,"description":"Mastery - Understand virtually everything, express spontaneously"}
+  },
+  "xp_system": {
+    "word_mastered": 15,
+    "quiz_correct": 10,
+    "practice_correct": 15,
+    "daily_streak_bonus": 5,
+    "level_up_bonus": 100
   }
 }
