@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "name": "LEXIS Data Repository",
   "description": "Complete English learning data A1→C2 with Spanish translations",
-  "base_url": "REPLACE_WITH_YOUR_GITHUB_RAW_URL",
+  "base_url": "https://raw.githubusercontent.com/RicardoM792/Lexis-data/main/",
   "files": {
     "a1": [
       "a1/colors.json",
