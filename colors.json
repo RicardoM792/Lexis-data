@@ -1,0 +1,15 @@
+[
+  {"word":"red","es":"rojo","ipa":"/rɛd/","type":"adjective","topic":"colors","level":"A1","example":"The apple is red.","example_es":"La manzana es roja."},
+  {"word":"blue","es":"azul","ipa":"/bluː/","type":"adjective","topic":"colors","level":"A1","example":"The sky is blue.","example_es":"El cielo es azul."},
+  {"word":"green","es":"verde","ipa":"/ɡriːn/","type":"adjective","topic":"colors","level":"A1","example":"The grass is green.","example_es":"El pasto es verde."},
+  {"word":"yellow","es":"amarillo","ipa":"/ˈjɛloʊ/","type":"adjective","topic":"colors","level":"A1","example":"The sun is yellow.","example_es":"El sol es amarillo."},
+  {"word":"orange","es":"naranja","ipa":"/ˈɔːrɪndʒ/","type":"adjective","topic":"colors","level":"A1","example":"The fruit is orange.","example_es":"La fruta es naranja."},
+  {"word":"purple","es":"morado / púrpura","ipa":"/ˈpɜːrpəl/","type":"adjective","topic":"colors","level":"A1","example":"She has a purple bag.","example_es":"Ella tiene una bolsa morada."},
+  {"word":"pink","es":"rosado","ipa":"/pɪŋk/","type":"adjective","topic":"colors","level":"A1","example":"The flowers are pink.","example_es":"Las flores son rosadas."},
+  {"word":"black","es":"negro","ipa":"/blæk/","type":"adjective","topic":"colors","level":"A1","example":"The cat is black.","example_es":"El gato es negro."},
+  {"word":"white","es":"blanco","ipa":"/waɪt/","type":"adjective","topic":"colors","level":"A1","example":"The snow is white.","example_es":"La nieve es blanca."},
+  {"word":"brown","es":"marrón / café","ipa":"/braʊn/","type":"adjective","topic":"colors","level":"A1","example":"The table is brown.","example_es":"La mesa es marrón."},
+  {"word":"grey","es":"gris","ipa":"/ɡreɪ/","type":"adjective","topic":"colors","level":"A1","example":"The clouds are grey.","example_es":"Las nubes son grises."},
+  {"word":"dark","es":"oscuro","ipa":"/dɑːrk/","type":"adjective","topic":"colors","level":"A1","example":"It is dark outside.","example_es":"Está oscuro afuera."},
+  {"word":"light","es":"claro / luz","ipa":"/laɪt/","type":"adjective","topic":"colors","level":"A1","example":"She likes light blue.","example_es":"A ella le gusta el azul claro."}
+]
