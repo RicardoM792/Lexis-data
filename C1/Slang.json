@@ -1,0 +1,23 @@
+[
+  {"expression": "Beat around the bush", "meaning": "Avoid talking about the main topic", "translation": "Andarse por las ramas"},
+  {"expression": "Bite the bullet", "meaning": "Face a difficult situation bravely", "translation": "Afrontar una situación difícil con valentía"},
+  {"expression": "Throw someone under the bus", "meaning": "Betray someone for personal gain", "translation": "Traicionar a alguien para beneficio propio"},
+  {"expression": "By and large", "meaning": "Generally speaking", "translation": "En términos generales"},
+  {"expression": "Go the extra mile", "meaning": "Make a special effort", "translation": "Hacer un esfuerzo adicional"},
+  {"expression": "Hit the nail on the head", "meaning": "Describe exactly what is causing a situation", "translation": "Dar en el clavo"},
+  {"expression": "Jump on the bandwagon", "meaning": "Join a popular trend", "translation": "Subirse al carro de la moda"},
+  {"expression": "Keep someone at arm's length", "meaning": "Avoid getting too close to someone", "translation": "Mantener a alguien a distancia"},
+  {"expression": "Let sleeping dogs lie", "meaning": "Avoid interfering in a situation that could cause trouble", "translation": "Dejar las cosas como están"},
+  {"expression": "Miss the boat", "meaning": "Miss an opportunity", "translation": "Perder la oportunidad"},
+
+  {"expression": "Once in a blue moon", "meaning": "Very rarely", "translation": "Muy raramente"},
+  {"expression": "Play devil's advocate", "meaning": "Argue against a position for the sake of discussion", "translation": "Jugar al abogado del diablo"},
+  {"expression": "Sit on the fence", "meaning": "Avoid making a decision", "translation": "Mantenerse neutral"},
+  {"expression": "Steal someone's thunder", "meaning": "Take attention or praise away from someone", "translation": "Robar protagonismo a alguien"},
+  {"expression": "Take with a grain of salt", "meaning": "View something skeptically", "translation": "Tomar algo con escepticismo"},
+  {"expression": "The ball is in your court", "meaning": "It’s your decision to make", "translation": "La decisión es tuya"},
+  {"expression": "Under the weather", "meaning": "Feeling unwell", "translation": "Sentirse mal"},
+  {"expression": "Up the ante", "meaning": "Increase stakes or demands", "translation": "Aumentar la apuesta"},
+  {"expression": "When it rains, it pours", "meaning": "Problems often come together", "translation": "Los problemas vienen juntos"},
+  {"expression": "Your guess is as good as mine", "meaning": "I don’t know either", "translation": "No lo sé tampoco"}
+]
