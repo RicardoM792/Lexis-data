@@ -1,0 +1,13 @@
+[
+  {"rule": "Use semicolons to link closely related independent clauses", "example": "I wanted to attend the lecture; however, I was too busy.", "translation": "Usa punto y coma para enlazar cláusulas independientes relacionadas"},
+  {"rule": "Use colons to introduce explanations or quotations", "example": "She made one thing clear: punctuality is essential.", "translation": "Usa dos puntos para introducir explicaciones o citas"},
+  {"rule": "Use dashes for emphasis or interruption", "example": "The results — astonishingly — exceeded expectations.", "translation": "Usa guiones para énfasis o interrupción"},
+  {"rule": "Use parentheses for supplementary or clarifying information", "example": "The CEO (who has over 20 years of experience) will speak today.", "translation": "Usa paréntesis para info adicional o aclaratoria"},
+  {"rule": "Use commas for complex sentences and non-restrictive clauses", "example": "The project, although challenging, was a success.", "translation": "Usa comas para oraciones complejas y cláusulas no restrictivas"},
+
+  {"rule": "Use hyphens for compound modifiers before nouns", "example": "A well-thought-out strategy is key.", "translation": "Usa guiones en modificadores compuestos antes de sustantivos"},
+  {"rule": "Use ellipses for omission or trailing thought", "example": "He hesitated... unsure what to say.", "translation": "Usa puntos suspensivos para omisión o pensamiento interrumpido"},
+  {"rule": "Use quotation marks for direct speech and quotes", "example": "She said, \"We need to act now.\"", "translation": "Usa comillas para discurso directo y citas"},
+  {"rule": "Use apostrophes correctly for possession and contractions", "example": "It's the manager's decision.", "translation": "Usa apóstrofes correctamente para posesión y contracciones"},
+  {"rule": "Capitalize proper nouns, acronyms, and sentence starts", "example": "NASA launched a new satellite.", "translation": "Usa mayúsculas en nombres propios, siglas e inicio de oración"}
+]
