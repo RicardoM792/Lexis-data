@@ -1,0 +1,23 @@
+[
+  {"wrong": "He suggested me to attend the seminar", "correct": "He suggested that I attend the seminar", "translation": "Él sugirió que asistiera al seminario"},
+  {"wrong": "I am used to drive long distances", "correct": "I am used to driving long distances", "translation": "Estoy acostumbrado a conducir largas distancias"},
+  {"wrong": "She insisted me to finish the report", "correct": "She insisted that I finish the report", "translation": "Ella insistió en que terminara el informe"},
+  {"wrong": "I look forward seeing you", "correct": "I look forward to seeing you", "translation": "Espero verte"},
+  {"wrong": "He is capable to handle this project", "correct": "He is capable of handling this project", "translation": "Él es capaz de manejar este proyecto"},
+  {"wrong": "I explained him the procedure", "correct": "I explained the procedure to him", "translation": "Le expliqué el procedimiento"},
+  {"wrong": "She denied to be involved", "correct": "She denied being involved", "translation": "Ella negó estar involucrada"},
+  {"wrong": "I suggested to meet earlier", "correct": "I suggested meeting earlier", "translation": "Sugerí encontrarnos antes"},
+  {"wrong": "He apologized about the delay", "correct": "He apologized for the delay", "translation": "Él se disculpó por la demora"},
+  {"wrong": "I am interesting in learning more", "correct": "I am interested in learning more", "translation": "Estoy interesado en aprender más"},
+
+  {"wrong": "She was afraid to speak in public", "correct": "She was afraid of speaking in public", "translation": "Ella tenía miedo de hablar en público"},
+  {"wrong": "He insisted to help me", "correct": "He insisted on helping me", "translation": "Él insistió en ayudarme"},
+  {"wrong": "I am good in mathematics", "correct": "I am good at mathematics", "translation": "Soy bueno en matemáticas"},
+  {"wrong": "They accused him for lying", "correct": "They accused him of lying", "translation": "Lo acusaron de mentir"},
+  {"wrong": "I am looking forward to meet her", "correct": "I am looking forward to meeting her", "translation": "Espero con ansias conocerla"},
+  {"wrong": "She is married with a lawyer", "correct": "She is married to a lawyer", "translation": "Está casada con un abogado"},
+  {"wrong": "He suggested me going there", "correct": "He suggested I go there", "translation": "Él sugirió que fuera allí"},
+  {"wrong": "I am similar to my brother in many ways", "correct": "I am similar to my brother in many ways", "translation": "Soy similar a mi hermano en muchos aspectos"},
+  {"wrong": "She prevented me from to go", "correct": "She prevented me from going", "translation": "Ella me impidió ir"},
+  {"wrong": "I am able of completing this task", "correct": "I am able to complete this task", "translation": "Soy capaz de completar esta tarea"}
+]
