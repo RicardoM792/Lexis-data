@@ -26,7 +26,5 @@
   {"word":"water","es":"agua","ipa":"/ˈwɔːtər/","type":"noun","topic":"drinks","level":"A1","meaning":"liquid for drinking","example":"Drink more water.","example_es":"Bebe más agua."},
   {"word":"work","es":"trabajo","ipa":"/wɜːrk/","type":"noun","topic":"jobs","level":"A1","meaning":"place of employment","example":"She goes to work at 8 AM.","example_es":"Ella va al trabajo a las 8 AM."},
   {"word":"year","es":"año","ipa":"/jɪər/","type":"noun","topic":"time","level":"A1","meaning":"12 months","example":"I study English every year.","example_es":"Estudio inglés cada año."},
-  {"word":"yellow","es":"amarillo","ipa":"/ˈjɛloʊ/","type":"adjective","topic":"colors","level":"A1","meaning":"color of the sun","example":"The sun is yellow.","example_es":"El sol es amarillo."},
-  {"word":"young","es":"joven","ipa":"/jʌŋ/","type":"adjective","topic":"age","level":"A1","meaning":"not old","example":"She is young.","example_es":"Ella es joven."},
-  {"word":"zoo","es":"zoológico","ipa":"/zuː/","type":"noun","topic":"places","level":"A1","meaning":"a place with animals","example":"We went to the zoo.","example_es":"Fuimos al zoológico."}
+  {"word":"yellow","es":"amarillo","ipa":"/ˈjɛloʊ/","type":"adjective","topic":"colors","level":"A1","meaning":"color of the sun","example":"The sun is yellow.","example_es":"El sol es amarillo."}
 ]
