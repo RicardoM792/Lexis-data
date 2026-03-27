@@ -47,7 +47,7 @@
   {"word":"weather","es":"clima","ipa":"/ˈweðər/","type":"noun","topic":"nature","level":"A2","meaning":"atmospheric conditions","example":"The weather is nice today.","example_es":"El clima está agradable hoy."},
   {"word":"wonderful","es":"maravilloso","ipa":"/ˈwʌndəfl/","type":"adjective","topic":"quality","level":"A2","meaning":"very good","example":"What a wonderful day!","example_es":"¡Qué día maravilloso!"},
   {"word":"worry","es":"preocuparse","ipa":"/ˈwʌri/","type":"verb","topic":"emotion","level":"A2","meaning":"to feel anxious","example":"Don't worry about it.","example_es":"No te preocupes por eso."},
-  {"word":"yesterday","es":"ayer","ipa":"/ˈjestədeɪ/","type":"adverb","topic":"time","level":"A2","meaning":"the day before today","example":"I saw her yesterday.","example_es":"La vi ayer."}
+  {"word":"yesterday","es":"ayer","ipa":"/ˈjestədeɪ/","type":"adverb","topic":"time","level":"A2","meaning":"the day before today","example":"I saw her yesterday.","example_es":"La vi ayer."},
   {"word":"arrive","es":"llegar","ipa":"/əˈraɪv/","type":"verb","topic":"travel","level":"A2","meaning":"to reach a destination","example":"We arrive at 6pm.","example_es":"Llegamos a las 6pm."},
   {"word":"leave","es":"salir","ipa":"/liːv/","type":"verb","topic":"travel","level":"A2","meaning":"to go away from","example":"I leave home at 8am.","example_es":"Salgo de casa a las 8am."},
   {"word":"travel","es":"viajar","ipa":"/ˈtrævəl/","type":"verb","topic":"travel","level":"A2","meaning":"to go to another place","example":"I love to travel.","example_es":"Me encanta viajar."},
