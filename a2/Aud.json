@@ -1,0 +1,346 @@
+{
+  "level": "A2",
+  "unit": "Daily Life Master - Extended Edition",
+
+  "content": {
+    "title": "A Complete Day: Deeper Into Routine and Reflection",
+
+    "full_text": "Allow me to introduce myself properly. My full name is Daniel Alejandro Mendoza Rodríguez. I am 20 years old, and I currently live in Bogotá, the capital city of Colombia, which is located more than 2,600 meters above sea level in the Andes Mountains. I am a university student, and my primary area of study is systems engineering, although I dedicate a considerable amount of my time to learning English. My motivation for learning English is not simple. On one hand, I want to travel to English-speaking countries such as Canada, the United Kingdom, and Australia. On the other hand, I believe that English will open professional doors for me in the field of technology, where many resources and job opportunities are only available in English. My daily routine begins early. I wake up at 6:30 AM, but I do not get out of bed immediately. Instead, I take about ten minutes to organize my thoughts and mentally review what I need to accomplish during the day. At 6:40 AM, I get up, wash my face, and prepare for breakfast. My family and I usually eat together. Breakfast varies, but it often includes eggs, bread with butter, fresh fruit, and either coffee or hot chocolate. While I eat, I sometimes review vocabulary on my phone using a language application. After breakfast, I take a shower, get dressed, and gather my materials for the university. I leave my house at 7:30 AM to catch the bus. The bus ride takes approximately 45 minutes, depending on traffic. During the ride, I listen to podcasts in English or review digital flashcards. I find that this helps me maximize my time. My classes start at 8:30 AM and finish at 1:30 PM. I have four classes each day, although the subjects vary depending on the day of the week. My favorite class is programming, but I also enjoy English because the teacher uses interactive methods such as group discussions and short presentations. During the 30-minute break, I usually eat a snack with my friends. We try to speak in English as much as possible. Sometimes we make mistakes, but we correct each other, and I feel that this informal practice is very useful. In the afternoon, after returning home, I have lunch with my family. Lunch is the main meal of the day in Colombia, so we usually eat a substantial meal that includes soup, rice, meat or fish, beans, and a salad. After lunch, I rest for a short time because I feel tired after a long morning. Then, I dedicate approximately two hours to my homework and university projects. I prefer to do my homework in the afternoon because I have more energy than at night. In the evening, I sometimes go out with my friends to a café or to the park near my house. We talk about our classes, our plans for the future, and we continue practicing English in a relaxed environment. When I stay at home, I watch a series on Netflix or read articles about technology. I try to consume content in English with English subtitles to improve my listening comprehension. At 9:00 PM, I have dinner with my family. Dinner is usually lighter than lunch. We might eat sandwiches, soup, or leftovers from lunch. During dinner, we share anecdotes from our day, and my parents often give me advice about my studies and my future career. Before going to bed, I plan my next day. I write a short list of tasks in a notebook. I find that planning helps me stay organized and reduces my stress. Then, I read for about 20 minutes. I am currently reading a novel in English, which is challenging but very rewarding. Finally, I turn off my phone and go to sleep around 10:30 PM. Reflecting on my daily routine, I realize that consistency is key. I am not perfect, and some days I feel less motivated, but I try to maintain my habits because I know that small efforts every day lead to significant results over time. I am proud of my progress in English, and I am excited to see where this journey will take me in the future.",
+
+    "audio_chunks": [
+      {
+        "id": "A2_AUD_001",
+        "text": "Allow me to introduce myself properly. My full name is Daniel Alejandro Mendoza Rodríguez. I am 20 years old, and I currently live in Bogotá, the capital city of Colombia, which is located more than 2,600 meters above sea level in the Andes Mountains.",
+        "duration_seconds": 14,
+        "speaker": "male_1",
+        "tone": "formal_introductory"
+      },
+      {
+        "id": "A2_AUD_002",
+        "text": "My motivation for learning English is not simple. On one hand, I want to travel to English-speaking countries such as Canada, the United Kingdom, and Australia. On the other hand, I believe that English will open professional doors for me in the field of technology.",
+        "duration_seconds": 13,
+        "speaker": "male_1",
+        "tone": "explanatory_contrasting"
+      },
+      {
+        "id": "A2_AUD_003",
+        "text": "I wake up at 6:30 AM, but I do not get out of bed immediately. Instead, I take about ten minutes to organize my thoughts and mentally review what I need to accomplish during the day.",
+        "duration_seconds": 10,
+        "speaker": "male_1",
+        "tone": "reflective"
+      },
+      {
+        "id": "A2_AUD_004",
+        "text": "During the bus ride, which takes approximately 45 minutes depending on traffic, I listen to podcasts in English or review digital flashcards. I find that this helps me maximize my time.",
+        "duration_seconds": 9,
+        "speaker": "male_1",
+        "tone": "practical"
+      },
+      {
+        "id": "A2_AUD_005",
+        "text": "During the 30-minute break, I usually eat a snack with my friends. We try to speak in English as much as possible. Sometimes we make mistakes, but we correct each other, and I feel that this informal practice is very useful.",
+        "duration_seconds": 11,
+        "speaker": "male_1",
+        "tone": "conversational_enthusiastic"
+      },
+      {
+        "id": "A2_AUD_006",
+        "text": "In the afternoon, after returning home, I have lunch with my family. Lunch is the main meal of the day in Colombia, so we usually eat a substantial meal that includes soup, rice, meat or fish, beans, and a salad.",
+        "duration_seconds": 12,
+        "speaker": "male_1",
+        "tone": "descriptive_cultural"
+      },
+      {
+        "id": "A2_AUD_007",
+        "text": "In the evening, I sometimes go out with my friends to a café or to the park near my house. We talk about our classes, our plans for the future, and we continue practicing English in a relaxed environment.",
+        "duration_seconds": 10,
+        "speaker": "male_1",
+        "tone": "social_warm"
+      },
+      {
+        "id": "A2_AUD_008",
+        "text": "Before going to bed, I plan my next day. I write a short list of tasks in a notebook. I find that planning helps me stay organized and reduces my stress.",
+        "duration_seconds": 8,
+        "speaker": "male_1",
+        "tone": "calm_organized"
+      },
+      {
+        "id": "A2_AUD_009",
+        "text": "Reflecting on my daily routine, I realize that consistency is key. I am not perfect, and some days I feel less motivated, but I try to maintain my habits because I know that small efforts every day lead to significant results over time.",
+        "duration_seconds": 13,
+        "speaker": "male_1",
+        "tone": "philosophical_motivational"
+      }
+    ]
+  },
+
+  "exercises": {
+
+    "reading": [
+      {
+        "id": "A2_R_001",
+        "question": "According to the text, what are Daniel's two main motivations for learning English? Provide specific details from the text.",
+        "options": [
+          "He wants to please his parents and get better grades.",
+          "He wants to travel to English-speaking countries such as Canada, the United Kingdom, and Australia, and he believes English will open professional doors for him in the field of technology.",
+          "He wants to move to the United States and become a teacher.",
+          "He only wants to watch movies without subtitles."
+        ],
+        "correct": "He wants to travel to English-speaking countries such as Canada, the United Kingdom, and Australia, and he believes English will open professional doors for him in the field of technology."
+      },
+      {
+        "id": "A2_R_002",
+        "question": "How does Daniel use his time during the bus ride, and why does he choose to do this?",
+        "options": [
+          "He sleeps because he is tired, and this helps him rest.",
+          "He listens to podcasts in English or reviews digital flashcards because he finds that this helps him maximize his time.",
+          "He talks on the phone with his friends because he misses them.",
+          "He reads a novel in Spanish because it is relaxing."
+        ],
+        "correct": "He listens to podcasts in English or reviews digital flashcards because he finds that this helps him maximize his time."
+      },
+      {
+        "id": "A2_R_003",
+        "question": "What does Daniel say about his English practice with friends during the break, and what is his opinion about this informal practice?",
+        "options": [
+          "He says they never speak English because it is too difficult, and he thinks it is a waste of time.",
+          "He says they try to speak in English as much as possible, they correct each other's mistakes, and he feels that this informal practice is very useful.",
+          "He says they only speak Spanish because it is more comfortable, and he thinks informal practice is not important.",
+          "He says they practice English but only with the teacher, not with each other."
+        ],
+        "correct": "He says they try to speak in English as much as possible, they correct each other's mistakes, and he feels that this informal practice is very useful."
+      },
+      {
+        "id": "A2_R_004",
+        "question": "What is the difference between lunch and dinner in Daniel's daily routine according to the text?",
+        "options": [
+          "Lunch is a light meal and dinner is the main meal.",
+          "Lunch is the main meal of the day in Colombia and is substantial, while dinner is usually lighter and might include sandwiches, soup, or leftovers.",
+          "There is no difference; both meals are exactly the same.",
+          "He does not eat lunch, only dinner."
+        ],
+        "correct": "Lunch is the main meal of the day in Colombia and is substantial, while dinner is usually lighter and might include sandwiches, soup, or leftovers."
+      },
+      {
+        "id": "A2_R_005",
+        "question": "What does Daniel do before going to bed to stay organized, and what does he say about the results of this habit?",
+        "options": [
+          "He watches television to relax, and he says this helps him sleep better.",
+          "He plans his next day by writing a short list of tasks in a notebook, and he finds that planning helps him stay organized and reduces his stress.",
+          "He calls his friends to discuss the next day, and he says this makes him feel connected.",
+          "He does nothing; he simply goes to sleep without any planning."
+        ],
+        "correct": "He plans his next day by writing a short list of tasks in a notebook, and he finds that planning helps him stay organized and reduces his stress."
+      },
+      {
+        "id": "A2_R_006",
+        "question": "What does Daniel mean when he says 'consistency is key' in his reflection at the end of the text?",
+        "options": [
+          "He means that being perfect every day is necessary for success.",
+          "He means that maintaining habits regularly, even with small efforts, leads to significant results over time.",
+          "He means that he only studies when he feels motivated.",
+          "He means that keys are important for his daily routine."
+        ],
+        "correct": "He means that maintaining habits regularly, even with small efforts, leads to significant results over time."
+      }
+    ],
+
+    "listening": [
+      {
+        "id": "A2_L_001",
+        "audio_id": "A2_AUD_002",
+        "audio_text": "My motivation for learning English is not simple. On one hand, I want to travel to English-speaking countries such as Canada, the United Kingdom, and Australia. On the other hand, I believe that English will open professional doors for me in the field of technology.",
+        "question": "Listen to the audio. According to the speaker, what are the two specific reasons he gives for learning English?",
+        "options": [
+          "To study abroad and to teach English.",
+          "To travel to English-speaking countries such as Canada, the United Kingdom, and Australia, and because English will open professional doors in technology.",
+          "To watch movies and to read books in English.",
+          "To impress his friends and to get a promotion at work."
+        ],
+        "correct": "To travel to English-speaking countries such as Canada, the United Kingdom, and Australia, and because English will open professional doors in technology."
+      },
+      {
+        "id": "A2_L_002",
+        "audio_id": "A2_AUD_005",
+        "audio_text": "During the 30-minute break, I usually eat a snack with my friends. We try to speak in English as much as possible. Sometimes we make mistakes, but we correct each other, and I feel that this informal practice is very useful.",
+        "question": "Listen to the audio. What does the speaker say about the way he and his friends handle mistakes when practicing English?",
+        "options": [
+          "They ignore mistakes because they are not important.",
+          "They correct each other, and he feels that this informal practice is very useful.",
+          "They ask the teacher to correct them.",
+          "They stop speaking English when they make mistakes."
+        ],
+        "correct": "They correct each other, and he feels that this informal practice is very useful."
+      },
+      {
+        "id": "A2_L_003",
+        "audio_id": "A2_AUD_009",
+        "audio_text": "Reflecting on my daily routine, I realize that consistency is key. I am not perfect, and some days I feel less motivated, but I try to maintain my habits because I know that small efforts every day lead to significant results over time.",
+        "question": "Listen to the audio. What does the speaker acknowledge about himself, and what belief does he express about small daily efforts?",
+        "options": [
+          "He acknowledges that he is perfect, and he believes that small efforts are not important.",
+          "He acknowledges that he is not perfect and some days he feels less motivated, but he believes that small efforts every day lead to significant results over time.",
+          "He acknowledges that he never feels motivated, and he believes that only big efforts matter.",
+          "He acknowledges that he gives up easily, and he believes that results come quickly."
+        ],
+        "correct": "He acknowledges that he is not perfect and some days he feels less motivated, but he believes that small efforts every day lead to significant results over time."
+      }
+    ],
+
+    "grammar": [
+      {
+        "id": "A2_G_001",
+        "type": "fill",
+        "question": "Complete the sentence using the correct form of the verb in parentheses. Use the present simple or present continuous as appropriate: 'Daniel usually ______ (wake) up at 6:30 AM, but today he ______ (feel) tired because he ______ (study) late last night.'",
+        "correct": "wakes, feels, studied"
+      },
+      {
+        "id": "A2_G_002",
+        "type": "fill",
+        "question": "Complete the sentence with the correct connector: 'Daniel wants to travel to English-speaking countries. ______, he believes English will help his career in technology.'",
+        "correct": "On the other hand"
+      },
+      {
+        "id": "A2_G_003",
+        "type": "multiple_choice",
+        "question": "Which sentence correctly uses the present simple to describe a habitual action and the present continuous to describe something happening now?",
+        "options": [
+          "He eats breakfast with his family every day, and right now he eats a sandwich.",
+          "He eats breakfast with his family every day, and right now he is eating a sandwich.",
+          "He is eating breakfast with his family every day, and right now he eats a sandwich.",
+          "He eat breakfast with his family every day, and right now he is eating a sandwich."
+        ],
+        "correct": "He eats breakfast with his family every day, and right now he is eating a sandwich."
+      },
+      {
+        "id": "A2_G_004",
+        "type": "fill",
+        "question": "Complete the sentence using the correct comparative or superlative form: 'Lunch in Colombia is usually ______ (substantial) than dinner. In fact, lunch is often the ______ (important) meal of the day.'",
+        "correct": "more substantial, most important"
+      },
+      {
+        "id": "A2_G_005",
+        "type": "multiple_choice",
+        "question": "Identify the sentence that correctly uses 'used to' or 'would' to describe a past habit that no longer happens, based on implied meaning from the text.",
+        "options": [
+          "Daniel used to wake up at 7:00 AM, but now he wakes up at 6:30 AM.",
+          "Daniel used to waking up at 7:00 AM, but now he wakes up at 6:30 AM.",
+          "Daniel would wakes up at 7:00 AM, but now he wakes up at 6:30 AM.",
+          "Daniel is used to wake up at 7:00 AM, but now he wakes up at 6:30 AM."
+        ],
+        "correct": "Daniel used to wake up at 7:00 AM, but now he wakes up at 6:30 AM."
+      },
+      {
+        "id": "A2_G_006",
+        "type": "fill",
+        "question": "Complete the sentence using a modal verb that expresses advice: ",
+        "correct": "should"
+      }
+    ],
+
+    "vocabulary": [
+      {
+        "id": "A2_V_001",
+        "question": "In the text, Daniel says he takes about ten minutes to 'organize his thoughts and mentally review' his day. What does the phrase 'organize his thoughts' mean?",
+        "options": [
+          "To write down everything he remembers.",
+          "To arrange his ideas in a clear and structured way in his mind.",
+          "To forget about his responsibilities.",
+          "To talk to someone about his plans."
+        ],
+        "correct": "To arrange his ideas in a clear and structured way in his mind."
+      },
+      {
+        "id": "A2_V_002",
+        "question": "The word 'substantial' is used to describe lunch. What does 'substantial' mean in this context?",
+        "options": [
+          "Small and light.",
+          "Large in size, amount, or importance.",
+          "Quick and simple.",
+          "Expensive and fancy."
+        ],
+        "correct": "Large in size, amount, or importance."
+      },
+      {
+        "id": "A2_V_003",
+        "question": "Daniel mentions that he tries to 'consume content' in English. What does the phrasal verb 'consume content' refer to in this context?",
+        "options": [
+          "Eating food while studying.",
+          "Watching, reading, or listening to media such as series, articles, or podcasts.",
+          "Buying products in English.",
+          "Creating his own materials for studying."
+        ],
+        "correct": "Watching, reading, or listening to media such as series, articles, or podcasts."
+      },
+      {
+        "id": "A2_V_004",
+        "question": "What does Daniel mean when he says planning 'reduces my stress'?",
+        "options": [
+          "It makes him feel more anxious.",
+          "It decreases his feelings of worry and pressure.",
+          "It increases his workload.",
+          "It makes him forget his responsibilities."
+        ],
+        "correct": "It decreases his feelings of worry and pressure."
+      },
+      {
+        "id": "A2_V_005",
+        "question": "The word 'consistency' appears in Daniel's final reflection. What is the meaning of 'consistency'?",
+        "options": [
+          "Doing something perfectly without any mistakes.",
+          "Doing something regularly and steadily over time.",
+          "Changing habits frequently.",
+          "Achieving immediate results."
+        ],
+        "correct": "Doing something regularly and steadily over time."
+      }
+    ],
+
+    "speaking": [
+      {
+        "id": "A2_S_001",
+        "prompt": "Daniel describes two main motivations for learning English: travel and professional opportunities. Using the structure 'on one hand... on the other hand...', create a sentence that explains two different motivations you have for learning English or for achieving a personal goal.",
+        "expected": "A sentence that correctly uses 'on one hand... on the other hand...' to present two contrasting or complementary motivations.",
+        "evaluation_criteria": [
+          "Correctly uses the structure 'on one hand... on the other hand...'",
+          "Presents two distinct motivations",
+          "Demonstrates A2-level grammatical accuracy"
+        ]
+      },
+      {
+        "id": "A2_S_002",
+        "prompt": "Daniel uses the phrase 'consistency is key' to describe the importance of maintaining habits. Create a short paragraph (3-4 sentences) explaining one habit you maintain regularly, why you do it, and what results you have noticed from being consistent. Use at least one word from the vocabulary section (substantial, consume content, reduces stress, or consistency).",
+        "expected": "A short paragraph describing a personal habit, its purpose, and results, incorporating vocabulary from the unit.",
+        "evaluation_criteria": [
+          "Describes a specific habit with details",
+          "Uses at least one vocabulary word correctly",
+          "Explains results or benefits of consistency",
+          "Demonstrates A2-level grammatical accuracy and coherence"
+        ]
+      },
+      {
+        "id": "A2_S_003",
+        "prompt": "Daniel compares lunch and dinner in his culture, explaining that lunch is the main meal and dinner is lighter. Describe a typical meal in your culture or family. Explain what is usually eaten, when it happens, and why it is important. Use a comparative structure (more than, less than, as...as, etc.).",
+        "expected": "A description of a typical meal using comparative language.",
+        "evaluation_criteria": [
+          "Describes a specific meal with details about food and timing",
+          "Uses at least one comparative structure correctly",
+          "Explains the importance or significance of the meal",
+          "Demonstrates A2-level grammatical accuracy"
+        ]
+      }
+    ]
+  },
+
+  "evaluation": {
+    "passing_score": 0.75,
+    "total_exercises": 23,
+    "total_objective_exercises": 20,
+    "total_speaking_exercises": 3,
+    "scoring_rubric": {
+      "objective_exercises": "Each correct answer in reading (6 exercises), listening (3 exercises), grammar (6 exercises), and vocabulary (5 exercises) contributes equally to the overall score. Total objective score = correct_count / 20.",
+      "speaking_exercises": "Each speaking exercise is evaluated qualitatively based on the provided evaluation criteria. A passing score in speaking requires at least 2 out of 3 exercises to meet the criteria satisfactorily.",
+      "final_requirement": "A minimum of 75% accuracy across all objective exercises AND satisfactory performance in at least 2 speaking exercises is required to pass this extended unit."
+    }
+  }
+      }
