@@ -1,0 +1,23 @@
+[
+  {"wrong": "I have went to the meeting", "correct": "I have gone to the meeting", "translation": "He ido a la reunión"},
+  {"wrong": "She didn't knew the answer", "correct": "She didn't know the answer", "translation": "Ella no sabía la respuesta"},
+  {"wrong": "He has wrote a report", "correct": "He has written a report", "translation": "Él ha escrito un informe"},
+  {"wrong": "We was ready for the test", "correct": "We were ready for the test", "translation": "Estábamos listos para el examen"},
+  {"wrong": "I have saw that movie before", "correct": "I have seen that movie before", "translation": "He visto esa película antes"},
+  {"wrong": "She haven't finished her homework", "correct": "She hasn't finished her homework", "translation": "Ella no ha terminado su tarea"},
+  {"wrong": "He don't understand the instructions", "correct": "He doesn't understand the instructions", "translation": "Él no entiende las instrucciones"},
+  {"wrong": "I am knowing the answer", "correct": "I know the answer", "translation": "Sé la respuesta"},
+  {"wrong": "They isn't coming to the meeting", "correct": "They aren't coming to the meeting", "translation": "No vendrán a la reunión"},
+  {"wrong": "I will going to help you", "correct": "I will help you", "translation": "Te ayudaré"},
+
+  {"wrong": "She didn't knew about the changes", "correct": "She didn't know about the changes", "translation": "Ella no sabía de los cambios"},
+  {"wrong": "I have ate breakfast already", "correct": "I have eaten breakfast already", "translation": "Ya he desayunado"},
+  {"wrong": "He has wrote emails all morning", "correct": "He has written emails all morning", "translation": "Él ha escrito correos toda la mañana"},
+  {"wrong": "We was waiting for hours", "correct": "We were waiting for hours", "translation": "Estuvimos esperando durante horas"},
+  {"wrong": "She haven't done the exercises", "correct": "She hasn't done the exercises", "translation": "Ella no ha hecho los ejercicios"},
+  {"wrong": "I am understanding the problem now", "correct": "I understand the problem now", "translation": "Ahora entiendo el problema"},
+  {"wrong": "They isn't ready yet", "correct": "They aren't ready yet", "translation": "Todavía no están listos"},
+  {"wrong": "I will going to call him", "correct": "I will call him", "translation": "Lo llamaré"},
+  {"wrong": "She don't has any experience", "correct": "She doesn't have any experience", "translation": "Ella no tiene experiencia"},
+  {"wrong": "He didn't knew how to solve it", "correct": "He didn't know how to solve it", "translation": "Él no sabía cómo resolverlo"}
+]
