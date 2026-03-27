@@ -1,0 +1,159 @@
+[
+  {
+    "topic": "Passive Voice (All Tenses)",
+    "use": "Enfatizar la acción en lugar del sujeto",
+    "structure": {
+      "present": "Subject + am/is/are + past participle",
+      "past": "Subject + was/were + past participle",
+      "future": "Subject + will be + past participle",
+      "present_perfect": "Subject + have/has been + past participle"
+    },
+    "examples": {
+      "present": ["The cake is made."],
+      "past": ["The cake was made."],
+      "future": ["The cake will be made."],
+      "present_perfect": ["The cake has been made."]
+    },
+    "examples_es": {
+      "present": ["El pastel es hecho."],
+      "past": ["El pastel fue hecho."],
+      "future": ["El pastel será hecho."],
+      "present_perfect": ["El pastel ha sido hecho."]
+    }
+  },
+
+  {
+    "topic": "Second Conditional",
+    "use": "Situaciones hipotéticas en presente o futuro",
+    "structure": "If + past simple, would + base verb",
+    "examples": ["If I had money, I would travel."],
+    "examples_es": ["Si tuviera dinero, viajaría."]
+  },
+
+  {
+    "topic": "Modal Verbs (Advanced)",
+    "use": "Obligación, deducción, probabilidad",
+    "structures": {
+      "must": "certeza",
+      "might": "posibilidad",
+      "can't": "imposibilidad"
+    },
+    "examples": [
+      "She must be tired.",
+      "He might come.",
+      "That can't be true."
+    ],
+    "examples_es": [
+      "Debe estar cansada.",
+      "Puede que venga.",
+      "Eso no puede ser verdad."
+    ]
+  },
+
+  {
+    "topic": "Reported Speech",
+    "use": "Reportar lo que alguien dijo",
+    "structure": {
+      "direct": "She said, 'I am tired.'",
+      "reported": "She said she was tired."
+    },
+    "rules": [
+      "Cambiar tiempos verbales",
+      "Cambiar pronombres",
+      "Cambiar expresiones de tiempo"
+    ],
+    "examples_es": [
+      "Ella dijo que estaba cansada."
+    ]
+  },
+
+  {
+    "topic": "Relative Clauses (Defining & Non-defining)",
+    "use": "Añadir información específica o extra",
+    "structure": {
+      "defining": "no comas",
+      "non_defining": "con comas"
+    },
+    "examples": [
+      "The man who lives here is nice.",
+      "My brother, who lives here, is nice."
+    ],
+    "examples_es": [
+      "El hombre que vive aquí es amable.",
+      "Mi hermano, que vive aquí, es amable."
+    ]
+  },
+
+  {
+    "topic": "Conditionals Overview",
+    "use": "Expresar diferentes tipos de condiciones",
+    "types": [
+      "Zero → hechos generales",
+      "First → posible",
+      "Second → hipotético",
+      "Third → imposible pasado"
+    ],
+    "example": "If it rains, I stay home."
+  },
+
+  {
+    "topic": "Future Perfect",
+    "use": "Acciones completadas antes de un momento futuro",
+    "structure": "Subject + will have + past participle",
+    "examples": ["I will have finished by tomorrow."],
+    "examples_es": ["Habré terminado mañana."]
+  },
+
+  {
+    "topic": "Future Continuous vs Future Perfect",
+    "use": "Diferenciar acción en progreso vs completada",
+    "examples": [
+      "I will be working.",
+      "I will have finished."
+    ],
+    "examples_es": [
+      "Estaré trabajando.",
+      "Habré terminado."
+    ]
+  },
+
+  {
+    "topic": "Causative (Have / Get)",
+    "use": "Cuando alguien hace algo por ti",
+    "structure": "Subject + have/get + object + past participle",
+    "examples": ["I had my car repaired."],
+    "examples_es": ["Repararon mi carro."]
+  },
+
+  {
+    "topic": "Phrasal Verbs (Intermediate)",
+    "use": "Verbos compuestos más complejos",
+    "examples": [
+      "give up (rendirse)",
+      "take off (despegar)",
+      "run out (agotarse)"
+    ]
+  },
+
+  {
+    "topic": "Discourse Markers",
+    "use": "Organizar ideas",
+    "list": [
+      "however",
+      "therefore",
+      "in addition",
+      "on the other hand"
+    ],
+    "examples": [
+      "However, I disagree.",
+      "Therefore, we decided to leave."
+    ]
+  },
+
+  {
+    "topic": "Adjective Order",
+    "use": "Orden correcto de adjetivos",
+    "structure": "opinion + size + age + color + noun",
+    "example": "A beautiful big old red house"
+  }
+]
