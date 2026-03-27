@@ -1,0 +1,19 @@
+[
+  {"rule": "Use commas to separate clauses", "example": "I went to the store, and I bought milk.", "translation": "Usa comas para separar cláusulas"},
+  {"rule": "Use semicolon to join related sentences", "example": "I like coffee; I drink it every morning.", "translation": "Usa punto y coma para unir oraciones relacionadas"},
+  {"rule": "Use quotation marks for speech", "example": "He said, \"I am tired.\"", "translation": "Usa comillas para diálogos"},
+  {"rule": "Use apostrophe for possession", "example": "This is John's book.", "translation": "Usa apóstrofo para posesión"},
+  {"rule": "Use apostrophe for contractions", "example": "Don't = Do not", "translation": "Usa apóstrofo en contracciones"},
+
+  {"rule": "Use exclamation for strong emotion", "example": "Watch out!", "translation": "Usa exclamación para emoción fuerte"},
+  {"rule": "Use question mark in indirect questions", "example": "Can you tell me where he is?", "translation": "Usa signo de pregunta en preguntas indirectas"},
+  {"rule": "Capitalize first letter of quotes", "example": "He said, \"Hello.\"", "translation": "Mayúscula inicial en citas"},
+  {"rule": "Use colon before lists", "example": "I bought: milk, bread, and eggs.", "translation": "Usa dos puntos antes de listas"},
+  {"rule": "Use parentheses for extra info", "example": "I visited Paris (France) last year.", "translation": "Usa paréntesis para info extra"},
+
+  {"rule": "Use commas with introductory phrases", "example": "After lunch, we went out.", "translation": "Coma después de frase introductoria"},
+  {"rule": "Use hyphen in compound words", "example": "Well-known author", "translation": "Guion en palabras compuestas"},
+  {"rule": "Use dash to add extra info", "example": "I met John — my old friend — yesterday.", "translation": "Guion largo para info extra"},
+  {"rule": "Use periods inside quotes when full sentence", "example": "She said, \"I am happy.\"", "translation": "Punto dentro de comillas en oración completa"},
+  {"rule": "Use commas in numbers", "example": "1,000,000", "translation": "Comas en números grandes"}
+]
