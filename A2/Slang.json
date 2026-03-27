@@ -1,0 +1,23 @@
+[
+  {"expression": "No worries", "meaning": "Don't worry", "translation": "No te preocupes"},
+  {"expression": "I'm gonna", "meaning": "I am going to", "translation": "Voy a"},
+  {"expression": "Gotta go", "meaning": "I have to leave", "translation": "Tengo que irme"},
+  {"expression": "Catch you later", "meaning": "See you later", "translation": "Te veo luego"},
+  {"expression": "Hang on", "meaning": "Wait", "translation": "Espera"},
+  {"expression": "Cool down", "meaning": "Relax", "translation": "Relájate"},
+  {"expression": "What's going on?", "meaning": "What's happening?", "translation": "¿Qué pasa?"},
+  {"expression": "No way!", "meaning": "Impossible / surprise", "translation": "¡No puede ser!"},
+  {"expression": "For real?", "meaning": "Really?", "translation": "¿En serio?"},
+  {"expression": "You bet!", "meaning": "Sure!", "translation": "¡Claro!"},
+
+  {"expression": "I'm in", "meaning": "I agree / participate", "translation": "Cuenten conmigo"},
+  {"expression": "Chill out", "meaning": "Relax", "translation": "Tranquilo"},
+  {"expression": "My bad", "meaning": "My mistake", "translation": "Fue mi error"},
+  {"expression": "Hit me up", "meaning": "Contact me", "translation": "Contáctame"},
+  {"expression": "I'm down", "meaning": "I agree / I want to participate", "translation": "Estoy de acuerdo / Me apunto"},
+  {"expression": "No big deal", "meaning": "It's okay", "translation": "No es gran cosa"},
+  {"expression": "You rock!", "meaning": "You are great", "translation": "¡Eres genial!"},
+  {"expression": "Heads up!", "meaning": "Be careful", "translation": "Cuidado!"},
+  {"expression": "Keep it up!", "meaning": "Continue doing well", "translation": "Sigue así"},
+  {"expression": "Way to go!", "meaning": "Well done", "translation": "¡Bien hecho!"}
+]
