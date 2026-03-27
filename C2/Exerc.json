@@ -1,301 +1,202 @@
 [
   {"id":"C2_001","type":"multiple_choice","q":"He finally ___ the truth.","options":["faced up to","faced","faced at"],"a":"faced up to"},
   {"id":"C2_002","type":"multiple_choice","q":"She ___ the issue cleverly.","options":["dealt with","dealt","dealt to"],"a":"dealt with"},
-
   {"id":"C2_003","type":"multiple_choice","q":"That idea doesn't ___ sense.","options":["make","do","have"],"a":"make"},
   {"id":"C2_004","type":"multiple_choice","q":"He took ___ responsibility.","options":["full","complete","entire"],"a":"full"},
-
   {"id":"C2_005","type":"multiple_choice","q":"It's not my ___ of tea.","options":["cup","glass","piece"],"a":"cup"},
   {"id":"C2_006","type":"multiple_choice","q":"He spilled the ___.","options":["beans","water","coffee"],"a":"beans"},
-
   {"id":"C2_007","type":"fill","q":"She ___ up with a solution.","a":"came"},
   {"id":"C2_008","type":"fill","q":"He ___ out the problem.","a":"figured"},
-
   {"id":"C2_009","type":"multiple_choice","q":"He is highly ___ in his field.","options":["regarded","seen","looked"],"a":"regarded"},
   {"id":"C2_010","type":"multiple_choice","q":"She has a ___ understanding.","options":["deep","big","strong"],"a":"deep"},
-
   {"id":"C2_011","type":"multiple_choice","q":"He spoke ___ irony.","options":["with","in","by"],"a":"with"},
   {"id":"C2_012","type":"multiple_choice","q":"She said it ___ sarcasm.","options":["with","in","by"],"a":"with"},
-
   {"id":"C2_013","type":"translation","q_es":"Eso no tiene sentido","a":"That doesn't make sense"},
   {"id":"C2_014","type":"translation","q_es":"Reveló el secreto","a":"He spilled the beans"},
-
   {"id":"C2_015","type":"multiple_choice","q":"He barely ___ a word.","options":["said","spoke","told"],"a":"said"},
   {"id":"C2_016","type":"multiple_choice","q":"She hardly ___ the effort.","options":["made","did","took"],"a":"made"},
-
   {"id":"C2_017","type":"multiple_choice","q":"It was ___ obvious.","options":["blatantly","strongly","hardly"],"a":"blatantly"},
   {"id":"C2_018","type":"multiple_choice","q":"He was ___ aware.","options":["fully","completely","entirely"],"a":"fully"},
-
   {"id":"C2_019","type":"multiple_choice","q":"She brushed it ___.","options":["off","out","away"],"a":"off"},
   {"id":"C2_020","type":"multiple_choice","q":"He backed ___ the claim.","options":["up","down","out"],"a":"up"},
-
   {"id":"C2_021","type":"reading","text":"He brushed off the criticism.","q":"Did he care?","a":"no"},
   {"id":"C2_022","type":"reading","text":"She backed up her argument.","q":"Did she support it?","a":"yes"},
-
   {"id":"C2_023","type":"multiple_choice","q":"He was ___ to admit it.","options":["reluctant","hesitant","resistant"],"a":"reluctant"},
   {"id":"C2_024","type":"multiple_choice","q":"She gave a ___ explanation.","options":["brief","short","small"],"a":"brief"},
-
   {"id":"C2_025","type":"fill","q":"He ___ (turn) down the offer.","a":"turned"},
   {"id":"C2_026","type":"fill","q":"She ___ (carry) on working.","a":"carried"},
-
   {"id":"C2_027","type":"multiple_choice","q":"He was on the ___ of success.","options":["brink","edge","side"],"a":"brink"},
   {"id":"C2_028","type":"multiple_choice","q":"She is in the ___ of change.","options":["middle","midst","center"],"a":"midst"},
-
   {"id":"C2_029","type":"translation","q_es":"Está al borde del colapso","a":"He is on the brink of collapse"},
   {"id":"C2_030","type":"translation","q_es":"En medio del problema","a":"In the midst of the problem"},
-
   {"id":"C2_031","type":"multiple_choice","q":"He is ___ likely to win.","options":["highly","deeply","strongly"],"a":"highly"},
   {"id":"C2_032","type":"multiple_choice","q":"She is ___ respected.","options":["widely","deeply","strongly"],"a":"widely"},
-
   {"id":"C2_033","type":"multiple_choice","q":"He ___ into tears.","options":["burst","broke","fell"],"a":"burst"},
   {"id":"C2_034","type":"multiple_choice","q":"She ___ into laughter.","options":["burst","broke","fell"],"a":"burst"},
-
   {"id":"C2_035","type":"reading","text":"He burst into tears.","q":"What happened?","a":"He started crying suddenly"},
   {"id":"C2_036","type":"reading","text":"She burst into laughter.","q":"What happened?","a":"She laughed suddenly"},
-
   {"id":"C2_037","type":"multiple_choice","q":"He held his ___.","options":["breath","air","voice"],"a":"breath"},
   {"id":"C2_038","type":"multiple_choice","q":"She lost her ___.","options":["temper","control","anger"],"a":"temper"},
-
   {"id":"C2_039","type":"multiple_choice","q":"He ___ the point.","options":["missed","lost","forgot"],"a":"missed"},
-  {"id":"C2_040","type":"multiple_choice","q":"She ___ a mistake.","options":["made","did","took"],"a":"made"}
-  [
+  {"id":"C2_040","type":"multiple_choice","q":"She ___ a mistake.","options":["made","did","took"],"a":"made"},
   {"id":"C2_041","type":"multiple_choice","q":"He took ___ of the situation.","options":["advantage","benefit","profit"],"a":"advantage"},
   {"id":"C2_042","type":"multiple_choice","q":"She came ___ a brilliant idea.","options":["up with","out with","on with"],"a":"up with"},
-
   {"id":"C2_043","type":"multiple_choice","q":"He ___ a blind eye.","options":["turned","made","did"],"a":"turned"},
   {"id":"C2_044","type":"multiple_choice","q":"She ___ the point entirely.","options":["missed","lost","failed"],"a":"missed"},
-
   {"id":"C2_045","type":"fill","q":"He ___ (run) out of time.","a":"ran"},
   {"id":"C2_046","type":"fill","q":"She ___ (bring) it up.","a":"brought"},
-
   {"id":"C2_047","type":"multiple_choice","q":"He was ___ aware of the risks.","options":["fully","totally","deeply"],"a":"fully"},
   {"id":"C2_048","type":"multiple_choice","q":"She was ___ disappointed.","options":["bitterly","deeply","strongly"],"a":"deeply"},
-
   {"id":"C2_049","type":"multiple_choice","q":"He is ___ to succeed.","options":["bound","sure","certain"],"a":"bound"},
   {"id":"C2_050","type":"multiple_choice","q":"She is ___ to win.","options":["likely","possible","maybe"],"a":"likely"},
-
   {"id":"C2_051","type":"multiple_choice","q":"He ___ his temper.","options":["lost","missed","failed"],"a":"lost"},
   {"id":"C2_052","type":"multiple_choice","q":"She ___ her breath.","options":["held","kept","stopped"],"a":"held"},
-
   {"id":"C2_053","type":"translation","q_es":"Perdió el control","a":"He lost his temper"},
   {"id":"C2_054","type":"translation","q_es":"Contuvo la respiración","a":"She held her breath"},
-
   {"id":"C2_055","type":"multiple_choice","q":"He ___ the blame.","options":["took","did","made"],"a":"took"},
   {"id":"C2_056","type":"multiple_choice","q":"She ___ responsibility.","options":["took","did","made"],"a":"took"},
-
   {"id":"C2_057","type":"multiple_choice","q":"He ___ into trouble.","options":["got","went","came"],"a":"got"},
   {"id":"C2_058","type":"multiple_choice","q":"She ___ into detail.","options":["went","came","got"],"a":"went"},
-
   {"id":"C2_059","type":"reading","text":"He got into trouble.","q":"Was it positive?","a":"no"},
   {"id":"C2_060","type":"reading","text":"She went into detail.","q":"Was she specific?","a":"yes"},
-
   {"id":"C2_061","type":"multiple_choice","q":"He ___ the issue.","options":["addressed","spoke","told"],"a":"addressed"},
   {"id":"C2_062","type":"multiple_choice","q":"She ___ the challenge.","options":["tackled","faced","did"],"a":"tackled"},
-
   {"id":"C2_063","type":"multiple_choice","q":"He ___ a decision.","options":["reached","made","did"],"a":"reached"},
   {"id":"C2_064","type":"multiple_choice","q":"She ___ a conclusion.","options":["drew","made","took"],"a":"drew"},
-
   {"id":"C2_065","type":"fill","q":"He ___ (figure) it out.","a":"figured"},
   {"id":"C2_066","type":"fill","q":"She ___ (point) it out.","a":"pointed"},
-
   {"id":"C2_067","type":"multiple_choice","q":"He ___ a remark.","options":["made","did","said"],"a":"made"},
   {"id":"C2_068","type":"multiple_choice","q":"She ___ a complaint.","options":["made","did","said"],"a":"made"},
-
   {"id":"C2_069","type":"multiple_choice","q":"He ___ a promise.","options":["made","did","took"],"a":"made"},
   {"id":"C2_070","type":"multiple_choice","q":"She ___ a suggestion.","options":["made","did","said"],"a":"made"},
-
   {"id":"C2_071","type":"translation","q_es":"Hizo una sugerencia","a":"She made a suggestion"},
   {"id":"C2_072","type":"translation","q_es":"Llegó a una decisión","a":"He reached a decision"},
-
   {"id":"C2_073","type":"multiple_choice","q":"He was ___ to blame.","options":["entirely","fully","completely"],"a":"entirely"},
   {"id":"C2_074","type":"multiple_choice","q":"She was ___ mistaken.","options":["completely","fully","totally"],"a":"completely"},
-
   {"id":"C2_075","type":"multiple_choice","q":"He ___ attention.","options":["paid","gave","made"],"a":"paid"},
   {"id":"C2_076","type":"multiple_choice","q":"She ___ effort.","options":["made","did","gave"],"a":"made"},
-
   {"id":"C2_077","type":"multiple_choice","q":"He ___ control.","options":["lost","missed","failed"],"a":"lost"},
   {"id":"C2_078","type":"multiple_choice","q":"She ___ control.","options":["gained","got","made"],"a":"gained"},
-
   {"id":"C2_079","type":"reading","text":"He paid attention.","q":"Was he focused?","a":"yes"},
   {"id":"C2_080","type":"reading","text":"She made an effort.","q":"Did she try?","a":"yes"},
-
   {"id":"C2_081","type":"multiple_choice","q":"He ___ a risk.","options":["took","did","made"],"a":"took"},
   {"id":"C2_082","type":"multiple_choice","q":"She ___ a chance.","options":["took","did","made"],"a":"took"},
-
   {"id":"C2_083","type":"multiple_choice","q":"He ___ a mistake.","options":["made","did","took"],"a":"made"},
   {"id":"C2_084","type":"multiple_choice","q":"She ___ progress.","options":["made","did","took"],"a":"made"},
-
   {"id":"C2_085","type":"fill","q":"He ___ (take) a chance.","a":"took"},
   {"id":"C2_086","type":"fill","q":"She ___ (make) progress.","a":"made"},
-
   {"id":"C2_087","type":"multiple_choice","q":"He ___ the news.","options":["broke","told","said"],"a":"broke"},
   {"id":"C2_088","type":"multiple_choice","q":"She ___ the silence.","options":["broke","made","did"],"a":"broke"},
-
   {"id":"C2_089","type":"translation","q_es":"Rompió el silencio","a":"She broke the silence"},
   {"id":"C2_090","type":"translation","q_es":"Dio la noticia","a":"He broke the news"},
-
   {"id":"C2_091","type":"multiple_choice","q":"He ___ a habit.","options":["formed","made","did"],"a":"formed"},
   {"id":"C2_092","type":"multiple_choice","q":"She ___ a bond.","options":["formed","made","did"],"a":"formed"},
-
   {"id":"C2_093","type":"multiple_choice","q":"He ___ a reputation.","options":["built","made","did"],"a":"built"},
   {"id":"C2_094","type":"multiple_choice","q":"She ___ a career.","options":["built","made","did"],"a":"built"},
-
   {"id":"C2_095","type":"reading","text":"He built a reputation.","q":"Did it take time?","a":"yes"},
   {"id":"C2_096","type":"reading","text":"She formed a bond.","q":"Was it a connection?","a":"yes"},
-
   {"id":"C2_097","type":"multiple_choice","q":"He ___ under pressure.","options":["thrives","lives","works"],"a":"thrives"},
   {"id":"C2_098","type":"multiple_choice","q":"She ___ under stress.","options":["performs","lives","works"],"a":"performs"},
-
   {"id":"C2_099","type":"multiple_choice","q":"He ___ an impact.","options":["made","did","took"],"a":"made"},
-  {"id":"C2_100","type":"multiple_choice","q":"She ___ influence.","options":["exerted","made","did"],"a":"exerted"}
-    [
+  {"id":"C2_100","type":"multiple_choice","q":"She ___ influence.","options":["exerted","made","did"],"a":"exerted"},
   {"id":"C2_101","type":"multiple_choice","q":"He ___ into a rage.","options":["flew","went","ran"],"a":"flew"},
   {"id":"C2_102","type":"multiple_choice","q":"She ___ into panic.","options":["fell","went","got"],"a":"fell"},
-
   {"id":"C2_103","type":"multiple_choice","q":"He ___ the odds.","options":["beat","won","passed"],"a":"beat"},
   {"id":"C2_104","type":"multiple_choice","q":"She ___ expectations.","options":["exceeded","passed","won"],"a":"exceeded"},
-
   {"id":"C2_105","type":"fill","q":"He ___ (bring) about change.","a":"brought"},
   {"id":"C2_106","type":"fill","q":"She ___ (carry) out the plan.","a":"carried"},
-
   {"id":"C2_107","type":"multiple_choice","q":"He ___ a stance.","options":["took","made","did"],"a":"took"},
   {"id":"C2_108","type":"multiple_choice","q":"She ___ a stand.","options":["took","made","did"],"a":"took"},
-
   {"id":"C2_109","type":"multiple_choice","q":"He ___ a viewpoint.","options":["expressed","said","told"],"a":"expressed"},
   {"id":"C2_110","type":"multiple_choice","q":"She ___ an opinion.","options":["voiced","said","told"],"a":"voiced"},
-
   {"id":"C2_111","type":"multiple_choice","q":"He ___ into account the risks.","options":["took","made","did"],"a":"took"},
   {"id":"C2_112","type":"multiple_choice","q":"She ___ into consideration the factors.","options":["took","made","did"],"a":"took"},
-
   {"id":"C2_113","type":"translation","q_es":"Tomó en cuenta los riesgos","a":"He took into account the risks"},
   {"id":"C2_114","type":"translation","q_es":"Expresó su opinión","a":"She voiced her opinion"},
-
   {"id":"C2_115","type":"multiple_choice","q":"He ___ the initiative.","options":["took","made","did"],"a":"took"},
   {"id":"C2_116","type":"multiple_choice","q":"She ___ the lead.","options":["took","made","did"],"a":"took"},
-
   {"id":"C2_117","type":"multiple_choice","q":"He ___ the effort worthwhile.","options":["found","saw","looked"],"a":"found"},
   {"id":"C2_118","type":"multiple_choice","q":"She ___ it necessary.","options":["found","saw","looked"],"a":"found"},
-
   {"id":"C2_119","type":"reading","text":"He took the initiative.","q":"Did he act first?","a":"yes"},
   {"id":"C2_120","type":"reading","text":"She took the lead.","q":"Was she leading?","a":"yes"},
-
   {"id":"C2_121","type":"multiple_choice","q":"He ___ a fine line.","options":["walked","ran","crossed"],"a":"walked"},
   {"id":"C2_122","type":"multiple_choice","q":"She ___ boundaries.","options":["pushed","made","did"],"a":"pushed"},
-
   {"id":"C2_123","type":"multiple_choice","q":"He ___ a difference.","options":["made","did","took"],"a":"made"},
   {"id":"C2_124","type":"multiple_choice","q":"She ___ an exception.","options":["made","did","took"],"a":"made"},
-
   {"id":"C2_125","type":"fill","q":"He ___ (set) a precedent.","a":"set"},
   {"id":"C2_126","type":"fill","q":"She ___ (draw) attention.","a":"drew"},
-
   {"id":"C2_127","type":"multiple_choice","q":"He ___ a conclusion.","options":["reached","made","did"],"a":"reached"},
   {"id":"C2_128","type":"multiple_choice","q":"She ___ an assumption.","options":["made","did","took"],"a":"made"},
-
   {"id":"C2_129","type":"translation","q_es":"Sacó una conclusión","a":"He reached a conclusion"},
   {"id":"C2_130","type":"translation","q_es":"Llamó la atención","a":"She drew attention"},
-
   {"id":"C2_131","type":"multiple_choice","q":"He ___ a point.","options":["made","did","took"],"a":"made"},
   {"id":"C2_132","type":"multiple_choice","q":"She ___ a remark.","options":["made","did","took"],"a":"made"},
-
   {"id":"C2_133","type":"multiple_choice","q":"He ___ his ground.","options":["stood","kept","held"],"a":"stood"},
   {"id":"C2_134","type":"multiple_choice","q":"She ___ her ground.","options":["stood","kept","held"],"a":"stood"},
-
   {"id":"C2_135","type":"multiple_choice","q":"He ___ a compromise.","options":["reached","made","did"],"a":"reached"},
   {"id":"C2_136","type":"multiple_choice","q":"She ___ an agreement.","options":["reached","made","did"],"a":"reached"},
-
   {"id":"C2_137","type":"reading","text":"He stood his ground.","q":"Did he give up?","a":"no"},
   {"id":"C2_138","type":"reading","text":"She reached an agreement.","q":"Was there consensus?","a":"yes"},
-
   {"id":"C2_139","type":"multiple_choice","q":"He ___ a threat.","options":["posed","made","did"],"a":"posed"},
   {"id":"C2_140","type":"multiple_choice","q":"She ___ a risk.","options":["posed","made","did"],"a":"posed"},
-
   {"id":"C2_141","type":"multiple_choice","q":"He ___ an effort.","options":["made","did","took"],"a":"made"},
   {"id":"C2_142","type":"multiple_choice","q":"She ___ progress.","options":["made","did","took"],"a":"made"},
-
   {"id":"C2_143","type":"translation","q_es":"Representa un riesgo","a":"It poses a risk"},
   {"id":"C2_144","type":"translation","q_es":"Hizo un esfuerzo","a":"He made an effort"},
-
   {"id":"C2_145","type":"multiple_choice","q":"He ___ a balance.","options":["struck","made","did"],"a":"struck"},
   {"id":"C2_146","type":"multiple_choice","q":"She ___ a chord.","options":["struck","made","did"],"a":"struck"},
-
   {"id":"C2_147","type":"multiple_choice","q":"He ___ the gap.","options":["bridged","closed","filled"],"a":"bridged"},
   {"id":"C2_148","type":"multiple_choice","q":"She ___ the gap.","options":["bridged","closed","filled"],"a":"bridged"},
-
   {"id":"C2_149","type":"multiple_choice","q":"He ___ the gap between theory and practice.","options":["bridged","made","did"],"a":"bridged"},
   {"id":"C2_150","type":"multiple_choice","q":"She ___ the difference.","options":["made","did","took"],"a":"made"},
-
   {"id":"C2_151","type":"multiple_choice","q":"He ___ the truth.","options":["uncovered","discovered","found"],"a":"uncovered"},
   {"id":"C2_152","type":"multiple_choice","q":"She ___ the truth.","options":["uncovered","discovered","found"],"a":"uncovered"},
-
   {"id":"C2_153","type":"multiple_choice","q":"He ___ a pattern.","options":["identified","saw","looked"],"a":"identified"},
   {"id":"C2_154","type":"multiple_choice","q":"She ___ a pattern.","options":["identified","saw","looked"],"a":"identified"},
-
   {"id":"C2_155","type":"multiple_choice","q":"He ___ an opportunity.","options":["seized","took","grabbed"],"a":"seized"},
   {"id":"C2_156","type":"multiple_choice","q":"She ___ an opportunity.","options":["seized","took","grabbed"],"a":"seized"},
-
   {"id":"C2_157","type":"reading","text":"He seized the opportunity.","q":"Did he act fast?","a":"yes"},
   {"id":"C2_158","type":"reading","text":"She identified the pattern.","q":"Did she analyze it?","a":"yes"},
-
   {"id":"C2_159","type":"multiple_choice","q":"He ___ the situation.","options":["assessed","checked","saw"],"a":"assessed"},
   {"id":"C2_160","type":"multiple_choice","q":"She ___ the situation.","options":["assessed","checked","saw"],"a":"assessed"},
-
   {"id":"C2_161","type":"multiple_choice","q":"He ___ a solution.","options":["devised","made","did"],"a":"devised"},
   {"id":"C2_162","type":"multiple_choice","q":"She ___ a solution.","options":["devised","made","did"],"a":"devised"},
-
   {"id":"C2_163","type":"multiple_choice","q":"He ___ a strategy.","options":["formulated","made","did"],"a":"formulated"},
   {"id":"C2_164","type":"multiple_choice","q":"She ___ a strategy.","options":["formulated","made","did"],"a":"formulated"},
-
   {"id":"C2_165","type":"translation","q_es":"Desarrolló una estrategia","a":"He formulated a strategy"},
   {"id":"C2_166","type":"translation","q_es":"Ideó una solución","a":"She devised a solution"},
-
   {"id":"C2_167","type":"multiple_choice","q":"He ___ the challenge.","options":["overcame","passed","won"],"a":"overcame"},
   {"id":"C2_168","type":"multiple_choice","q":"She ___ the obstacle.","options":["overcame","passed","won"],"a":"overcame"},
-
   {"id":"C2_169","type":"multiple_choice","q":"He ___ a legacy.","options":["left","made","did"],"a":"left"},
   {"id":"C2_170","type":"multiple_choice","q":"She ___ a legacy.","options":["left","made","did"],"a":"left"},
-
   {"id":"C2_171","type":"multiple_choice","q":"He ___ a breakthrough.","options":["made","did","took"],"a":"made"},
   {"id":"C2_172","type":"multiple_choice","q":"She ___ a breakthrough.","options":["made","did","took"],"a":"made"},
-
   {"id":"C2_173","type":"multiple_choice","q":"He ___ a shift.","options":["made","did","took"],"a":"made"},
   {"id":"C2_174","type":"multiple_choice","q":"She ___ a shift.","options":["made","did","took"],"a":"made"},
-
   {"id":"C2_175","type":"multiple_choice","q":"He ___ a trend.","options":["set","made","did"],"a":"set"},
   {"id":"C2_176","type":"multiple_choice","q":"She ___ a trend.","options":["set","made","did"],"a":"set"},
-
   {"id":"C2_177","type":"multiple_choice","q":"He ___ the standard.","options":["set","made","did"],"a":"set"},
   {"id":"C2_178","type":"multiple_choice","q":"She ___ the standard.","options":["set","made","did"],"a":"set"},
-
   {"id":"C2_179","type":"multiple_choice","q":"He ___ an example.","options":["set","made","did"],"a":"set"},
   {"id":"C2_180","type":"multiple_choice","q":"She ___ an example.","options":["set","made","did"],"a":"set"},
-
   {"id":"C2_181","type":"reading","text":"He set the standard.","q":"Did he define quality?","a":"yes"},
   {"id":"C2_182","type":"reading","text":"She made a breakthrough.","q":"Was it important progress?","a":"yes"},
-
   {"id":"C2_183","type":"multiple_choice","q":"He ___ a difference.","options":["made","did","took"],"a":"made"},
   {"id":"C2_184","type":"multiple_choice","q":"She ___ a contribution.","options":["made","did","took"],"a":"made"},
-
   {"id":"C2_185","type":"multiple_choice","q":"He ___ a contribution.","options":["made","did","took"],"a":"made"},
   {"id":"C2_186","type":"multiple_choice","q":"She ___ a difference.","options":["made","did","took"],"a":"made"},
-
   {"id":"C2_187","type":"multiple_choice","q":"He ___ a commitment.","options":["made","did","took"],"a":"made"},
   {"id":"C2_188","type":"multiple_choice","q":"She ___ a commitment.","options":["made","did","took"],"a":"made"},
-
   {"id":"C2_189","type":"multiple_choice","q":"He ___ a complaint.","options":["made","did","took"],"a":"made"},
   {"id":"C2_190","type":"multiple_choice","q":"She ___ a complaint.","options":["made","did","took"],"a":"made"},
-
   {"id":"C2_191","type":"multiple_choice","q":"He ___ an inquiry.","options":["made","did","took"],"a":"made"},
   {"id":"C2_192","type":"multiple_choice","q":"She ___ an inquiry.","options":["made","did","took"],"a":"made"},
-
   {"id":"C2_193","type":"translation","q_es":"Hizo una contribución","a":"He made a contribution"},
   {"id":"C2_194","type":"translation","q_es":"Marcó la diferencia","a":"She made a difference"},
-
   {"id":"C2_195","type":"reading","text":"He made a contribution.","q":"Did he add value?","a":"yes"},
   {"id":"C2_196","type":"reading","text":"She made a commitment.","q":"Did she promise something?","a":"yes"},
-
   {"id":"C2_197","type":"flashcard","front":"make a difference","back":"marcar la diferencia"},
   {"id":"C2_198","type":"flashcard","front":"set the standard","back":"establecer el estándar"},
-
   {"id":"C2_199","type":"flashcard","front":"seize the opportunity","back":"aprovechar la oportunidad"},
   {"id":"C2_200","type":"flashcard","front":"bridge the gap","back":"cerrar la brecha"}
-    ]
+]
