@@ -1,0 +1,23 @@
+[
+  {"expression": "I'm beat", "meaning": "I am very tired", "translation": "Estoy agotado"},
+  {"expression": "Hit the road", "meaning": "Leave / go", "translation": "Ponte en marcha / irse"},
+  {"expression": "Piece of cake", "meaning": "Very easy", "translation": "Pan comido / muy fácil"},
+  {"expression": "Break a leg", "meaning": "Good luck", "translation": "¡Buena suerte!"},
+  {"expression": "Under the weather", "meaning": "Feeling sick", "translation": "No me siento bien"},
+  {"expression": "Call it a day", "meaning": "Stop working", "translation": "Darlo por terminado"},
+  {"expression": "Cut corners", "meaning": "Do something badly to save time/money", "translation": "Hacer algo a medias"},
+  {"expression": "Hang out", "meaning": "Spend time together", "translation": "Pasar tiempo juntos"},
+  {"expression": "Blow off steam", "meaning": "Relax / relieve stress", "translation": "Desahogarse"},
+  {"expression": "Hit the books", "meaning": "Study hard", "translation": "Estudiar mucho"},
+
+  {"expression": "Pull someone's leg", "meaning": "Joke / tease", "translation": "Tomarle el pelo"},
+  {"expression": "Wrap your head around", "meaning": "Understand something complicated", "translation": "Entender algo complicado"},
+  {"expression": "Out of the blue", "meaning": "Unexpectedly", "translation": "De repente / inesperadamente"},
+  {"expression": "Bite the bullet", "meaning": "Do something difficult", "translation": "Hacer algo difícil"},
+  {"expression": "Hit the sack", "meaning": "Go to bed", "translation": "Ir a la cama"},
+  {"expression": "Call someone out", "meaning": "Challenge someone", "translation": "Desafiar a alguien"},
+  {"expression": "In a nutshell", "meaning": "Briefly", "translation": "En pocas palabras"},
+  {"expression": "Keep an eye on", "meaning": "Watch carefully", "translation": "Vigilar"},
+  {"expression": "Up in the air", "meaning": "Uncertain", "translation": "Indefinido / incierto"},
+  {"expression": "Go the extra mile", "meaning": "Do more than needed", "translation": "Hacer un esfuerzo extra"}
+]
