@@ -1,0 +1,309 @@
+{
+  "level": "A1",
+  "unit": "Daily Life Master - Extended Edition",
+
+  "content": {
+    "title": "A Complete Day: An In-Depth Exploration",
+
+    "full_text": "Permit me to introduce myself. My name is Daniel Alejandro Mendoza, and I am a 20-year-old university student who currently resides in the vibrant, sprawling capital city of Bogotá, which is situated high in the Andes Mountains of Colombia. My primary occupation is that of a student, and I dedicate a significant portion of my daily schedule to the study of the English language. My motivation for this rigorous study is multifaceted: I harbor a profound desire to travel extensively across the globe, to engage in meaningful communication with individuals from diverse cultural backgrounds, and to broaden my intellectual horizons. Each morning, without exception, I commence my daily routine at 7:00 AM. The initial activity is a communal breakfast with my family, a moment for connection before the day's obligations begin. My typical breakfast consists of a combination of eggs prepared in various styles, freshly baked bread, and a choice between a robust cup of Colombian coffee or a glass of natural fruit juice. Following this meal, I engage in my personal hygiene routine, which includes a shower, and then I meticulously prepare my academic materials for the day ahead. My journey to the university is via the public bus system, a mode of transportation that is often characterized by high density of passengers during peak hours. My academic schedule is structured and demanding: classes commence promptly at 8:00 AM and conclude at 2:00 PM. The curriculum I follow includes English, mathematics, the natural sciences, and history. My personal preference leans towards the English classes, as I find immense satisfaction in acquiring new vocabulary, deciphering complex grammatical structures, and practicing conversational skills with my peers. During the designated break time, I interact with my friends, and we make a concerted effort to utilize English as our primary means of communication, thereby reinforcing the concepts learned in class. Upon my return home in the afternoon, I systematically address my homework assignments. Subsequently, I allocate time for relaxation, which may involve watching a program on television, listening to a curated playlist of music, or utilizing a language-learning application on my mobile device to further hone my skills. The evening is marked by a family dinner, where we consume a meal that frequently includes rice, a protein such as chicken, and a selection of vegetables. This gathering serves as a forum for us to discuss the events of the day, exchange ideas, and provide mutual support. As part of my nightly ritual before retiring, I either immerse myself in a book or conduct a thorough review of my English lessons. This practice engenders a feeling of accomplishment, as I recognize that I am acquiring new knowledge incrementally and making consistent, albeit gradual, progress in my linguistic abilities.",
+
+    "audio_chunks": [
+      {
+        "id": "A1_AUD_001",
+        "text": "Permit me to introduce myself. My name is Daniel Alejandro Mendoza, and I am a 20-year-old university student who currently resides in the vibrant, sprawling capital city of Bogotá, which is situated high in the Andes Mountains of Colombia.",
+        "duration_seconds": 12,
+        "speaker": "male_1",
+        "tone": "formal_introductory"
+      },
+      {
+        "id": "A1_AUD_002",
+        "text": "My primary occupation is that of a student, and I dedicate a significant portion of my daily schedule to the study of the English language. My motivation for this rigorous study is multifaceted: I harbor a profound desire to travel extensively across the globe.",
+        "duration_seconds": 10,
+        "speaker": "male_1",
+        "tone": "explanatory"
+      },
+      {
+        "id": "A1_AUD_003",
+        "text": "Each morning, without exception, I commence my daily routine at 7:00 AM. The initial activity is a communal breakfast with my family, a moment for connection before the day's obligations begin. My typical breakfast consists of a combination of eggs prepared in various styles, freshly baked bread, and a choice between a robust cup of Colombian coffee or a glass of natural fruit juice.",
+        "duration_seconds": 15,
+        "speaker": "male_1",
+        "tone": "descriptive"
+      },
+      {
+        "id": "A1_AUD_004",
+        "text": "My academic schedule is structured and demanding: classes commence promptly at 8:00 AM and conclude at 2:00 PM. The curriculum I follow includes English, mathematics, the natural sciences, and history. My personal preference leans towards the English classes.",
+        "duration_seconds": 10,
+        "speaker": "male_1",
+        "tone": "informative"
+      },
+      {
+        "id": "A1_AUD_005",
+        "text": "During the designated break time, I interact with my friends, and we make a concerted effort to utilize English as our primary means of communication, thereby reinforcing the concepts learned in class.",
+        "duration_seconds": 8,
+        "speaker": "male_1",
+        "tone": "conversational"
+      },
+      {
+        "id": "A1_AUD_006",
+        "text": "Upon my return home in the afternoon, I systematically address my homework assignments. Subsequently, I allocate time for relaxation, which may involve watching a program on television, listening to a curated playlist of music, or utilizing a language-learning application on my mobile device to further hone my skills.",
+        "duration_seconds": 12,
+        "speaker": "male_1",
+        "tone": "reflective"
+      },
+      {
+        "id": "A1_AUD_007",
+        "text": "The evening is marked by a family dinner, where we consume a meal that frequently includes rice, a protein such as chicken, and a selection of vegetables. This gathering serves as a forum for us to discuss the events of the day, exchange ideas, and provide mutual support.",
+        "duration_seconds": 10,
+        "speaker": "male_1",
+        "tone": "warm"
+      },
+      {
+        "id": "A1_AUD_008",
+        "text": "As part of my nightly ritual before retiring, I either immerse myself in a book or conduct a thorough review of my English lessons. This practice engenders a feeling of accomplishment, as I recognize that I am acquiring new knowledge incrementally and making consistent, albeit gradual, progress in my linguistic abilities.",
+        "duration_seconds": 12,
+        "speaker": "male_1",
+        "tone": "satisfied"
+      }
+    ]
+  },
+
+  "exercises": {
+
+    "reading": [
+      {
+        "id": "A1_R_001",
+        "question": "Based on the text, which of the following statements accurately identifies Daniel's place of residence, including a descriptive detail?",
+        "options": [
+          "He lives in a small coastal town in Mexico.",
+          "He resides in Bogotá, which is described as the vibrant and sprawling capital city located in the Andes Mountains.",
+          "He lives in a rural area of Chile, far from any major city.",
+          "He resides in Medellín, a city known for its eternal spring climate."
+        ],
+        "correct": "He resides in Bogotá, which is described as the vibrant and sprawling capital city located in the Andes Mountains."
+      },
+      {
+        "id": "A1_R_002",
+        "question": "What are the multiple reasons Daniel provides for his dedicated study of English?",
+        "options": [
+          "Only to pass his university exams and to satisfy his parents.",
+          "To travel extensively across the globe, to engage in meaningful communication with individuals from diverse cultural backgrounds, and to broaden his intellectual horizons.",
+          "Because his family forces him to study it and he has no personal interest.",
+          "Solely to obtain a better job in his hometown."
+        ],
+        "correct": "To travel extensively across the globe, to engage in meaningful communication with individuals from diverse cultural backgrounds, and to broaden his intellectual horizons."
+      },
+      {
+        "id": "A1_R_003",
+        "question": "According to the text, what specific actions does Daniel take during his nightly ritual before going to bed?",
+        "options": [
+          "He watches television and uses his phone to browse social media.",
+          "He either immerses himself in a book or conducts a thorough review of his English lessons.",
+          "He talks on the phone with his friends and plans the next day.",
+          "He prepares his breakfast for the following morning."
+        ],
+        "correct": "He either immerses himself in a book or conducts a thorough review of his English lessons."
+      },
+      {
+        "id": "A1_R_004",
+        "question": "How does Daniel describe his journey to the university, and what specific characteristic does he highlight about the public bus system?",
+        "options": [
+          "He describes it as relaxing and always on time.",
+          "He mentions it is via the public bus system, a mode of transportation often characterized by high density of passengers during peak hours.",
+          "He says he walks to university because it is close to his home.",
+          "He takes a taxi every day because the bus is unreliable."
+        ],
+        "correct": "He mentions it is via the public bus system, a mode of transportation often characterized by high density of passengers during peak hours."
+      },
+      {
+        "id": "A1_R_005",
+        "question": "What does Daniel eat for breakfast according to the text?",
+        "options": [
+          "Only cereal and milk.",
+          "A combination of eggs prepared in various styles, freshly baked bread, and a choice between coffee or natural fruit juice.",
+          "Pancakes with syrup and orange juice.",
+          "Toast with butter and tea."
+        ],
+        "correct": "A combination of eggs prepared in various styles, freshly baked bread, and a choice between coffee or natural fruit juice."
+      }
+    ],
+
+    "listening": [
+      {
+        "id": "A1_L_001",
+        "audio_id": "A1_AUD_001",
+        "audio_text": "Permit me to introduce myself. My name is Daniel Alejandro Mendoza, and I am a 20-year-old university student who currently resides in the vibrant, sprawling capital city of Bogotá, which is situated high in the Andes Mountains of Colombia.",
+        "question": "Listen to the audio clip. What is the full name provided by the speaker, and what geographical feature is associated with his city?",
+        "options": [
+          "His name is Daniel and his city has a large river crossing through it.",
+          "His full name is Daniel Alejandro Mendoza, and his city, Bogotá, is situated high in the Andes Mountains.",
+          "His name is Alejandro Mendoza and his city is near the Pacific coast.",
+          "His name is Daniel and he lives in a city surrounded by desert."
+        ],
+        "correct": "His full name is Daniel Alejandro Mendoza, and his city, Bogotá, is situated high in the Andes Mountains."
+      },
+      {
+        "id": "A1_L_002",
+        "audio_id": "A1_AUD_006",
+        "audio_text": "Upon my return home in the afternoon, I systematically address my homework assignments. Subsequently, I allocate time for relaxation, which may involve watching a program on television, listening to a curated playlist of music, or utilizing a language-learning application on my mobile device to further hone my skills.",
+        "question": "According to the audio, what three specific activities does Daniel mention as possibilities for his relaxation time in the afternoon?",
+        "options": [
+          "Playing video games, sleeping, and cooking.",
+          "Watching a program on television, listening to a curated playlist of music, or utilizing a language-learning application on his mobile device.",
+          "Going to the gym, meeting friends at a café, and shopping.",
+          "Reading a newspaper, writing in a journal, and taking a nap."
+        ],
+        "correct": "Watching a program on television, listening to a curated playlist of music, or utilizing a language-learning application on his mobile device."
+      },
+      {
+        "id": "A1_L_003",
+        "audio_id": "A1_AUD_008",
+        "audio_text": "As part of my nightly ritual before retiring, I either immerse myself in a book or conduct a thorough review of my English lessons. This practice engenders a feeling of accomplishment, as I recognize that I am acquiring new knowledge incrementally and making consistent, albeit gradual, progress in my linguistic abilities.",
+        "question": "What feeling does Daniel say he experiences as a result of his nightly ritual, and what does he recognize about his progress?",
+        "options": [
+          "He feels tired and recognizes he needs more sleep.",
+          "He feels a feeling of accomplishment, and he recognizes that he is acquiring new knowledge incrementally and making consistent, albeit gradual, progress.",
+          "He feels bored and recognizes that he needs to change his routine.",
+          "He feels anxious and recognizes that he is not learning enough."
+        ],
+        "correct": "He feels a feeling of accomplishment, and he recognizes that he is acquiring new knowledge incrementally and making consistent, albeit gradual, progress."
+      }
+    ],
+
+    "grammar": [
+      {
+        "id": "A1_G_001",
+        "type": "fill",
+        "question": "Complete the following sentence with the correct form of the verb 'to be' to accurately reflect the subject: 'I ___ a university student who ___ dedicated to my studies.'",
+        "correct": "am, am"
+      },
+      {
+        "id": "A1_G_002",
+        "type": "fill",
+        "question": "Complete the sentence with the correct verb form based on the text: 'During the break, my friends and I often ___ English together to reinforce our skills.'",
+        "correct": "practice"
+      },
+      {
+        "id": "A1_G_003",
+        "type": "multiple_choice",
+        "question": "Which option correctly uses the present simple tense to describe a habitual action mentioned in the text?",
+        "options": [
+          "He is eating breakfast with his family at this moment.",
+          "He eats breakfast with his family every morning.",
+          "He ate breakfast with his family yesterday.",
+          "He will eat breakfast with his family tomorrow."
+        ],
+        "correct": "He eats breakfast with his family every morning."
+      },
+      {
+        "id": "A1_G_004",
+        "type": "multiple_choice",
+        "question": "Identify the sentence that correctly uses the third-person singular form of the present simple tense based on information from the text.",
+        "options": [
+          "Daniel study English every day because he want to travel.",
+          "Daniel studies English every day because he wants to travel.",
+          "Daniel studys English every day because he want to travel.",
+          "Daniel study English every day because he wants to travel."
+        ],
+        "correct": "Daniel studies English every day because he wants to travel."
+      },
+      {
+        "id": "A1_G_005",
+        "type": "fill",
+        "question": "Complete the following sentence using the correct form of the verb in parentheses: 'My classes ______ (commence) at 8:00 AM and ______ (conclude) at 2:00 PM.'",
+        "correct": "commence, conclude"
+      }
+    ],
+
+    "vocabulary": [
+      {
+        "id": "A1_V_001",
+        "question": "In the text, the word 'commence' is used. What is the most common synonym for this word, and what activity does Daniel commence at 7:00 AM?",
+        "options": [
+          "Finish; he finishes his breakfast.",
+          "Begin or start; he commences his daily routine.",
+          "Delay; he delays his wake-up time.",
+          "Celebrate; he celebrates the morning."
+        ],
+        "correct": "Begin or start; he commences his daily routine."
+      },
+      {
+        "id": "A1_V_002",
+        "question": "The text describes Daniel's motivation for studying as 'multifaceted'. What does this word imply about his reasons?",
+        "options": [
+          "They are simple and singular in nature.",
+          "They are complex and have many different parts or aspects.",
+          "They are unimportant to his daily life.",
+          "They are only related to his career goals."
+        ],
+        "correct": "They are complex and have many different parts or aspects."
+      },
+      {
+        "id": "A1_V_003",
+        "question": "What does the word 'communal' mean as used in the phrase 'communal breakfast with my family'?",
+        "options": [
+          "Private and solitary.",
+          "Shared among a group of people.",
+          "Quick and rushed.",
+          "Expensive and elaborate."
+        ],
+        "correct": "Shared among a group of people."
+      },
+      {
+        "id": "A1_V_004",
+        "question": "In the text, Daniel says his classes are 'structured and demanding'. What does the word 'demanding' suggest about his academic schedule?",
+        "options": [
+          "It is easy and requires little effort.",
+          "It is challenging and requires a lot of effort and attention.",
+          "It is optional and flexible.",
+          "It is short and finishes quickly."
+        ],
+        "correct": "It is challenging and requires a lot of effort and attention."
+      }
+    ],
+
+    "speaking": [
+      {
+        "id": "A1_S_001",
+        "prompt": "Please articulate a complex sentence that combines at least three of the following elements from the text: your motivation for studying English, one activity from your morning routine, and what you do during your nightly ritual. For example: 'I study English because I want to travel, I have breakfast with my family, and before bed I review my lessons.'",
+        "expected": "A sentence combining at least three distinct elements from the text's narrative.",
+        "evaluation_criteria": [
+          "Uses at least three elements from the text",
+          "Forms a complete and coherent sentence",
+          "Demonstrates basic grammatical accuracy"
+        ]
+      },
+      {
+        "id": "A1_S_002",
+        "prompt": "Based on the description of Daniel's bus journey, describe a typical transportation experience you have, using the phrase 'it is often characterized by' to explain a common condition. For example: 'My journey to work is often characterized by heavy traffic.'",
+        "expected": "A sentence that correctly uses the phrase 'is often characterized by' to describe a transportation experience.",
+        "evaluation_criteria": [
+          "Correctly uses the phrase 'is often characterized by'",
+          "Describes a transportation experience",
+          "Uses present simple tense appropriately"
+        ]
+      },
+      {
+        "id": "A1_S_003",
+        "prompt": "Using the vocabulary word 'multifaceted', create an original sentence that describes your own reason for learning English or another personal goal. For example: 'My desire to learn programming is multifaceted: I enjoy problem-solving, I want to create useful applications, and I seek better career opportunities.'",
+        "expected": "A sentence that correctly uses the word 'multifaceted' to describe a goal with multiple reasons.",
+        "evaluation_criteria": [
+          "Correctly uses the word 'multifaceted'",
+          "Provides at least two distinct reasons",
+          "Forms a grammatically correct sentence"
+        ]
+      }
+    ]
+  },
+
+  "evaluation": {
+    "passing_score": 0.75,
+    "total_exercises": 18,
+    "total_objective_exercises": 15,
+    "total_speaking_exercises": 3,
+    "scoring_rubric": {
+      "objective_exercises": "Each correct answer in reading (5 exercises), listening (3 exercises), grammar (5 exercises), and vocabulary (4 exercises) contributes equally to the overall score. Total objective score = correct_count / 15.",
+      "speaking_exercises": "Each speaking exercise is evaluated qualitatively based on the provided evaluation criteria. A passing score in speaking requires at least 2 out of 3 exercises to meet the criteria satisfactorily.",
+      "final_requirement": "A minimum of 75% accuracy across all objective exercises AND satisfactory performance in at least 2 speaking exercises is required to pass this extended unit."
+    }
+  }
+      }
