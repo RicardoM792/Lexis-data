@@ -1,0 +1,12 @@
+[
+  {"rule": "Use semicolons to separate related independent clauses", "example": "The theory is compelling; nevertheless, it requires empirical validation.", "translation": "Usa punto y coma para separar cláusulas independientes relacionadas"},
+  {"rule": "Use colons for emphasis, explanation, or introduction", "example": "There is one factor to consider: sustainability.", "translation": "Usa dos puntos para énfasis, explicación o introducción"},
+  {"rule": "Use dashes to indicate an abrupt change or add emphasis", "example": "The solution — though controversial — proved effective.", "translation": "Usa guiones para indicar un cambio abrupto o enfatizar"},
+  {"rule": "Use parentheses for supplementary information", "example": "The committee (composed of experts from various fields) convened yesterday.", "translation": "Usa paréntesis para información suplementaria"},
+  {"rule": "Use commas for non-restrictive clauses and complex sentences", "example": "The proposal, while innovative, may be costly.", "translation": "Usa comas para cláusulas no restrictivas y oraciones complejas"},
+  {"rule": "Use ellipses for omissions or trailing thoughts", "example": "The data suggest... we need further investigation.", "translation": "Usa puntos suspensivos para omisiones o pensamientos incompletos"},
+  {"rule": "Use hyphens in compound modifiers before nouns", "example": "A well-researched argument is persuasive.", "translation": "Usa guiones en modificadores compuestos antes de sustantivos"},
+  {"rule": "Use quotation marks for exact speech or citations", "example": "The CEO stated, \"Innovation drives growth.\"", "translation": "Usa comillas para discurso exacto o citas"},
+  {"rule": "Use apostrophes correctly for possession and contractions", "example": "It's the organization's responsibility.", "translation": "Usa apóstrofes correctamente para posesión y contracciones"},
+  {"rule": "Capitalize proper nouns, acronyms, titles, and sentence beginnings", "example": "The United Nations issued a statement.", "translation": "Mayúsculas en nombres propios, siglas, títulos e inicios de oración"}
+]
