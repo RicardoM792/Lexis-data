@@ -13,56 +13,74 @@
   "files": {
     "by_level": {
       "A1": [
-        "a1/vocabulary.json",
-        "adjectives.json",
-        "colors.json",
-        "nouns.json",
-        "numbers.json",
-        "pronouns.json",
-        "seasons-weather.json",
-        "time.json"
+        "A1/vocabulary.json",
+        "A1/grammar.json",
+        "A1/exercises.json",
+        "A1/irregular.json",
+        "A1/aud.json"
       ],
       "A2": [
-        "a2/vocabulary.json"
+        "A2/vocabulary.json",
+        "A2/grammar.json",
+        "A2/exercises.json",
+        "A2/irregular.json",
+        "A2/aud.json"
       ],
       "B1": [
-        "b1/vocabulary.json"
+        "B1/vocabulary.json",
+        "B1/grammar.json",
+        "B1/exercises.json",
+        "B1/irregular.json",
+        "B1/aud.json"
       ],
       "B2": [
-        "b2/vocabulary.json"
+        "B2/vocabulary.json",
+        "B2/grammar.json",
+        "B2/exercises.json",
+        "B2/irregular.json",
+        "B2/aud.json"
       ],
       "C1": [
-        "c1/vocabulary.json"
+        "C1/vocabulary.json",
+        "C1/grammar.json",
+        "C1/exercises.json",
+        "C1/irregular.json",
+        "C1/aud.json"
       ],
-      "C2": []
+      "C2": [
+        "C2/vocabulary.json",
+        "C2/grammar.json",
+        "C2/exercises.json",
+        "C2/irregular.json",
+        "C2/aud.json"
+      ]
     },
     "by_topic": {
-      "adjectives": ["adjectives.json"],
-      "colors": ["colors.json"],
-      "nouns": ["nouns.json"],
-      "numbers": ["numbers.json"],
-      "pronouns": ["pronouns.json"],
-      "time": ["time.json"],
-      "weather_seasons": ["seasons-weather.json"]
+      "adjectives": ["A1/adjectives.json", "A2/adjectives.json", "B1/adjectives.json", "B2/adjectives.json", "C1/adjectives.json", "C2/adjectives.json"],
+      "colors": ["A1/colors.json"],
+      "nouns": ["A1/nouns.json", "A2/nouns.json", "B1/nouns.json", "B2/nouns.json", "C1/nouns.json", "C2/nouns.json"],
+      "numbers": ["A1/numbers.json"],
+      "pronouns": ["A1/pronouns.json"],
+      "time": ["A1/time.json"],
+      "weather_seasons": ["A1/seasons-weather.json"]
     },
     "grammar": [
-      "rules.json"
+      "A1/grammar.json",
+      "A2/grammar.json",
+      "B1/grammar.json",
+      "B2/grammar.json",
+      "C1/grammar.json",
+      "C2/grammar.json"
     ],
     "verbs": [
-      "irregular.json"
+      "A1/irregular.json",
+      "A2/irregular.json",
+      "B1/irregular.json",
+      "B2/irregular.json",
+      "C1/irregular.json",
+      "C2/irregular.json"
     ]
   },
-  "oxford": {
-    "3000": "https://raw.githubusercontent.com/ittuann/The-Oxford-5000-Word-Lists/main/The%20Oxford%203000.txt",
-    "5000": "https://raw.githubusercontent.com/ittuann/The-Oxford-5000-Word-Lists/main/The%20Oxford%205000.txt"
-  },
-  "books": [
-    {"title":"Alice in Wonderland","author":"Lewis Carroll","year":1865,"level":"A2","color":"#3ddc84","url":"https://www.gutenberg.org/files/11/11-0.txt","desc":"Fantasy adventure with simple language"},
-    {"title":"The Little Prince","author":"Antoine de Saint-Exupéry","year":1943,"level":"A2-B1","color":"#5eaeff","url":"https://www.gutenberg.org/files/15160/15160-0.txt","desc":"Philosophical tale with clear prose"},
-    {"title":"Pride and Prejudice","author":"Jane Austen","year":1813,"level":"B1-B2","color":"#e8b86d","url":"https://www.gutenberg.org/files/1342/1342-0.txt","desc":"Classic romance and social commentary"},
-    {"title":"Sherlock Holmes: Adventures","author":"Arthur Conan Doyle","year":1892,"level":"B2","color":"#ff9a3c","url":"https://www.gutenberg.org/files/1661/1661-0.txt","desc":"Detective stories with rich vocabulary"},
-    {"title":"The Great Gatsby","author":"F. Scott Fitzgerald","year":1925,"level":"C1-C2","color":"#ff5a1f","url":"https://www.gutenberg.org/files/64317/64317-0.txt","desc":"Literary masterpiece with sophisticated prose"}
-  ],
   "level_thresholds": {
     "A1": {"min": 0, "max": 100, "next": "A2", "words_to_master": 30, "description": "Breakthrough - Basic phrases and expressions"},
     "A2": {"min": 100, "max": 250, "next": "B1", "words_to_master": 60, "description": "Waystage - Simple tasks and routine exchanges"},
