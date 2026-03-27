@@ -1,0 +1,224 @@
+[
+  {"id":"B1_001","type":"multiple_choice","q":"I have ___ my homework.","options":["do","did","done"],"a":"done"},
+  {"id":"B1_002","type":"multiple_choice","q":"She has ___ a book.","options":["write","wrote","written"],"a":"written"},
+  {"id":"B1_003","type":"fill","q":"They have ___ (finish).","a":"finished"},
+  {"id":"B1_004","type":"fill","q":"He has ___ (eat).","a":"eaten"},
+  {"id":"B1_005","type":"error","q":"I have did it.","a":"I have done it"},
+  {"id":"B1_006","type":"error","q":"She has went home.","a":"She has gone home"},
+
+  {"id":"B1_007","type":"multiple_choice","q":"I ___ to Paris last year.","options":["have been","went","gone"],"a":"went"},
+  {"id":"B1_008","type":"multiple_choice","q":"I have ___ to Paris.","options":["been","went","go"],"a":"been"},
+
+  {"id":"B1_009","type":"multiple_choice","q":"If it rains, I ___ stay home.","options":["will","would","am"],"a":"will"},
+  {"id":"B1_010","type":"multiple_choice","q":"If you study, you ___ pass.","options":["will","would","can"],"a":"will"},
+
+  {"id":"B1_011","type":"multiple_choice","q":"I ___ just finished.","options":["have","has","had"],"a":"have"},
+  {"id":"B1_012","type":"multiple_choice","q":"She has ___ eaten.","options":["already","yet","just"],"a":"already"},
+
+  {"id":"B1_013","type":"multiple_choice","q":"I haven't finished ___","options":["already","yet","just"],"a":"yet"},
+  {"id":"B1_014","type":"multiple_choice","q":"Have you finished ___?","options":["yet","already","just"],"a":"yet"},
+
+  {"id":"B1_015","type":"multiple_choice","q":"Turn ___ the light.","options":["on","off","up"],"a":"on"},
+  {"id":"B1_016","type":"multiple_choice","q":"Give ___ smoking.","options":["up","off","on"],"a":"up"},
+
+  {"id":"B1_017","type":"multiple_choice","q":"I ___ TV when she called.","options":["watched","was watching","watch"],"a":"was watching"},
+  {"id":"B1_018","type":"multiple_choice","q":"They ___ when I arrived.","options":["slept","were sleeping","sleep"],"a":"were sleeping"},
+
+  {"id":"B1_019","type":"fill","q":"I ___ (work) when he called.","a":"was working"},
+  {"id":"B1_020","type":"fill","q":"She ___ (cook) dinner.","a":"was cooking"},
+
+  {"id":"B1_021","type":"error","q":"I was watch TV.","a":"I was watching TV"},
+  {"id":"B1_022","type":"error","q":"They were sleep.","a":"They were sleeping"},
+
+  {"id":"B1_023","type":"multiple_choice","q":"I ___ never been there.","options":["have","has","had"],"a":"have"},
+  {"id":"B1_024","type":"multiple_choice","q":"She ___ visited us.","options":["has","have","had"],"a":"has"},
+
+  {"id":"B1_025","type":"multiple_choice","q":"This is ___ than before.","options":["more difficult","difficulter","most difficult"],"a":"more difficult"},
+  {"id":"B1_026","type":"multiple_choice","q":"This is the ___ place.","options":["most beautiful","beautifuller","more beautiful"],"a":"most beautiful"},
+
+  {"id":"B1_027","type":"multiple_choice","q":"I ___ call you if I arrive.","options":["will","would","can"],"a":"will"},
+  {"id":"B1_028","type":"multiple_choice","q":"If you don't hurry, you ___ miss the bus.","options":["will","would","can"],"a":"will"},
+
+  {"id":"B1_029","type":"translation","q_es":"He terminado","a":"I have finished"},
+  {"id":"B1_030","type":"translation","q_es":"Ella ha comido","a":"She has eaten"},
+
+  {"id":"B1_031","type":"order","words":["I","have","finished"],"a":["I","have","finished"]},
+  {"id":"B1_032","type":"order","words":["She","has","eaten"],"a":["She","has","eaten"]},
+
+  {"id":"B1_033","type":"multiple_choice","q":"I ___ up early every day.","options":["wake","wake up","wakes"],"a":"wake up"},
+  {"id":"B1_034","type":"multiple_choice","q":"She ___ off the TV.","options":["turn","turns","turns off"],"a":"turns off"},
+
+  {"id":"B1_035","type":"fill","q":"He ___ (look for) his keys.","a":"is looking for"},
+  {"id":"B1_036","type":"fill","q":"They ___ (give up).","a":"gave up"},
+
+  {"id":"B1_037","type":"reading","text":"I have lived here for 5 years.","q":"How long have I lived here?","a":"5 years"},
+  {"id":"B1_038","type":"reading","text":"She has worked since 2010.","q":"Since when?","a":"2010"},
+
+  {"id":"B1_039","type":"multiple_choice","q":"I have lived here ___ 2010.","options":["for","since","during"],"a":"since"},
+  {"id":"B1_040","type":"multiple_choice","q":"I have lived here ___ 5 years.","options":["for","since","during"],"a":"for"},
+
+  {"id":"B1_041","type":"multiple_choice","q":"I ___ already finished.","options":["have","has","had"],"a":"have"},
+  {"id":"B1_042","type":"multiple_choice","q":"She hasn't finished ___","options":["yet","already","just"],"a":"yet"},
+
+  {"id":"B1_043","type":"error","q":"I have saw it.","a":"I have seen it"},
+  {"id":"B1_044","type":"error","q":"She have finished.","a":"She has finished"},
+
+  {"id":"B1_045","type":"multiple_choice","q":"If I study, I ___ pass.","options":["will","would","did"],"a":"will"},
+  {"id":"B1_046","type":"multiple_choice","q":"If it rains, we ___ stay home.","options":["will","would","are"],"a":"will"},
+
+  {"id":"B1_047","type":"multiple_choice","q":"I ___ watching TV.","options":["am","was","have"],"a":"am"},
+  {"id":"B1_048","type":"multiple_choice","q":"They ___ working now.","options":["are","was","were"],"a":"are"},
+
+  {"id":"B1_049","type":"flashcard","front":"give up","back":"rendirse"},
+  {"id":"B1_050","type":"flashcard","front":"turn on","back":"encender"},
+
+  {"id":"B1_051","type":"multiple_choice","q":"I ___ finished my work.","options":["have","has","had"],"a":"have"},
+  {"id":"B1_052","type":"multiple_choice","q":"She ___ gone home.","options":["has","have","had"],"a":"has"},
+
+  {"id":"B1_053","type":"fill","q":"I ___ (see) it.","a":"have seen"},
+  {"id":"B1_054","type":"fill","q":"She ___ (go).","a":"has gone"},
+
+  {"id":"B1_055","type":"multiple_choice","q":"I ___ never tried sushi.","options":["have","has","had"],"a":"have"},
+  {"id":"B1_056","type":"multiple_choice","q":"She ___ never been here.","options":["has","have","had"],"a":"has"},
+
+  {"id":"B1_057","type":"multiple_choice","q":"If you study, you ___ succeed.","options":["will","would","did"],"a":"will"},
+  {"id":"B1_058","type":"multiple_choice","q":"If I go, I ___ call you.","options":["will","would","can"],"a":"will"},
+
+  {"id":"B1_059","type":"translation","q_es":"Nunca he ido","a":"I have never gone"},
+  {"id":"B1_060","type":"translation","q_es":"Ella ya llegó","a":"She has already arrived"},
+
+  {"id":"B1_061","type":"order","words":["I","have","never","seen","it"],"a":["I","have","never","seen","it"]},
+  {"id":"B1_062","type":"order","words":["She","has","already","arrived"],"a":["She","has","already","arrived"]},
+
+  {"id":"B1_063","type":"multiple_choice","q":"I ___ working when you called.","options":["was","were","am"],"a":"was"},
+  {"id":"B1_064","type":"multiple_choice","q":"They ___ playing.","options":["was","were","am"],"a":"were"},
+
+  {"id":"B1_065","type":"fill","q":"He ___ (sleep) when I arrived.","a":"was sleeping"},
+  {"id":"B1_066","type":"fill","q":"They ___ (eat).","a":"were eating"},
+
+  {"id":"B1_067","type":"reading","text":"I was studying when the phone rang.","q":"What happened?","a":"the phone rang"},
+  {"id":"B1_068","type":"reading","text":"She has lived here for 10 years.","q":"How long?","a":"10 years"},
+
+  {"id":"B1_069","type":"multiple_choice","q":"I ___ up early.","options":["wake","wake up","woke"],"a":"wake up"},
+  {"id":"B1_070","type":"multiple_choice","q":"She ___ off the lights.","options":["turns","turns off","turn off"],"a":"turns off"},
+
+  {"id":"B1_071","type":"multiple_choice","q":"This is ___ than before.","options":["more useful","usefuller","most useful"],"a":"more useful"},
+  {"id":"B1_072","type":"multiple_choice","q":"This is the ___ thing.","options":["most important","importanter","more important"],"a":"most important"},
+
+  {"id":"B1_073","type":"error","q":"I have went there.","a":"I have gone there"},
+  {"id":"B1_074","type":"error","q":"She has did it.","a":"She has done it"},
+
+  {"id":"B1_075","type":"multiple_choice","q":"If it rains, we ___ cancel.","options":["will","would","did"],"a":"will"},
+  {"id":"B1_076","type":"multiple_choice","q":"If I see him, I ___ tell him.","options":["will","would","can"],"a":"will"},
+
+  {"id":"B1_077","type":"flashcard","front":"look for","back":"buscar"},
+  {"id":"B1_078","type":"flashcard","front":"wake up","back":"despertarse"},
+
+  {"id":"B1_079","type":"multiple_choice","q":"I ___ finished already.","options":["have","has","had"],"a":"have"},
+  {"id":"B1_080","type":"multiple_choice","q":"She ___ not finished yet.","options":["has","have","had"],"a":"has"},
+
+  {"id":"B1_081","type":"fill","q":"I ___ (just finish).","a":"have just finished"},
+  {"id":"B1_082","type":"fill","q":"She ___ (already eat).","a":"has already eaten"},
+
+  {"id":"B1_083","type":"translation","q_es":"Acabo de llegar","a":"I have just arrived"},
+  {"id":"B1_084","type":"translation","q_es":"Ella ya comió","a":"She has already eaten"},
+
+  {"id":"B1_085","type":"order","words":["I","have","just","arrived"],"a":["I","have","just","arrived"]},
+  {"id":"B1_086","type":"order","words":["She","has","already","eaten"],"a":["She","has","already","eaten"]},
+
+  {"id":"B1_087","type":"multiple_choice","q":"I ___ to the gym.","options":["go","go to","goes"],"a":"go to"},
+  {"id":"B1_088","type":"multiple_choice","q":"She ___ out.","options":["go","goes","goes out"],"a":"goes out"},
+
+  {"id":"B1_089","type":"reading","text":"He has worked all day. He is tired.","q":"Why is he tired?","a":"because he has worked all day"},
+  {"id":"B1_090","type":"reading","text":"She has studied a lot. She passed.","q":"Why did she pass?","a":"because she studied a lot"},
+
+  {"id":"B1_091","type":"multiple_choice","q":"I ___ working now.","options":["am","was","have"],"a":"am"},
+  {"id":"B1_092","type":"multiple_choice","q":"They ___ studying.","options":["are","was","were"],"a":"are"},
+
+  {"id":"B1_093","type":"fill","q":"He ___ (read).","a":"is reading"},
+  {"id":"B1_094","type":"fill","q":"They ___ (play).","a":"are playing"},
+
+  {"id":"B1_095","type":"error","q":"I am read.","a":"I am reading"},
+  {"id":"B1_096","type":"error","q":"She is play.","a":"She is playing"},
+
+  {"id":"B1_097","type":"multiple_choice","q":"I ___ been here before.","options":["have","has","had"],"a":"have"},
+  {"id":"B1_098","type":"multiple_choice","q":"She ___ been there.","options":["has","have","had"],"a":"has"},
+
+  {"id":"B1_099","type":"translation","q_es":"He estado aquí","a":"I have been here"},
+  {"id":"B1_100","type":"translation","q_es":"Ella ha estado allí","a":"She has been there"},
+
+  {"id":"B1_101","type":"multiple_choice","q":"If you study, you ___ pass.","options":["will","would","did"],"a":"will"},
+  {"id":"B1_102","type":"multiple_choice","q":"If I go, I ___ call you.","options":["will","would","can"],"a":"will"},
+
+  {"id":"B1_103","type":"flashcard","front":"turn off","back":"apagar"},
+  {"id":"B1_104","type":"flashcard","front":"run out","back":"quedarse sin"},
+
+  {"id":"B1_105","type":"multiple_choice","q":"I ___ up early.","options":["wake","wake up","woke"],"a":"wake up"},
+  {"id":"B1_106","type":"multiple_choice","q":"She ___ off the light.","options":["turn","turns","turns off"],"a":"turns off"},
+
+  {"id":"B1_107","type":"fill","q":"I ___ (wake up).","a":"wake up"},
+  {"id":"B1_108","type":"fill","q":"She ___ (turn off).","a":"turns off"},
+
+  {"id":"B1_109","type":"reading","text":"I have lost my keys.","q":"What happened?","a":"He lost his keys"},
+  {"id":"B1_110","type":"reading","text":"She has broken her phone.","q":"What happened?","a":"She broke her phone"},
+
+  {"id":"B1_111","type":"multiple_choice","q":"I ___ just seen it.","options":["have","has","had"],"a":"have"},
+  {"id":"B1_112","type":"error","q":"I have saw it.","a":"I have seen it"},
+
+  {"id":"B1_113","type":"multiple_choice","q":"I ___ go if I have time.","options":["will","would","did"],"a":"will"},
+  {"id":"B1_114","type":"multiple_choice","q":"If it rains, we ___ stay.","options":["will","would","did"],"a":"will"},
+
+  {"id":"B1_115","type":"translation","q_es":"Si estudio, pasaré","a":"If I study, I will pass"},
+  {"id":"B1_116","type":"translation","q_es":"Si llueve, me quedaré","a":"If it rains, I will stay"},
+
+  {"id":"B1_117","type":"order","words":["If","I","study","I","will","pass"],"a":["If","I","study","I","will","pass"]},
+  {"id":"B1_118","type":"order","words":["If","it","rains","we","will","stay"],"a":["If","it","rains","we","will","stay"]},
+
+  {"id":"B1_119","type":"flashcard","front":"give back","back":"devolver"},
+  {"id":"B1_120","type":"flashcard","front":"take off","back":"quitar / despegar"},
+
+  {"id":"B1_121","type":"multiple_choice","q":"I ___ eaten already.","options":["have","has","had"],"a":"have"},
+  {"id":"B1_122","type":"multiple_choice","q":"She ___ eaten yet.","options":["has","have","had"],"a":"has"},
+
+  {"id":"B1_123","type":"fill","q":"I ___ (already finish).","a":"have already finished"},
+  {"id":"B1_124","type":"fill","q":"She ___ (not finish yet).","a":"has not finished yet"},
+
+  {"id":"B1_125","type":"reading","text":"I have worked for 10 years.","q":"How long?","a":"10 years"},
+  {"id":"B1_126","type":"reading","text":"She has lived here since 2015.","q":"Since when?","a":"2015"},
+
+  {"id":"B1_127","type":"multiple_choice","q":"I ___ for 5 years.","options":["have lived","lived","live"],"a":"have lived"},
+  {"id":"B1_128","type":"multiple_choice","q":"She ___ since 2010.","options":["has worked","worked","works"],"a":"has worked"},
+
+  {"id":"B1_129","type":"translation","q_es":"He vivido aquí por 5 años","a":"I have lived here for 5 years"},
+  {"id":"B1_130","type":"translation","q_es":"Ella trabaja desde 2010","a":"She has worked since 2010"},
+
+  {"id":"B1_131","type":"order","words":["I","have","lived","here","for","5","years"],"a":["I","have","lived","here","for","5","years"]},
+  {"id":"B1_132","type":"order","words":["She","has","worked","since","2010"],"a":["She","has","worked","since","2010"]},
+
+  {"id":"B1_133","type":"multiple_choice","q":"I ___ TV when he arrived.","options":["watched","was watching","watch"],"a":"was watching"},
+  {"id":"B1_134","type":"multiple_choice","q":"They ___ when I called.","options":["slept","were sleeping","sleep"],"a":"were sleeping"},
+
+  {"id":"B1_135","type":"fill","q":"I ___ (watch) TV.","a":"was watching"},
+  {"id":"B1_136","type":"fill","q":"They ___ (sleep).","a":"were sleeping"},
+
+  {"id":"B1_137","type":"error","q":"I was watch TV.","a":"I was watching TV"},
+  {"id":"B1_138","type":"error","q":"They were sleep.","a":"They were sleeping"},
+
+  {"id":"B1_139","type":"flashcard","front":"look after","back":"cuidar"},
+  {"id":"B1_140","type":"flashcard","front":"get up","back":"levantarse"},
+
+  {"id":"B1_141","type":"multiple_choice","q":"I ___ up at 6.","options":["get","get up","gets"],"a":"get up"},
+  {"id":"B1_142","type":"multiple_choice","q":"She ___ up early.","options":["get","gets","gets up"],"a":"gets up"},
+
+  {"id":"B1_143","type":"translation","q_es":"Me levanto temprano","a":"I get up early"},
+  {"id":"B1_144","type":"translation","q_es":"Ella se levanta temprano","a":"She gets up early"},
+
+  {"id":"B1_145","type":"reading","text":"He gets up early. He goes to work.","q":"What does he do first?","a":"He gets up early"},
+  {"id":"B1_146","type":"reading","text":"She looks after children.","q":"What does she do?","a":"She looks after children"},
+
+  {"id":"B1_147","type":"multiple_choice","q":"If I see him, I ___ tell him.","options":["will","would","did"],"a":"will"},
+  {"id":"B1_148","type":"multiple_choice","q":"If you go, I ___ go too.","options":["will","would","did"],"a":"will"},
+
+  {"id":"B1_149","type":"fill","q":"If I ___ (see) him, I will tell him.","a":"see"},
+  {"id":"B1_150","type":"fill","q":"If you ___ (go), I will go.","a":"go"}
+]
