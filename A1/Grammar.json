@@ -1,1 +1,136 @@
+[
+  {
+    "topic": "Verb To Be (Present Simple)",
+    "use": "Describir identidad, estados, edad, origen, profesiones",
+    "structure": {
+      "affirmative": "Subject + am/is/are + complement",
+      "negative": "Subject + am/is/are + not + complement",
+      "question": "Am/Is/Are + subject + complement?"
+    },
+    "forms": {
+      "I": "am",
+      "he_she_it": "is",
+      "you_we_they": "are"
+    },
+    "examples": {
+      "affirmative": ["I am a student.", "She is happy.", "They are here."],
+      "negative": ["I am not tired.", "He is not ready.", "We are not late."],
+      "question": ["Are you ok?", "Is she your sister?", "Am I late?"]
+    },
+    "examples_es": {
+      "affirmative": ["Soy estudiante.", "Ella está feliz.", "Ellos están aquí."],
+      "negative": ["No estoy cansado.", "Él no está listo.", "No estamos tarde."],
+      "question": ["¿Estás bien?", "¿Es ella tu hermana?", "¿Estoy tarde?"]
+    },
+    "notes": [
+      "No usar 'be' con verbos de acción",
+      "Siempre necesario en oraciones sin verbo principal"
+    ]
+  },
 
+  {
+    "topic": "Subject Pronouns",
+    "use": "Reemplazar el sujeto en la oración",
+    "list": ["I","You","He","She","It","We","They"],
+    "examples": ["She is my friend.", "They live here."],
+    "examples_es": ["Ella es mi amiga.", "Ellos viven aquí."]
+  },
+
+  {
+    "topic": "Possessive Adjectives",
+    "use": "Indicar posesión antes de un sustantivo",
+    "structure": "Possessive adjective + noun",
+    "list": ["my","your","his","her","its","our","their"],
+    "examples": ["My phone is new.", "Their house is big."],
+    "examples_es": ["Mi teléfono es nuevo.", "Su casa es grande."]
+  },
+
+  {
+    "topic": "Present Simple",
+    "use": "Rutinas, hábitos, hechos generales",
+    "structure": {
+      "affirmative": "Subject + base verb (+s/es en 3ra persona)",
+      "negative": "Subject + do/does not + base verb",
+      "question": "Do/Does + subject + base verb?"
+    },
+    "rules": [
+      "Agregar -s en he/she/it",
+      "Verbos terminados en -ch, -sh, -o → +es",
+      "No usar 'to' con verbo principal"
+    ],
+    "examples": {
+      "affirmative": ["I work.", "She works."],
+      "negative": ["I do not work.", "She does not work."],
+      "question": ["Do you work?", "Does she work?"]
+    },
+    "examples_es": {
+      "affirmative": ["Trabajo.", "Ella trabaja."],
+      "negative": ["No trabajo.", "Ella no trabaja."],
+      "question": ["¿Trabajas?", "¿Ella trabaja?"]
+    }
+  },
+
+  {
+    "topic": "Articles (a, an, the)",
+    "use": "Acompañar sustantivos",
+    "rules": [
+      "a → consonante",
+      "an → vocal",
+      "the → específico"
+    ],
+    "examples": ["A dog.", "An apple.", "The car."],
+    "examples_es": ["Un perro.", "Una manzana.", "El carro."]
+  },
+
+  {
+    "topic": "Plural Nouns",
+    "use": "Formar sustantivos en plural",
+    "rules": [
+      "+s general",
+      "+es (bus → buses)",
+      "y → ies (baby → babies)"
+    ],
+    "examples": ["cats", "boxes", "babies"],
+    "examples_es": ["gatos", "cajas", "bebés"]
+  },
+
+  {
+    "topic": "Prepositions of Place",
+    "use": "Ubicación",
+    "list": ["in","on","under","next to","behind","in front of"],
+    "examples": ["The book is on the table."],
+    "examples_es": ["El libro está sobre la mesa."]
+  },
+
+  {
+    "topic": "There is / There are",
+    "use": "Hablar de existencia",
+    "structure": {
+      "singular": "There is + noun",
+      "plural": "There are + noun"
+    },
+    "examples": ["There is a dog.", "There are two cars."],
+    "examples_es": ["Hay un perro.", "Hay dos carros."]
+  },
+
+  {
+    "topic": "Can (Ability & Permission)",
+    "use": "Habilidad o permiso",
+    "structure": {
+      "affirmative": "Subject + can + verb",
+      "negative": "Subject + cannot + verb",
+      "question": "Can + subject + verb?"
+    },
+    "examples": ["I can swim.", "Can you help me?"],
+    "examples_es": ["Puedo nadar.", "¿Puedes ayudarme?"]
+  },
+
+  {
+    "topic": "Basic Questions (Wh-)",
+    "use": "Hacer preguntas",
+    "words": ["what","where","when","who","why","how"],
+    "structure": "Wh + auxiliary + subject + verb",
+    "examples": ["Where do you live?", "What is this?"],
+    "examples_es": ["¿Dónde vives?", "¿Qué es esto?"]
+  }
+]
