@@ -1,0 +1,37 @@
+[
+  {"rule": "Use a period (.) at the end of a sentence", "example": "I am happy.", "translation": "Uso de punto"},
+  {"rule": "Use a question mark (?) for questions", "example": "Are you okay?", "translation": "Signo de pregunta"},
+  {"rule": "Use a capital letter at the beginning", "example": "She is here.", "translation": "Mayúscula inicial"},
+  {"rule": "Use 'I' always capitalized", "example": "I am ready.", "translation": "Siempre 'I' mayúscula"},
+  {"rule": "Use commas (,) in lists", "example": "I like apples, bananas, and oranges.", "translation": "Comas en listas"},
+
+  {"rule": "Use 'a' before consonant sound", "example": "a dog", "translation": "Uso de 'a'"},
+  {"rule": "Use 'an' before vowel sound", "example": "an apple", "translation": "Uso de 'an'"},
+  {"rule": "Use apostrophe for contractions", "example": "don't = do not", "translation": "Contracciones"},
+  {"rule": "Use apostrophe for possession", "example": "John's book", "translation": "Posesión"},
+  {"rule": "Do not use double negatives", "example": "I don't know", "translation": "Evitar doble negación"},
+
+  {"rule": "Capitalize names", "example": "Maria is here.", "translation": "Nombres propios"},
+  {"rule": "Capitalize countries", "example": "Colombia is beautiful.", "translation": "Países"},
+  {"rule": "Capitalize cities", "example": "Bogotá is big.", "translation": "Ciudades"},
+  {"rule": "Use period in statements", "example": "He works here.", "translation": "Oraciones afirmativas"},
+  {"rule": "Use question mark in yes/no questions", "example": "Do you work?", "translation": "Preguntas sí/no"},
+
+  {"rule": "Use comma after introductory words", "example": "Yes, I agree.", "translation": "Coma después de introducción"},
+  {"rule": "Use 'and' before last item in list", "example": "A, B, and C", "translation": "Uso de 'and'"},
+  {"rule": "No space before punctuation", "example": "Hello!", "translation": "Sin espacio antes"},
+  {"rule": "One space after punctuation", "example": "Hello. How are you?", "translation": "Espacio después"},
+  {"rule": "Use capital letters for days", "example": "Monday", "translation": "Días en mayúscula"},
+
+  {"rule": "Use capital letters for months", "example": "January", "translation": "Meses en mayúscula"},
+  {"rule": "Use exclamation mark (!) for emotion", "example": "Great!", "translation": "Exclamación"},
+  {"rule": "Avoid long sentences at A1", "example": "I am tired.", "translation": "Oraciones simples"},
+  {"rule": "Use subject + verb order", "example": "She eats.", "translation": "Orden básico"},
+  {"rule": "Use 'is' with he/she/it", "example": "He is happy.", "translation": "Uso de 'is'"},
+
+  {"rule": "Use 'are' with you/we/they", "example": "They are here.", "translation": "Uso de 'are'"},
+  {"rule": "Use 'am' with I", "example": "I am ready.", "translation": "Uso de 'am'"},
+  {"rule": "Use question structure correctly", "example": "Where are you?", "translation": "Estructura pregunta"},
+  {"rule": "Do not repeat subject", "example": "He is happy", "translation": "Evitar repetición"},
+  {"rule": "Use short sentences", "example": "She runs.", "translation": "Frases cortas"}
+]
