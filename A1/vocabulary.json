@@ -28,7 +28,7 @@
   {"word":"year","es":"año","ipa":"/jɪər/","type":"noun","topic":"time","level":"A1","meaning":"12 months","example":"I study English every year.","example_es":"Estudio inglés cada año."},
   {"word":"yellow","es":"amarillo","ipa":"/ˈjɛloʊ/","type":"adjective","topic":"colors","level":"A1","meaning":"the color of the sun","example":"The sun is yellow.","example_es":"El sol es amarillo."},
   {"word":"young","es":"joven","ipa":"/jʌŋ/","type":"adjective","topic":"age","level":"A1","meaning":"not old","example":"She is young.","example_es":"Ella es joven."},
-  {"word":"zoo","es":"zoológico","ipa":"/zuː/","type":"noun","topic":"places","level":"A1","meaning":"a place with animals","example":"We went to the zoo.","example_es":"Fuimos al zoológico."}
+  {"word":"zoo","es":"zoológico","ipa":"/zuː/","type":"noun","topic":"places","level":"A1","meaning":"a place with animals","example":"We went to the zoo.","example_es":"Fuimos al zoológico."},
   {"word":"hello","es":"hola","ipa":"/həˈloʊ/","type":"interjection","topic":"greetings","level":"A1","meaning":"used as a greeting","example":"Hello, how are you?","example_es":"Hola, ¿cómo estás?"},
   {"word":"goodbye","es":"adiós","ipa":"/ɡʊdˈbaɪ/","type":"interjection","topic":"greetings","level":"A1","meaning":"used when leaving","example":"Goodbye, see you tomorrow!","example_es":"¡Adiós, nos vemos mañana!"},
   {"word":"please","es":"por favor","ipa":"/pliːz/","type":"adverb","topic":"politeness","level":"A1","meaning":"used to make a polite request","example":"Can you help me, please?","example_es":"¿Puedes ayudarme, por favor?"},
