@@ -1,0 +1,19 @@
+[
+  {"rule": "Use commas in complex sentences", "example": "Although it was raining, we went out.", "translation": "Usa comas en oraciones complejas"},
+  {"rule": "Use semicolons to join sentences", "example": "I like coffee; my brother prefers tea.", "translation": "Usa punto y coma para unir oraciones"},
+  {"rule": "Use colons before explanations", "example": "She had one goal: to win.", "translation": "Usa dos puntos antes de explicaciones"},
+  {"rule": "Use dashes to add information", "example": "I met John — my old friend — yesterday.", "translation": "Usa guiones para añadir información"},
+  {"rule": "Use parentheses for extra details", "example": "I visited Rome (Italy) last year.", "translation": "Usa paréntesis para información extra"},
+
+  {"rule": "Use apostrophes for contractions", "example": "Don't = Do not", "translation": "Usa apóstrofes para contracciones"},
+  {"rule": "Use apostrophes for possession", "example": "This is Maria's book.", "translation": "Usa apóstrofes para posesión"},
+  {"rule": "Use exclamation marks for strong emotion", "example": "Watch out!", "translation": "Signos de exclamación para emoción fuerte"},
+  {"rule": "Use question marks for indirect questions", "example": "Do you know where she is?", "translation": "Signos de pregunta en preguntas indirectas"},
+  {"rule": "Capitalize proper nouns", "example": "I visited Paris.", "translation": "Usa mayúsculas en nombres propios"},
+
+  {"rule": "Use commas in lists", "example": "I bought apples, oranges, and bananas.", "translation": "Comas en listas"},
+  {"rule": "Use commas after introductory phrases", "example": "After lunch, we went shopping.", "translation": "Comas después de frases introductorias"},
+  {"rule": "Use quotation marks for speech", "example": "He said, \"I am happy.\"", "translation": "Comillas para diálogos"},
+  {"rule": "Use periods inside quotes for full sentences", "example": "She said, \"I am tired.\"", "translation": "Punto dentro de comillas para oraciones completas"},
+  {"rule": "Use hyphens in compound words", "example": "Well-known author", "translation": "Guion en palabras compuestas"}
+]
