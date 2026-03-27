@@ -1,0 +1,251 @@
+[
+  {"id":"C1_001","type":"multiple_choice","q":"Not only ___ late, but he also forgot.","options":["he was","was he","he is"],"a":"was he"},
+  {"id":"C1_002","type":"multiple_choice","q":"Rarely ___ such talent.","options":["I have seen","have I seen","I seen"],"a":"have I seen"},
+  {"id":"C1_003","type":"fill","q":"Hardly ___ (arrive) when it started.","a":"had I arrived"},
+  {"id":"C1_004","type":"fill","q":"Never ___ (see) such beauty.","a":"have I seen"},
+  {"id":"C1_005","type":"error","q":"Never I have seen that.","a":"Never have I seen that"},
+  {"id":"C1_006","type":"error","q":"Rarely I go there.","a":"Rarely do I go there"},
+
+  {"id":"C1_007","type":"multiple_choice","q":"If I had studied, I ___ a better job now.","options":["would have","would have had","would have now"],"a":"would have"},
+  {"id":"C1_008","type":"multiple_choice","q":"If she were here, she ___ helped yesterday.","options":["would have","would","will"],"a":"would have"},
+  {"id":"C1_009","type":"fill","q":"If I ___ (study), I would have passed.","a":"had studied"},
+  {"id":"C1_010","type":"fill","q":"If he ___ (be) here, he would help.","a":"were"},
+
+  {"id":"C1_011","type":"multiple_choice","q":"He said he ___ working all day.","options":["had been","has been","was"],"a":"had been"},
+  {"id":"C1_012","type":"multiple_choice","q":"She told me she ___ finish soon.","options":["would","will","can"],"a":"would"},
+  {"id":"C1_013","type":"fill","q":"He said he ___ (leave).","a":"had left"},
+  {"id":"C1_014","type":"fill","q":"She said she ___ (work).","a":"had been working"},
+
+  {"id":"C1_015","type":"multiple_choice","q":"It was John ___ broke the window.","options":["who","which","where"],"a":"who"},
+  {"id":"C1_016","type":"multiple_choice","q":"What I need ___ a break.","options":["is","are","be"],"a":"is"},
+  {"id":"C1_017","type":"fill","q":"It was yesterday ___ I met him.","a":"that"},
+  {"id":"C1_018","type":"fill","q":"What she wants ___ (be) peace.","a":"is"},
+
+  {"id":"C1_019","type":"multiple_choice","q":"___ the weather, we canceled.","options":["Due to","Because","Although"],"a":"Due to"},
+  {"id":"C1_020","type":"multiple_choice","q":"___ he was tired, he continued.","options":["Although","Due to","Because of"],"a":"Although"},
+
+  {"id":"C1_021","type":"translation","q_es":"Nunca había visto algo así","a":"Never had I seen something like that"},
+  {"id":"C1_022","type":"translation","q_es":"Si hubiera estudiado, habría pasado","a":"If I had studied, I would have passed"},
+
+  {"id":"C1_023","type":"order","words":["Never","had","I","seen","that"],"a":["Never","had","I","seen","that"]},
+  {"id":"C1_024","type":"order","words":["If","I","had","studied","I","would","have","passed"],"a":["If","I","had","studied","I","would","have","passed"]},
+
+  {"id":"C1_025","type":"multiple_choice","q":"Scarcely ___ when he left.","options":["I arrived","had I arrived","I had arrive"],"a":"had I arrived"},
+  {"id":"C1_026","type":"multiple_choice","q":"Little ___ about it.","options":["I knew","did I know","I know"],"a":"did I know"},
+
+  {"id":"C1_027","type":"multiple_choice","q":"If I ___ you, I would act differently.","options":["am","were","was"],"a":"were"},
+  {"id":"C1_028","type":"multiple_choice","q":"If she had tried, she ___ succeeded.","options":["would have","would","will"],"a":"would have"},
+
+  {"id":"C1_029","type":"multiple_choice","q":"He admitted he ___ wrong.","options":["had been","has been","was"],"a":"had been"},
+  {"id":"C1_030","type":"multiple_choice","q":"She explained she ___ late.","options":["had been","was","has been"],"a":"had been"},
+
+  {"id":"C1_031","type":"reading","text":"Never had I seen such chaos.","q":"What does it mean?","a":"I had never seen such chaos"},
+  {"id":"C1_032","type":"reading","text":"If I had known, I would have helped.","q":"Did I help?","a":"no"},
+
+  {"id":"C1_033","type":"multiple_choice","q":"It was Mary ___ solved it.","options":["who","which","where"],"a":"who"},
+  {"id":"C1_034","type":"multiple_choice","q":"What matters ___ honesty.","options":["is","are","be"],"a":"is"},
+
+  {"id":"C1_035","type":"flashcard","front":"inversion","back":"inversión gramatical"},
+  {"id":"C1_036","type":"flashcard","front":"cleft sentence","back":"oración enfática"},
+
+  {"id":"C1_037","type":"multiple_choice","q":"___ the delay, we arrived on time.","options":["Despite","Due to","Because"],"a":"Despite"},
+  {"id":"C1_038","type":"multiple_choice","q":"___ he tried, he failed.","options":["Although","Due to","Because of"],"a":"Although"},
+
+  {"id":"C1_039","type":"fill","q":"Never ___ (be) so happy.","a":"have I been"},
+  {"id":"C1_040","type":"fill","q":"Hardly ___ (start) when it stopped.","a":"had it started"},
+
+  {"id":"C1_041","type":"error","q":"Little I knew about it.","a":"Little did I know about it"},
+  {"id":"C1_042","type":"error","q":"Hardly I had arrived.","a":"Hardly had I arrived"},
+
+  {"id":"C1_043","type":"multiple_choice","q":"If I had money, I ___ travel.","options":["would","would have","will"],"a":"would"},
+  {"id":"C1_044","type":"multiple_choice","q":"If I had had money, I ___ traveled.","options":["would","would have","will"],"a":"would have"},
+
+  {"id":"C1_045","type":"translation","q_es":"Poco sabía yo","a":"Little did I know"},
+  {"id":"C1_046","type":"translation","q_es":"Apenas había llegado","a":"Hardly had I arrived"},
+
+  {"id":"C1_047","type":"order","words":["Little","did","I","know"],"a":["Little","did","I","know"]},
+  {"id":"C1_048","type":"order","words":["Hardly","had","I","arrived"],"a":["Hardly","had","I","arrived"]},
+
+  {"id":"C1_049","type":"multiple_choice","q":"He suggested that she ___ earlier.","options":["leave","leaves","left"],"a":"leave"},
+  {"id":"C1_050","type":"multiple_choice","q":"It is important that he ___ present.","options":["be","is","was"],"a":"be"},
+
+  {"id":"C1_051","type":"multiple_choice","q":"The more you study, ___ you learn.","options":["the more","more","the most"],"a":"the more"},
+  {"id":"C1_052","type":"multiple_choice","q":"The less you worry, ___ you feel.","options":["better","the better","best"],"a":"the better"},
+
+  {"id":"C1_053","type":"reading","text":"The more you practice, the better you become.","q":"What improves?","a":"you become better"},
+  {"id":"C1_054","type":"reading","text":"It is vital that he be informed.","q":"Is this formal?","a":"yes"},
+
+  {"id":"C1_055","type":"flashcard","front":"subjunctive","back":"subjuntivo"},
+  {"id":"C1_056","type":"flashcard","front":"formal English","back":"inglés formal"},
+
+  {"id":"C1_057","type":"multiple_choice","q":"Not until later ___ the truth.","options":["I knew","did I know","I know"],"a":"did I know"},
+  {"id":"C1_058","type":"multiple_choice","q":"Only then ___ what happened.","options":["I understood","did I understand","I understand"],"a":"did I understand"},
+
+  {"id":"C1_059","type":"fill","q":"Only after he left ___ (realize).","a":"did I realize"},
+  {"id":"C1_060","type":"fill","q":"Not until midnight ___ (arrive).","a":"did he arrive"},
+
+  {"id":"C1_061","type":"translation","q_es":"Solo entonces entendí","a":"Only then did I understand"},
+  {"id":"C1_062","type":"translation","q_es":"No hasta después lo supe","a":"Not until later did I know"},
+
+  {"id":"C1_063","type":"multiple_choice","q":"He denied ___ it.","options":["do","doing","did"],"a":"doing"},
+  {"id":"C1_064","type":"multiple_choice","q":"She admitted ___ the mistake.","options":["make","making","made"],"a":"making"},
+
+  {"id":"C1_065","type":"multiple_choice","q":"I regret ___ that.","options":["say","saying","said"],"a":"saying"},
+  {"id":"C1_066","type":"multiple_choice","q":"He avoided ___ the issue.","options":["discuss","discussing","discussed"],"a":"discussing"},
+
+  {"id":"C1_067","type":"reading","text":"He denied doing it.","q":"Did he admit it?","a":"no"},
+  {"id":"C1_068","type":"reading","text":"She admitted making a mistake.","q":"Did she accept it?","a":"yes"},
+
+  {"id":"C1_069","type":"flashcard","front":"deny","back":"negar"},
+  {"id":"C1_070","type":"flashcard","front":"admit","back":"admitir"}
+  [
+  {"id":"C1_071","type":"multiple_choice","q":"He insisted that she ___ immediately.","options":["leave","leaves","left"],"a":"leave"},
+  {"id":"C1_072","type":"multiple_choice","q":"It is essential that he ___ on time.","options":["arrive","arrives","arrived"],"a":"arrive"},
+
+  {"id":"C1_073","type":"fill","q":"She demanded that he ___ (go).","a":"go"},
+  {"id":"C1_074","type":"fill","q":"It is vital that they ___ (be) ready.","a":"be"},
+
+  {"id":"C1_075","type":"multiple_choice","q":"Had I known, I ___ helped.","options":["would","would have","will"],"a":"would have"},
+  {"id":"C1_076","type":"multiple_choice","q":"Were I you, I ___ accept.","options":["would","will","can"],"a":"would"},
+
+  {"id":"C1_077","type":"fill","q":"Had she ___ (study), she would have passed.","a":"studied"},
+  {"id":"C1_078","type":"fill","q":"Were he ___ (be) here, he would help.","a":"to be"},
+
+  {"id":"C1_079","type":"multiple_choice","q":"No sooner ___ than he left.","options":["had I arrived","I had arrived","did I arrive"],"a":"had I arrived"},
+  {"id":"C1_080","type":"multiple_choice","q":"Seldom ___ such behavior.","options":["I see","do I see","I saw"],"a":"do I see"},
+
+  {"id":"C1_081","type":"error","q":"Had I knew, I would help.","a":"Had I known, I would have helped"},
+  {"id":"C1_082","type":"error","q":"Seldom I see that.","a":"Seldom do I see that"},
+
+  {"id":"C1_083","type":"multiple_choice","q":"The reason ___ he left is unknown.","options":["why","which","who"],"a":"why"},
+  {"id":"C1_084","type":"multiple_choice","q":"The day ___ we met was special.","options":["when","which","who"],"a":"when"},
+
+  {"id":"C1_085","type":"fill","q":"The place ___ we stayed was nice.","a":"where"},
+  {"id":"C1_086","type":"fill","q":"The person ___ spoke is here.","a":"who"},
+
+  {"id":"C1_087","type":"multiple_choice","q":"He would rather ___ home.","options":["stay","stays","stayed"],"a":"stay"},
+  {"id":"C1_088","type":"multiple_choice","q":"I would rather you ___ now.","options":["leave","left","leaving"],"a":"left"},
+
+  {"id":"C1_089","type":"multiple_choice","q":"It’s high time you ___ working.","options":["start","started","starts"],"a":"started"},
+  {"id":"C1_090","type":"multiple_choice","q":"It’s about time he ___ here.","options":["arrive","arrived","arrives"],"a":"arrived"},
+
+  {"id":"C1_091","type":"translation","q_es":"Ya es hora de que estudies","a":"It’s high time you studied"},
+  {"id":"C1_092","type":"translation","q_es":"Preferiría quedarme","a":"I would rather stay"},
+
+  {"id":"C1_093","type":"order","words":["I","would","rather","stay"],"a":["I","would","rather","stay"]},
+  {"id":"C1_094","type":"order","words":["It’s","high","time","you","studied"],"a":["It’s","high","time","you","studied"]},
+
+  {"id":"C1_095","type":"multiple_choice","q":"He is used to ___ early.","options":["wake","waking","woke"],"a":"waking"},
+  {"id":"C1_096","type":"multiple_choice","q":"She got used to ___ alone.","options":["live","living","lived"],"a":"living"},
+
+  {"id":"C1_097","type":"fill","q":"I am used to ___ (work).","a":"working"},
+  {"id":"C1_098","type":"fill","q":"She is used to ___ (drive).","a":"driving"},
+
+  {"id":"C1_099","type":"multiple_choice","q":"Not until later ___ what happened.","options":["I realized","did I realize","I realize"],"a":"did I realize"},
+  {"id":"C1_100","type":"multiple_choice","q":"Only after that ___ the truth.","options":["I knew","did I know","I know"],"a":"did I know"},
+
+  {"id":"C1_101","type":"multiple_choice","q":"He tends ___ late.","options":["arrive","to arrive","arriving"],"a":"to arrive"},
+  {"id":"C1_102","type":"multiple_choice","q":"She managed ___ the problem.","options":["solve","to solve","solving"],"a":"to solve"},
+
+  {"id":"C1_103","type":"multiple_choice","q":"I regret ___ that decision.","options":["make","making","made"],"a":"making"},
+  {"id":"C1_104","type":"multiple_choice","q":"He avoided ___ the topic.","options":["discuss","discussing","discussed"],"a":"discussing"},
+
+  {"id":"C1_105","type":"translation","q_es":"Evité hablar del tema","a":"I avoided discussing the topic"},
+  {"id":"C1_106","type":"translation","q_es":"Logró resolverlo","a":"He managed to solve it"},
+
+  {"id":"C1_107","type":"order","words":["He","managed","to","solve","it"],"a":["He","managed","to","solve","it"]},
+  {"id":"C1_108","type":"order","words":["I","avoided","discussing","it"],"a":["I","avoided","discussing","it"]},
+
+  {"id":"C1_109","type":"multiple_choice","q":"So ___ was he that he couldn't speak.","options":["nervous","so nervous","such nervous"],"a":"nervous"},
+  {"id":"C1_110","type":"multiple_choice","q":"Such ___ that everyone left.","options":["a mess","mess","the mess"],"a":"a mess"},
+
+  {"id":"C1_111","type":"fill","q":"So ___ (tired) was she.","a":"tired"},
+  {"id":"C1_112","type":"fill","q":"Such ___ (problem) caused issues.","a":"a problem"},
+
+  {"id":"C1_113","type":"multiple_choice","q":"He spoke as if he ___ everything.","options":["knows","knew","know"],"a":"knew"},
+  {"id":"C1_114","type":"multiple_choice","q":"She acts as though she ___ in charge.","options":["is","were","was"],"a":"were"},
+
+  {"id":"C1_115","type":"multiple_choice","q":"I’d rather you ___ quiet.","options":["be","were","are"],"a":"were"},
+  {"id":"C1_116","type":"multiple_choice","q":"He’d rather ___ home.","options":["stay","stays","stayed"],"a":"stay"},
+
+  {"id":"C1_117","type":"translation","q_es":"Actúa como si supiera todo","a":"He acts as if he knew everything"},
+  {"id":"C1_118","type":"translation","q_es":"Preferiría que te quedaras","a":"I’d rather you stayed"},
+
+  {"id":"C1_119","type":"order","words":["He","acts","as","if","he","knew","everything"],"a":["He","acts","as","if","he","knew","everything"]},
+  {"id":"C1_120","type":"order","words":["I’d","rather","you","stayed"],"a":["I’d","rather","you","stayed"]},
+
+  {"id":"C1_121","type":"multiple_choice","q":"By the time I arrived, they ___ left.","options":["have","had","has"],"a":"had"},
+  {"id":"C1_122","type":"multiple_choice","q":"By next year, I ___ finished.","options":["will have","have","had"],"a":"will have"},
+
+  {"id":"C1_123","type":"fill","q":"By the time he came, we ___ (finish).","a":"had finished"},
+  {"id":"C1_124","type":"fill","q":"By next week, she ___ (complete).","a":"will have completed"},
+
+  {"id":"C1_125","type":"multiple_choice","q":"He is believed ___ abroad.","options":["to be","being","be"],"a":"to be"},
+  {"id":"C1_126","type":"multiple_choice","q":"She is said ___ a genius.","options":["to be","being","be"],"a":"to be"},
+
+  {"id":"C1_127","type":"translation","q_es":"Se dice que es brillante","a":"She is said to be brilliant"},
+  {"id":"C1_128","type":"translation","q_es":"Se cree que está aquí","a":"He is believed to be here"},
+
+  {"id":"C1_129","type":"order","words":["She","is","said","to","be","brilliant"],"a":["She","is","said","to","be","brilliant"]},
+  {"id":"C1_130","type":"order","words":["He","is","believed","to","be","here"],"a":["He","is","believed","to","be","here"]},
+
+  {"id":"C1_131","type":"multiple_choice","q":"I would have gone if I ___ time.","options":["had","have","had had"],"a":"had had"},
+  {"id":"C1_132","type":"multiple_choice","q":"If he ___ earlier, he would be here now.","options":["left","had left","leaves"],"a":"had left"},
+
+  {"id":"C1_133","type":"fill","q":"If I ___ (know), I would be there now.","a":"had known"},
+  {"id":"C1_134","type":"fill","q":"If she ___ (study), she would be working now.","a":"had studied"},
+
+  {"id":"C1_135","type":"multiple_choice","q":"He speaks as though he ___ rich.","options":["is","were","was"],"a":"were"},
+  {"id":"C1_136","type":"multiple_choice","q":"She looks as if she ___ seen a ghost.","options":["has","had","have"],"a":"had"},
+
+  {"id":"C1_137","type":"translation","q_es":"Habla como si fuera rico","a":"He speaks as though he were rich"},
+  {"id":"C1_138","type":"translation","q_es":"Parece que hubiera visto un fantasma","a":"She looks as if she had seen a ghost"},
+
+  {"id":"C1_139","type":"order","words":["She","looks","as","if","she","had","seen","a","ghost"],"a":["She","looks","as","if","she","had","seen","a","ghost"]},
+  {"id":"C1_140","type":"order","words":["He","speaks","as","though","he","were","rich"],"a":["He","speaks","as","though","he","were","rich"]},
+
+  {"id":"C1_141","type":"flashcard","front":"as if","back":"como si"},
+  {"id":"C1_142","type":"flashcard","front":"mixed conditional","back":"condicional mixto"},
+
+  {"id":"C1_143","type":"multiple_choice","q":"Had he studied, he ___ passed.","options":["would","would have","will"],"a":"would have"},
+  {"id":"C1_144","type":"multiple_choice","q":"Were she here, she ___ help.","options":["would","will","can"],"a":"would"},
+
+  {"id":"C1_145","type":"reading","text":"Had I known, I would have acted differently.","q":"Did I know?","a":"no"},
+  {"id":"C1_146","type":"reading","text":"She acts as if she knew everything.","q":"Does she really know?","a":"no"},
+
+  {"id":"C1_147","type":"multiple_choice","q":"He would sooner ___ than apologize.","options":["leave","leaves","left"],"a":"leave"},
+  {"id":"C1_148","type":"multiple_choice","q":"I would just as soon ___ home.","options":["stay","stays","stayed"],"a":"stay"},
+
+  {"id":"C1_149","type":"translation","q_es":"Preferiría irme","a":"I would sooner leave"},
+  {"id":"C1_150","type":"translation","q_es":"Preferiría quedarme","a":"I would just as soon stay"},
+
+  {"id":"C1_151","type":"order","words":["I","would","sooner","leave"],"a":["I","would","sooner","leave"]},
+  {"id":"C1_152","type":"order","words":["I","would","just","as","soon","stay"],"a":["I","would","just","as","soon","stay"]},
+
+  {"id":"C1_153","type":"multiple_choice","q":"So difficult ___ that nobody understood.","options":["it was","was it","it is"],"a":"was it"},
+  {"id":"C1_154","type":"multiple_choice","q":"Such was the noise ___ we left.","options":["that","which","who"],"a":"that"},
+
+  {"id":"C1_155","type":"fill","q":"So strange ___ (be) the situation.","a":"was"},
+  {"id":"C1_156","type":"fill","q":"Such ___ (noise) that we left.","a":"was the noise"},
+
+  {"id":"C1_157","type":"reading","text":"So difficult was the exam that nobody passed.","q":"Did people pass?","a":"no"},
+  {"id":"C1_158","type":"reading","text":"Such was the chaos that we left.","q":"Why did we leave?","a":"because of chaos"},
+
+  {"id":"C1_159","type":"flashcard","front":"so...that","back":"tan...que"},
+  {"id":"C1_160","type":"flashcard","front":"such...that","back":"tal...que"},
+
+  {"id":"C1_161","type":"multiple_choice","q":"He failed, ___ he tried hard.","options":["although","because","due to"],"a":"although"},
+  {"id":"C1_162","type":"multiple_choice","q":"___ the rain, we continued.","options":["Despite","Because","Although"],"a":"Despite"},
+
+  {"id":"C1_163","type":"translation","q_es":"A pesar de la lluvia, seguimos","a":"Despite the rain, we continued"},
+  {"id":"C1_164","type":"translation","q_es":"Aunque lo intentó, falló","a":"Although he tried, he failed"},
+
+  {"id":"C1_165","type":"order","words":["Despite","the","rain","we","continued"],"a":["Despite","the","rain","we","continued"]},
+  {"id":"C1_166","type":"order","words":["Although","he","tried","he","failed"],"a":["Although","he","tried","he","failed"]},
+
+  {"id":"C1_167","type":"reading","text":"Despite the rain, we continued.","q":"Did we stop?","a":"no"},
+  {"id":"C1_168","type":"reading","text":"Although he tried, he failed.","q":"Did he succeed?","a":"no"},
+
+  {"id":"C1_169","type":"flashcard","front":"despite","back":"a pesar de"},
+  {"id":"C1_170","type":"flashcard","front":"although","back":"aunque"}
+  ]
