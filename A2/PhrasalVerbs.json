@@ -1,0 +1,12 @@
+[
+  {"word":"look for","es":"buscar","ipa":"/lʊk fɔːr/","type":"phrasal verb","topic":"actions","level":"A2","meaning":"to search for something","example":"I'm looking for my phone.","example_es":"Estoy buscando mi teléfono."},
+  {"word":"look after","es":"cuidar","ipa":"/lʊk ˈæftər/","type":"phrasal verb","topic":"care","level":"A2","meaning":"to take care of","example":"She looks after her dog.","example_es":"Ella cuida a su perro."},
+  {"word":"give up","es":"rendirse","ipa":"/ɡɪv ʌp/","type":"phrasal verb","topic":"emotions","level":"A2","meaning":"to stop trying","example":"Don't give up!","example_es":"¡No te rindas!"},
+  {"word":"run out of","es":"quedarse sin","ipa":"/rʌn aʊt ʌv/","type":"phrasal verb","topic":"resources","level":"A2","meaning":"to have no more of something","example":"We ran out of milk.","example_es":"Nos quedamos sin leche."},
+  {"word":"come back","es":"regresar","ipa":"/kʌm bæk/","type":"phrasal verb","topic":"movement","level":"A2","meaning":"to return","example":"Please come back soon.","example_es":"Por favor regresa pronto."},
+  {"word":"go back","es":"volver","ipa":"/ɡoʊ bæk/","type":"phrasal verb","topic":"movement","level":"A2","meaning":"to return to a place","example":"I need to go back home.","example_es":"Necesito volver a casa."},
+  {"word":"find out","es":"descubrir","ipa":"/faɪnd aʊt/","type":"phrasal verb","topic":"knowledge","level":"A2","meaning":"to discover information","example":"I found out the truth.","example_es":"Descubrí la verdad."},
+  {"word":"point out","es":"señalar","ipa":"/pɔɪnt aʊt/","type":"phrasal verb","topic":"communication","level":"A2","meaning":"to indicate or show","example":"He pointed out the mistake.","example_es":"Él señaló el error."},
+  {"word":"pick up","es":"recoger","ipa":"/pɪk ʌp/","type":"phrasal verb","topic":"actions","level":"A2","meaning":"to lift or collect","example":"I'll pick you up at 8.","example_es":"Te recogeré a las 8."},
+  {"word":"drop off","es":"dejar","ipa":"/drɒp ɒf/","type":"phrasal verb","topic":"transport","level":"A2","meaning":"to leave someone somewhere","example":"She dropped off the kids at school.","example_es":"Ella dejó a los niños en la escuela."}
+]
