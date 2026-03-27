@@ -1,0 +1,209 @@
+[
+  {
+    "topic": "Advanced Passive Voice",
+    "use": "Formas complejas de voz pasiva en contextos formales",
+    "structures": {
+      "impersonal": "It is said that...",
+      "personal": "He is said to..."
+    },
+    "examples": [
+      "It is believed that the company will grow.",
+      "He is said to be very rich."
+    ],
+    "examples_es": [
+      "Se cree que la empresa crecerá.",
+      "Se dice que él es muy rico."
+    ]
+  },
+
+  {
+    "topic": "Inversion (Advanced Structures)",
+    "use": "Dar énfasis en lenguaje formal",
+    "structure": "Negative/limiting adverb + auxiliary + subject + verb",
+    "triggers": [
+      "never",
+      "rarely",
+      "seldom",
+      "not only",
+      "under no circumstances"
+    ],
+    "examples": [
+      "Never have I seen such a thing.",
+      "Not only did she win, but she also broke records."
+    ],
+    "examples_es": [
+      "Nunca había visto algo así.",
+      "No solo ganó, sino que rompió récords."
+    ]
+  },
+
+  {
+    "topic": "Cleft Sentences",
+    "use": "Enfatizar partes específicas de la oración",
+    "structures": {
+      "it_cleft": "It is/was + focus + that + clause",
+      "wh_cleft": "What + clause + is/was + focus"
+    },
+    "examples": [
+      "It was John who called.",
+      "What I need is a break."
+    ],
+    "examples_es": [
+      "Fue John quien llamó.",
+      "Lo que necesito es un descanso."
+    ]
+  },
+
+  {
+    "topic": "Nominalization",
+    "use": "Convertir verbos/adjetivos en sustantivos (formalidad)",
+    "examples": [
+      "decide → decision",
+      "develop → development",
+      "improve → improvement"
+    ],
+    "examples_es": [
+      "decidir → decisión",
+      "desarrollar → desarrollo",
+      "mejorar → mejora"
+    ]
+  },
+
+  {
+    "topic": "Advanced Modal Verbs (Deduction & Speculation)",
+    "use": "Expresar certeza, probabilidad o deducción",
+    "structures": {
+      "present": "must/might/could + base verb",
+      "past": "must/might/could + have + past participle"
+    },
+    "examples": [
+      "She must be tired.",
+      "He might have missed the bus."
+    ],
+    "examples_es": [
+      "Debe estar cansada.",
+      "Puede que haya perdido el bus."
+    ]
+  },
+
+  {
+    "topic": "Participle Clauses",
+    "use": "Reducir oraciones y evitar repetición",
+    "structures": [
+      "Present participle (-ing)",
+      "Past participle (-ed)"
+    ],
+    "examples": [
+      "Walking down the street, I saw him.",
+      "Built in 1990, the building is old."
+    ],
+    "examples_es": [
+      "Caminando por la calle, lo vi.",
+      "Construido en 1990, el edificio es antiguo."
+    ]
+  },
+
+  {
+    "topic": "Relative Clauses (Advanced)",
+    "use": "Mayor precisión en descripciones",
+    "structures": [
+      "whereby",
+      "wherein",
+      "whose"
+    ],
+    "examples": [
+      "A system whereby users can interact.",
+      "The company whose products are famous."
+    ],
+    "examples_es": [
+      "Un sistema mediante el cual los usuarios interactúan.",
+      "La empresa cuyos productos son famosos."
+    ]
+  },
+
+  {
+    "topic": "Discourse Markers (Advanced)",
+    "use": "Organizar discurso formal",
+    "list": [
+      "nevertheless",
+      "moreover",
+      "furthermore",
+      "consequently",
+      "nonetheless"
+    ],
+    "examples": [
+      "Nevertheless, we continued.",
+      "Furthermore, the results improved."
+    ]
+  },
+
+  {
+    "topic": "Hedging Language",
+    "use": "Suavizar afirmaciones (muy usado en académico)",
+    "structures": [
+      "It seems that...",
+      "It appears that...",
+      "This may suggest..."
+    ],
+    "examples": [
+      "It seems that the data is correct.",
+      "This may indicate a problem."
+    ],
+    "examples_es": [
+      "Parece que los datos son correctos.",
+      "Esto puede indicar un problema."
+    ]
+  },
+
+  {
+    "topic": "Advanced Conditionals",
+    "use": "Condicionales complejos",
+    "structures": [
+      "Mixed conditionals",
+      "Inverted conditionals (Had I known...)"
+    ],
+    "examples": [
+      "If I had studied, I would be successful.",
+      "Had I known, I would have helped."
+    ],
+    "examples_es": [
+      "Si hubiera estudiado, sería exitoso.",
+      "Si hubiera sabido, habría ayudado."
+    ]
+  },
+
+  {
+    "topic": "Emphasis (Do / So / Such)",
+    "use": "Dar énfasis en afirmaciones",
+    "structures": [
+      "I do understand.",
+      "So + adjective",
+      "Such + noun"
+    ],
+    "examples": [
+      "I do agree with you.",
+      "It was so difficult.",
+      "Such a great idea."
+    ],
+    "examples_es": [
+      "Sí estoy de acuerdo contigo.",
+      "Fue muy difícil.",
+      "Una idea tan buena."
+    ]
+  },
+
+  {
+    "topic": "Formal Linking Structures",
+    "use": "Conectar ideas formalmente",
+    "list": [
+      "in contrast",
+      "with regard to",
+      "in terms of",
+      "as far as"
+    ],
+    "examples": [
+      "In contrast, the results differ.",
+      "With regard to your question..."
+    ]
+  }
+]
