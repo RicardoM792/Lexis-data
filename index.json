@@ -12,74 +12,61 @@
   },
   "files": {
     "by_level": {
-      "A1": [
-        "A1/vocabulary.json",
-        "A1/grammar.json",
-        "A1/exercises.json",
-        "A1/irregular.json",
-        "A1/aud.json"
-      ],
-      "A2": [
-        "A2/vocabulary.json",
-        "A2/grammar.json",
-        "A2/exercises.json",
-        "A2/irregular.json",
-        "A2/aud.json"
-      ],
-      "B1": [
-        "B1/vocabulary.json",
-        "B1/grammar.json",
-        "B1/exercises.json",
-        "B1/irregular.json",
-        "B1/aud.json"
-      ],
-      "B2": [
-        "B2/vocabulary.json",
-        "B2/grammar.json",
-        "B2/exercises.json",
-        "B2/irregular.json",
-        "B2/aud.json"
-      ],
-      "C1": [
-        "C1/vocabulary.json",
-        "C1/grammar.json",
-        "C1/exercises.json",
-        "C1/irregular.json",
-        "C1/aud.json"
-      ],
-      "C2": [
-        "C2/vocabulary.json",
-        "C2/grammar.json",
-        "C2/exercises.json",
-        "C2/irregular.json",
-        "C2/aud.json"
-      ]
+      "A1": {
+        "vocabulary": "A1/vocabulary.json",
+        "grammar": "A1/Grammar.json",
+        "exercises": "A1/Exercises.json",
+        "irregular": "A1/Irregular.json",
+        "audio": "A1/Aud.json"
+      },
+      "A2": {
+        "vocabulary": "A2/vocabulary.json",
+        "grammar": "A2/Grammar.json",
+        "exercises": "A2/Exercises.json",
+        "irregular": "A2/Irregular.json",
+        "audio": "A2/Aud.json"
+      },
+      "B1": {
+        "vocabulary": "B1/vocabulary.json",
+        "grammar": "B1/Grammar.json",
+        "exercises": "B1/Exercises.json",
+        "irregular": "B1/Irregular.json",
+        "audio": "B1/Aud.json"
+      },
+      "B2": {
+        "vocabulary": "B2/vocabulary.json",
+        "grammar": "B2/Grammar.json",
+        "exercises": "B2/Exercises.json",
+        "irregular": "B2/Irregular.json",
+        "audio": "B2/Aud.json"
+      },
+      "C1": {
+        "vocabulary": "C1/vocabulary.json",
+        "grammar": "C1/Grammar.json",
+        "exercises": "C1/Exercises.json",
+        "irregular": "C1/Irregular.json",
+        "audio": "C1/Aud.json"
+      },
+      "C2": {
+        "vocabulary": "C2/vocabulary.json",
+        "grammar": "C2/Grammar.json",
+        "exercises": "C2/Exercises.json",
+        "irregular": "C2/Irregular.json",
+        "audio": "C2/Aud.json"
+      }
     },
     "by_topic": {
-      "adjectives": ["A1/adjectives.json", "A2/adjectives.json", "B1/adjectives.json", "B2/adjectives.json", "C1/adjectives.json", "C2/adjectives.json"],
-      "colors": ["A1/colors.json"],
-      "nouns": ["A1/nouns.json", "A2/nouns.json", "B1/nouns.json", "B2/nouns.json", "C1/nouns.json", "C2/nouns.json"],
-      "numbers": ["A1/numbers.json"],
-      "pronouns": ["A1/pronouns.json"],
-      "time": ["A1/time.json"],
-      "weather_seasons": ["A1/seasons-weather.json"]
+      "adjectives": "adjectives.json",
+      "colors": "colors.json",
+      "nouns": "nouns.json",
+      "numbers": "numbers.json",
+      "pronouns": "pronouns.json",
+      "time": "time.json",
+      "weather_seasons": "seasons-weather.json",
+      "rules": "rules.json"
     },
-    "grammar": [
-      "A1/grammar.json",
-      "A2/grammar.json",
-      "B1/grammar.json",
-      "B2/grammar.json",
-      "C1/grammar.json",
-      "C2/grammar.json"
-    ],
-    "verbs": [
-      "A1/irregular.json",
-      "A2/irregular.json",
-      "B1/irregular.json",
-      "B2/irregular.json",
-      "C1/irregular.json",
-      "C2/irregular.json"
-    ]
+    "index": "index.json",
+    "readme": "README.md"
   },
   "level_thresholds": {
     "A1": {"min": 0, "max": 100, "next": "A2", "words_to_master": 30, "description": "Breakthrough - Basic phrases and expressions"},
