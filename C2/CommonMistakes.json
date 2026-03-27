@@ -1,0 +1,12 @@
+[
+  {"wrong": "He is knowing the results", "correct": "He knows the results", "translation": "Él conoce los resultados"},
+  {"wrong": "I have went through the report", "correct": "I have gone through the report", "translation": "He revisado el informe"},
+  {"wrong": "She suggested me to consider the alternatives", "correct": "She suggested that I consider the alternatives", "translation": "Ella sugirió que considerara las alternativas"},
+  {"wrong": "They discussed about the consequences", "correct": "They discussed the consequences", "translation": "Discutieron las consecuencias"},
+  {"wrong": "I am used to to handle complex projects", "correct": "I am used to handling complex projects", "translation": "Estoy acostumbrado a manejar proyectos complejos"},
+  {"wrong": "He insisted me joining the meeting", "correct": "He insisted on my joining the meeting", "translation": "Él insistió en que asistiera a la reunión"},
+  {"wrong": "I will be able of completing the task", "correct": "I will be able to complete the task", "translation": "Podré completar la tarea"},
+  {"wrong": "She was married with a diplomat", "correct": "She was married to a diplomat", "translation": "Ella estaba casada con un diplomático"},
+  {"wrong": "We look forward meeting you", "correct": "We look forward to meeting you", "translation": "Esperamos verte"},
+  {"wrong": "He apologized about the inconvenience", "correct": "He apologized for the inconvenience", "translation": "Él se disculpó por las molestias"}
+]
