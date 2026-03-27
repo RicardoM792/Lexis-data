@@ -1,1 +1,179 @@
+[
+  {"id":"A1_001","type":"multiple_choice","q":"I ___ a student.","options":["am","is","are"],"a":"am"},
+  {"id":"A1_002","type":"multiple_choice","q":"She ___ happy.","options":["am","is","are"],"a":"is"},
+  {"id":"A1_003","type":"multiple_choice","q":"They ___ here.","options":["am","is","are"],"a":"are"},
+  {"id":"A1_004","type":"fill","q":"I ___ tired.","a":"am"},
+  {"id":"A1_005","type":"fill","q":"He ___ my friend.","a":"is"},
+  {"id":"A1_006","type":"fill","q":"We ___ ready.","a":"are"},
 
+  {"id":"A1_007","type":"multiple_choice","q":"She ___ every day.","options":["work","works","working"],"a":"works"},
+  {"id":"A1_008","type":"multiple_choice","q":"I ___ soccer.","options":["play","plays","playing"],"a":"play"},
+  {"id":"A1_009","type":"fill","q":"He ___ (eat) breakfast.","a":"eats"},
+  {"id":"A1_010","type":"error","q":"She work every day.","a":"She works every day."},
+
+  {"id":"A1_011","type":"multiple_choice","q":"___ apple","options":["A","An","The"],"a":"An"},
+  {"id":"A1_012","type":"multiple_choice","q":"___ dog","options":["A","An","The"],"a":"A"},
+  {"id":"A1_013","type":"multiple_choice","q":"___ sun","options":["A","An","The"],"a":"The"},
+
+  {"id":"A1_014","type":"fill","q":"This is ___ book (yo).","a":"my"},
+  {"id":"A1_015","type":"fill","q":"That is ___ car (ellos).","a":"their"},
+
+  {"id":"A1_016","type":"multiple_choice","q":"I ___ swim.","options":["can","am","do"],"a":"can"},
+  {"id":"A1_017","type":"multiple_choice","q":"___ you help me?","options":["Can","Do","Are"],"a":"Can"},
+
+  {"id":"A1_018","type":"multiple_choice","q":"The cat is ___ the table.","options":["on","in","at"],"a":"on"},
+  {"id":"A1_019","type":"multiple_choice","q":"The dog is ___ the house.","options":["in","on","at"],"a":"in"},
+
+  {"id":"A1_020","type":"fill","q":"There ___ a car.","a":"is"},
+  {"id":"A1_021","type":"fill","q":"There ___ two cars.","a":"are"},
+
+  {"id":"A1_022","type":"multiple_choice","q":"Do you ___ coffee?","options":["like","likes","liked"],"a":"like"},
+  {"id":"A1_023","type":"multiple_choice","q":"Does she ___ pizza?","options":["like","likes","liked"],"a":"like"},
+
+  {"id":"A1_024","type":"order","words":["She","is","happy"],"a":["She","is","happy"]},
+  {"id":"A1_025","type":"order","words":["They","are","friends"],"a":["They","are","friends"]},
+
+  {"id":"A1_026","type":"translation","q_es":"Yo soy feliz","a":"I am happy"},
+  {"id":"A1_027","type":"translation","q_es":"Ella es doctora","a":"She is a doctor"},
+
+  {"id":"A1_028","type":"multiple_choice","q":"One cat, two ___","options":["cats","cat","cates"],"a":"cats"},
+  {"id":"A1_029","type":"multiple_choice","q":"One child, two ___","options":["childs","children","childes"],"a":"children"},
+
+  {"id":"A1_030","type":"multiple_choice","q":"I ___ eat breakfast.","options":["always","never","sometimes"],"a":"always"},
+  {"id":"A1_031","type":"multiple_choice","q":"She ___ eats fast food.","options":["never","always","often"],"a":"never"},
+
+  {"id":"A1_032","type":"fill","q":"___ you like coffee?","a":"Do"},
+  {"id":"A1_033","type":"fill","q":"___ she work?","a":"Does"},
+
+  {"id":"A1_034","type":"error","q":"They is here.","a":"They are here"},
+  {"id":"A1_035","type":"error","q":"He go to school.","a":"He goes to school"},
+
+  {"id":"A1_036","type":"multiple_choice","q":"Where ___ you live?","options":["do","does","are"],"a":"do"},
+  {"id":"A1_037","type":"multiple_choice","q":"What ___ she do?","options":["do","does","is"],"a":"does"},
+
+  {"id":"A1_038","type":"fill","q":"I ___ (go) to school.","a":"go"},
+  {"id":"A1_039","type":"fill","q":"She ___ (go) to school.","a":"goes"},
+
+  {"id":"A1_040","type":"multiple_choice","q":"This is ___ house.","options":["my","me","I"],"a":"my"},
+
+  {"id":"A1_041","type":"reading","text":"Ana is a student. She lives in a big house.","q":"Where does she live?","a":"in a big house"},
+
+  {"id":"A1_042","type":"listening","audio":"a1_002.mp3","q":"What is said?","options":["I am happy","I am sad"],"a":"I am happy"},
+
+  {"id":"A1_043","type":"flashcard","front":"cat","back":"gato"},
+  {"id":"A1_044","type":"flashcard","front":"house","back":"casa"},
+
+  {"id":"A1_045","type":"multiple_choice","q":"He ___ a car.","options":["have","has","having"],"a":"has"},
+  {"id":"A1_046","type":"multiple_choice","q":"I ___ a car.","options":["have","has","having"],"a":"have"},
+
+  {"id":"A1_047","type":"fill","q":"She ___ (have) a dog.","a":"has"},
+  {"id":"A1_048","type":"fill","q":"I ___ (have) a dog.","a":"have"},
+
+  {"id":"A1_049","type":"multiple_choice","q":"The book is ___ the table.","options":["on","in","under"],"a":"on"},
+  {"id":"A1_050","type":"multiple_choice","q":"The cat is ___ the table.","options":["under","on","at"],"a":"under"},
+
+  {"id":"A1_051","type":"order","words":["I","am","ready"],"a":["I","am","ready"]},
+  {"id":"A1_052","type":"order","words":["She","likes","music"],"a":["She","likes","music"]},
+
+  {"id":"A1_053","type":"translation","q_es":"Ellos están aquí","a":"They are here"},
+  {"id":"A1_054","type":"translation","q_es":"Nosotros trabajamos","a":"We work"},
+
+  {"id":"A1_055","type":"multiple_choice","q":"___ you a student?","options":["Are","Is","Am"],"a":"Are"},
+  {"id":"A1_056","type":"multiple_choice","q":"___ she happy?","options":["Are","Is","Am"],"a":"Is"},
+
+  {"id":"A1_057","type":"fill","q":"She ___ not happy.","a":"is"},
+  {"id":"A1_058","type":"fill","q":"They ___ not ready.","a":"are"},
+
+  {"id":"A1_059","type":"multiple_choice","q":"I ___ not tired.","options":["am","is","are"],"a":"am"},
+  {"id":"A1_060","type":"multiple_choice","q":"He ___ not here.","options":["am","is","are"],"a":"is"},
+
+  {"id":"A1_061","type":"multiple_choice","q":"We ___ not late.","options":["am","is","are"],"a":"are"},
+  {"id":"A1_062","type":"multiple_choice","q":"She ___ coffee.","options":["drink","drinks","drinking"],"a":"drinks"},
+
+  {"id":"A1_063","type":"fill","q":"He ___ (run) fast.","a":"runs"},
+  {"id":"A1_064","type":"fill","q":"They ___ (run) fast.","a":"run"},
+
+  {"id":"A1_065","type":"error","q":"She don't like coffee.","a":"She doesn't like coffee"},
+  {"id":"A1_066","type":"error","q":"He do homework.","a":"He does homework"},
+
+  {"id":"A1_067","type":"multiple_choice","q":"I ___ TV.","options":["watch","watches","watching"],"a":"watch"},
+  {"id":"A1_068","type":"multiple_choice","q":"She ___ TV.","options":["watch","watches","watching"],"a":"watches"},
+
+  {"id":"A1_069","type":"fill","q":"We ___ (study).","a":"study"},
+  {"id":"A1_070","type":"fill","q":"He ___ (study).","a":"studies"},
+
+  {"id":"A1_071","type":"multiple_choice","q":"The pen is ___ the bag.","options":["in","on","at"],"a":"in"},
+  {"id":"A1_072","type":"multiple_choice","q":"The dog is ___ the chair.","options":["under","on","in"],"a":"under"},
+
+  {"id":"A1_073","type":"translation","q_es":"Ella vive aquí","a":"She lives here"},
+  {"id":"A1_074","type":"translation","q_es":"Yo trabajo mucho","a":"I work a lot"},
+
+  {"id":"A1_075","type":"multiple_choice","q":"___ is your name?","options":["What","Where","Who"],"a":"What"},
+  {"id":"A1_076","type":"multiple_choice","q":"___ do you live?","options":["Where","What","Why"],"a":"Where"},
+
+  {"id":"A1_077","type":"fill","q":"I ___ (like) music.","a":"like"},
+  {"id":"A1_078","type":"fill","q":"She ___ (like) music.","a":"likes"},
+
+  {"id":"A1_079","type":"multiple_choice","q":"We ___ soccer.","options":["play","plays","playing"],"a":"play"},
+  {"id":"A1_080","type":"multiple_choice","q":"He ___ soccer.","options":["play","plays","playing"],"a":"plays"},
+
+  {"id":"A1_081","type":"flashcard","front":"water","back":"agua"},
+  {"id":"A1_082","type":"flashcard","front":"food","back":"comida"},
+
+  {"id":"A1_083","type":"reading","text":"Tom works every day. He drinks coffee.","q":"What does he drink?","a":"coffee"},
+  {"id":"A1_084","type":"reading","text":"Sara has a dog. The dog is big.","q":"What does Sara have?","a":"a dog"},
+
+  {"id":"A1_085","type":"multiple_choice","q":"I ___ coffee.","options":["drink","drinks","drinking"],"a":"drink"},
+  {"id":"A1_086","type":"multiple_choice","q":"She ___ coffee.","options":["drink","drinks","drinking"],"a":"drinks"},
+
+  {"id":"A1_087","type":"fill","q":"They ___ (eat).","a":"eat"},
+  {"id":"A1_088","type":"fill","q":"He ___ (eat).","a":"eats"},
+
+  {"id":"A1_089","type":"multiple_choice","q":"___ you like it?","options":["Do","Does","Are"],"a":"Do"},
+  {"id":"A1_090","type":"multiple_choice","q":"___ she like it?","options":["Do","Does","Are"],"a":"Does"},
+
+  {"id":"A1_091","type":"order","words":["Do","you","work"],"a":["Do","you","work"]},
+  {"id":"A1_092","type":"order","words":["Does","he","run"],"a":["Does","he","run"]},
+
+  {"id":"A1_093","type":"multiple_choice","q":"I ___ tired.","options":["am","is","are"],"a":"am"},
+  {"id":"A1_094","type":"multiple_choice","q":"They ___ tired.","options":["am","is","are"],"a":"are"},
+
+  {"id":"A1_095","type":"fill","q":"She ___ (be) happy.","a":"is"},
+  {"id":"A1_096","type":"fill","q":"We ___ (be) happy.","a":"are"},
+
+  {"id":"A1_097","type":"multiple_choice","q":"The keys are ___ the table.","options":["on","in","under"],"a":"on"},
+  {"id":"A1_098","type":"multiple_choice","q":"The phone is ___ the bag.","options":["in","on","at"],"a":"in"},
+
+  {"id":"A1_099","type":"translation","q_es":"Ellos comen","a":"They eat"},
+  {"id":"A1_100","type":"translation","q_es":"Ella corre","a":"She runs"},
+
+  {"id":"A1_101","type":"multiple_choice","q":"I ___ not work.","options":["do","does","am"],"a":"do"},
+  {"id":"A1_102","type":"multiple_choice","q":"She ___ not work.","options":["do","does","am"],"a":"does"},
+
+  {"id":"A1_103","type":"fill","q":"I ___ not like it.","a":"do"},
+  {"id":"A1_104","type":"fill","q":"She ___ not like it.","a":"does"},
+
+  {"id":"A1_105","type":"error","q":"He don't eat.","a":"He doesn't eat"},
+  {"id":"A1_106","type":"error","q":"They doesn't go.","a":"They don't go"},
+
+  {"id":"A1_107","type":"multiple_choice","q":"I ___ always study.","options":["am","do","-"],"a":"-"},
+  {"id":"A1_108","type":"multiple_choice","q":"She ___ always studies.","options":["am","does","-"],"a":"-"},
+
+  {"id":"A1_109","type":"flashcard","front":"car","back":"carro"},
+  {"id":"A1_110","type":"flashcard","front":"book","back":"libro"},
+
+  {"id":"A1_111","type":"reading","text":"He plays soccer. He is happy.","q":"What does he play?","a":"soccer"},
+  {"id":"A1_112","type":"reading","text":"They live in a house.","q":"Where do they live?","a":"in a house"},
+
+  {"id":"A1_113","type":"multiple_choice","q":"I ___ English.","options":["study","studies","studying"],"a":"study"},
+  {"id":"A1_114","type":"multiple_choice","q":"She ___ English.","options":["study","studies","studying"],"a":"studies"},
+
+  {"id":"A1_115","type":"fill","q":"We ___ (learn).","a":"learn"},
+  {"id":"A1_116","type":"fill","q":"He ___ (learn).","a":"learns"},
+
+  {"id":"A1_117","type":"multiple_choice","q":"___ they work?","options":["Do","Does","Are"],"a":"Do"},
+  {"id":"A1_118","type":"multiple_choice","q":"___ he work?","options":["Do","Does","Are"],"a":"Does"},
+
+  {"id":"A1_119","type":"translation","q_es":"¿Trabajas?","a":"Do you work?"},
+  {"id":"A1_120","type":"translation","q_es":"¿Ella trabaja?","a":"Does she work?"}
+]
