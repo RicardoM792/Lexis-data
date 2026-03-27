@@ -6,53 +6,101 @@
   "metadata": {
     "total_words": 20000,
     "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
-    "categories": ["adjectives", "nouns", "verbs", "pronouns", "numbers", "time", "weather"],
+    "file_types": [
+      "Aud.json",
+      "CommonMistakes.json",
+      "Exercis.json",
+      "Grammar.json",
+      "Irregular.json",
+      "Negations.json",
+      "PhrasalVerbs.json",
+      "Punctuation.json",
+      "Questions.json",
+      "Slang.json",
+      "Vocabular.json"
+    ],
     "last_updated": "2026-03-27",
     "license": "CC BY-SA 4.0"
   },
   "files": {
     "by_level": {
       "A1": {
-        "vocabulary": "A1/vocabulary.json",
+        "audio": "A1/Aud.json",
+        "common_mistakes": "A1/CommonMistakes.json",
+        "exercises": "A1/Exercis.json",
         "grammar": "A1/Grammar.json",
-        "exercises": "A1/Exercises.json",
-        "irregular": "A1/Irregular.json",
-        "audio": "A1/Aud.json"
+        "irregular_verbs": "A1/Irregular.json",
+        "negations": "A1/Negations.json",
+        "phrasal_verbs": "A1/PhrasalVerbs.json",
+        "punctuation": "A1/Punctuation.json",
+        "questions": "A1/Questions.json",
+        "slang": "A1/Slang.json",
+        "vocabulary": "A1/Vocabular.json"
       },
       "A2": {
-        "vocabulary": "A2/vocabulary.json",
+        "audio": "A2/Aud.json",
+        "common_mistakes": "A2/CommonMistakes.json",
+        "exercises": "A2/Exercis.json",
         "grammar": "A2/Grammar.json",
-        "exercises": "A2/Exercises.json",
-        "irregular": "A2/Irregular.json",
-        "audio": "A2/Aud.json"
+        "irregular_verbs": "A2/Irregular.json",
+        "negations": "A2/Negations.json",
+        "phrasal_verbs": "A2/PhrasalVerbs.json",
+        "punctuation": "A2/Punctuation.json",
+        "questions": "A2/Questions.json",
+        "slang": "A2/Slang.json",
+        "vocabulary": "A2/Vocabular.json"
       },
       "B1": {
-        "vocabulary": "B1/vocabulary.json",
+        "audio": "B1/Aud.json",
+        "common_mistakes": "B1/CommonMistakes.json",
+        "exercises": "B1/Exercis.json",
         "grammar": "B1/Grammar.json",
-        "exercises": "B1/Exercises.json",
-        "irregular": "B1/Irregular.json",
-        "audio": "B1/Aud.json"
+        "irregular_verbs": "B1/Irregular.json",
+        "negations": "B1/Negations.json",
+        "phrasal_verbs": "B1/PhrasalVerbs.json",
+        "punctuation": "B1/Punctuation.json",
+        "questions": "B1/Questions.json",
+        "slang": "B1/Slang.json",
+        "vocabulary": "B1/Vocabular.json"
       },
       "B2": {
-        "vocabulary": "B2/vocabulary.json",
+        "audio": "B2/Aud.json",
+        "common_mistakes": "B2/CommonMistakes.json",
+        "exercises": "B2/Exercis.json",
         "grammar": "B2/Grammar.json",
-        "exercises": "B2/Exercises.json",
-        "irregular": "B2/Irregular.json",
-        "audio": "B2/Aud.json"
+        "irregular_verbs": "B2/Irregular.json",
+        "negations": "B2/Negations.json",
+        "phrasal_verbs": "B2/PhrasalVerbs.json",
+        "punctuation": "B2/Punctuation.json",
+        "questions": "B2/Questions.json",
+        "slang": "B2/Slang.json",
+        "vocabulary": "B2/Vocabular.json"
       },
       "C1": {
-        "vocabulary": "C1/vocabulary.json",
+        "audio": "C1/Aud.json",
+        "common_mistakes": "C1/CommonMistakes.json",
+        "exercises": "C1/Exercis.json",
         "grammar": "C1/Grammar.json",
-        "exercises": "C1/Exercises.json",
-        "irregular": "C1/Irregular.json",
-        "audio": "C1/Aud.json"
+        "irregular_verbs": "C1/Irregular.json",
+        "negations": "C1/Negations.json",
+        "phrasal_verbs": "C1/PhrasalVerbs.json",
+        "punctuation": "C1/Punctuation.json",
+        "questions": "C1/Questions.json",
+        "slang": "C1/Slang.json",
+        "vocabulary": "C1/Vocabular.json"
       },
       "C2": {
-        "vocabulary": "C2/vocabulary.json",
+        "audio": "C2/Aud.json",
+        "common_mistakes": "C2/CommonMistakes.json",
+        "exercises": "C2/Exercis.json",
         "grammar": "C2/Grammar.json",
-        "exercises": "C2/Exercises.json",
-        "irregular": "C2/Irregular.json",
-        "audio": "C2/Aud.json"
+        "irregular_verbs": "C2/Irregular.json",
+        "negations": "C2/Negations.json",
+        "phrasal_verbs": "C2/PhrasalVerbs.json",
+        "punctuation": "C2/Punctuation.json",
+        "questions": "C2/Questions.json",
+        "slang": "C2/Slang.json",
+        "vocabulary": "C2/Vocabular.json"
       }
     },
     "by_topic": {
@@ -82,5 +130,23 @@
     "practice_correct": 15,
     "daily_streak_bonus": 5,
     "level_up_bonus": 100
+  },
+  "file_validation": {
+    "total_files": 66,
+    "levels_count": 6,
+    "files_per_level": 11,
+    "expected_files": [
+      "Aud.json",
+      "CommonMistakes.json",
+      "Exercis.json",
+      "Grammar.json",
+      "Irregular.json",
+      "Negations.json",
+      "PhrasalVerbs.json",
+      "Punctuation.json",
+      "Questions.json",
+      "Slang.json",
+      "Vocabular.json"
+    ]
   }
 }
