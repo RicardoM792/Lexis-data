@@ -1,0 +1,23 @@
+[
+  {"wrong": "I have saw that movie", "correct": "I have seen that movie", "translation": "He visto esa película"},
+  {"wrong": "She didn't went to school", "correct": "She didn't go to school", "translation": "Ella no fue a la escuela"},
+  {"wrong": "He don't like pizza", "correct": "He doesn't like pizza", "translation": "A él no le gusta la pizza"},
+  {"wrong": "We was at home", "correct": "We were at home", "translation": "Estábamos en casa"},
+  {"wrong": "I am lived here for two years", "correct": "I have lived here for two years", "translation": "He vivido aquí dos años"},
+  {"wrong": "She has went to London", "correct": "She has gone to London", "translation": "Ella ha ido a Londres"},
+  {"wrong": "I have ate breakfast", "correct": "I have eaten breakfast", "translation": "He desayunado"},
+  {"wrong": "He didn't saw me", "correct": "He didn't see me", "translation": "Él no me vio"},
+  {"wrong": "I will going to help you", "correct": "I will help you", "translation": "Te ayudaré"},
+  {"wrong": "She don't has any money", "correct": "She doesn't have any money", "translation": "Ella no tiene dinero"},
+
+  {"wrong": "I am knowing him", "correct": "I know him", "translation": "Lo conozco"},
+  {"wrong": "They isn't coming", "correct": "They aren't coming", "translation": "No vienen"},
+  {"wrong": "I no can do it", "correct": "I cannot do it", "translation": "No puedo hacerlo"},
+  {"wrong": "He am tired", "correct": "He is tired", "translation": "Él está cansado"},
+  {"wrong": "She no wanted to go", "correct": "She didn't want to go", "translation": "Ella no quería ir"},
+  {"wrong": "We was not ready", "correct": "We were not ready", "translation": "No estábamos listos"},
+  {"wrong": "He do not likes it", "correct": "He does not like it", "translation": "A él no le gusta"},
+  {"wrong": "I haven't saw that", "correct": "I haven't seen that", "translation": "No he visto eso"},
+  {"wrong": "She hasn't went there", "correct": "She hasn't gone there", "translation": "Ella no ha ido allí"},
+  {"wrong": "I will going tomorrow", "correct": "I will go tomorrow", "translation": "Iré mañana"}
+]
