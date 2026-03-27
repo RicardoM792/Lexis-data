@@ -1,0 +1,19 @@
+[
+  {"rule": "Use commas for non-essential clauses", "example": "My brother, who lives in London, is visiting.", "translation": "Usa comas para cláusulas no esenciales"},
+  {"rule": "Use semicolons to separate complex list items", "example": "I visited Paris, France; Berlin, Germany; and Rome, Italy.", "translation": "Usa punto y coma para separar elementos complejos en listas"},
+  {"rule": "Use colons to introduce lists or explanations", "example": "She brought everything: pens, notebooks, and books.", "translation": "Usa dos puntos para introducir listas o explicaciones"},
+  {"rule": "Use dashes for emphasis or additional info", "example": "I finally met him — the author I admire — yesterday.", "translation": "Usa guiones para énfasis o info adicional"},
+  {"rule": "Use parentheses for supplementary info", "example": "I met John (my former teacher) yesterday.", "translation": "Usa paréntesis para info suplementaria"},
+
+  {"rule": "Use quotation marks for reported speech", "example": "He said, \"I will be late.\"", "translation": "Comillas para discurso reportado"},
+  {"rule": "Use apostrophes for contractions and possession", "example": "It's John's book.", "translation": "Apóstrofes para contracciones y posesión"},
+  {"rule": "Use exclamation marks sparingly for strong emotion", "example": "Watch out!", "translation": "Signos de exclamación para emoción fuerte"},
+  {"rule": "Use question marks for direct questions", "example": "Where are you going?", "translation": "Signos de pregunta para preguntas directas"},
+  {"rule": "Capitalize proper nouns and beginnings of sentences", "example": "I visited Rome last summer.", "translation": "Mayúsculas en nombres propios y comienzo de oraciones"},
+
+  {"rule": "Use commas after introductory phrases", "example": "After the meeting, we went to lunch.", "translation": "Comas después de frases introductorias"},
+  {"rule": "Use commas to separate adjectives of equal rank", "example": "It was a long, tiring day.", "translation": "Comas para separar adjetivos de igual rango"},
+  {"rule": "Use periods inside quotes for complete sentences", "example": "He said, \"I am tired.\"", "translation": "Punto dentro de comillas para oraciones completas"},
+  {"rule": "Use hyphens for compound adjectives before nouns", "example": "A well-known author wrote it.", "translation": "Guiones en adjetivos compuestos antes de un sustantivo"},
+  {"rule": "Use ellipses to indicate omitted words or trailing off", "example": "I was thinking... maybe we should wait.", "translation": "Puntos suspensivos para omitir palabras o dejar incompleto"}
+]
