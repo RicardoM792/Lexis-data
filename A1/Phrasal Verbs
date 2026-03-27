@@ -1,0 +1,12 @@
+[
+  {"word":"get up","es":"levantarse","ipa":"/ɡɛt ʌp/","type":"phrasal verb","topic":"daily routine","level":"A1","meaning":"to leave bed after sleeping","example":"I get up at 7 AM.","example_es":"Me levanto a las 7 AM."},
+  {"word":"wake up","es":"despertarse","ipa":"/weɪk ʌp/","type":"phrasal verb","topic":"daily routine","level":"A1","meaning":"to stop sleeping","example":"I wake up early.","example_es":"Me despierto temprano."},
+  {"word":"sit down","es":"sentarse","ipa":"/sɪt daʊn/","type":"phrasal verb","topic":"actions","level":"A1","meaning":"to take a seat","example":"Please sit down.","example_es":"Por favor siéntate."},
+  {"word":"stand up","es":"levantarse","ipa":"/stænd ʌp/","type":"phrasal verb","topic":"actions","level":"A1","meaning":"to rise to your feet","example":"Stand up, please.","example_es":"Levántate, por favor."},
+  {"word":"go out","es":"salir","ipa":"/ɡoʊ aʊt/","type":"phrasal verb","topic":"social","level":"A1","meaning":"to leave home","example":"I go out with my friends.","example_es":"Salgo con mis amigos."},
+  {"word":"come in","es":"entrar","ipa":"/kʌm ɪn/","type":"phrasal verb","topic":"movement","level":"A1","meaning":"to enter","example":"Come in, please.","example_es":"Entra, por favor."},
+  {"word":"turn on","es":"encender","ipa":"/tɜːrn ɒn/","type":"phrasal verb","topic":"technology","level":"A1","meaning":"to start a device","example":"Turn on the TV.","example_es":"Enciende la tele."},
+  {"word":"turn off","es":"apagar","ipa":"/tɜːrn ɒf/","type":"phrasal verb","topic":"technology","level":"A1","meaning":"to stop a device","example":"Turn off the light.","example_es":"Apaga la luz."},
+  {"word":"put on","es":"ponerse","ipa":"/pʊt ɒn/","type":"phrasal verb","topic":"clothing","level":"A1","meaning":"to dress yourself","example":"Put on your shoes.","example_es":"Ponte los zapatos."},
+  {"word":"take off","es":"quitarse","ipa":"/teɪk ɒf/","type":"phrasal verb","topic":"clothing","level":"A1","meaning":"to remove clothing","example":"Take off your jacket.","example_es":"Quítate la chaqueta."}
+]
